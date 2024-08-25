@@ -52,7 +52,10 @@ if __name__ == "__main__":
      runsingleTest(threshold=-1,
                    data_threshold=6144, # Load 6144 characters
                    detector='Python sniffer')
-     """ 
      runsingleTest(threshold=-1, 
                    data_threshold=-1, # Load all file
                    detector='CleverCSV') 
+     """ 
+     runsingleTest(threshold=10, # Load 10 records
+                   data_threshold=-1, 
+                   detector='CSVsniffer') 
