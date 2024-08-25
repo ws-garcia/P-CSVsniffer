@@ -27,7 +27,7 @@ class grammar_helper:
         pass
 
     def get_delimiter_name(self, delim:str)->str:
-        if delim == ',':
+        if delim == ',' or delim == '':
             return 'comma'
         elif delim == ';':
             return 'semicolon'
