@@ -25,12 +25,12 @@ X [articles.csv]: --> No result from CSVsniffer
 +[association.csv]: --> CSVsniffer detected: delimiter = ';', quotechar = '"'
 +[awaymanagers-data.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
 +[bandwidth-2011-08-21-1MHz-175MHz.csv]: --> CSVsniffer detected: delimiter = '\t', quotechar = '"'
-X[baselog.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = "'"| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
+X[baselog.csv]: --> CSVsniffer detected: delimiter = '|', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
 +[benchmark.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
 +[BIO.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
 X [Blizak_2010.csv]: --> No result from CSVsniffer
 +[blocks.csv]: --> CSVsniffer detected: delimiter = ';', quotechar = '"'
-X[book.csv]: --> CSVsniffer detected: delimiter = ' ', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
+X[book.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = "'"| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
 +[bookings.csv]: --> CSVsniffer detected: delimiter = ';', quotechar = '"'
 X[bugs.csv]: --> CSVsniffer detected: delimiter = ':', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
 +[CalculusComponents.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
@@ -100,7 +100,7 @@ X[JV_newsite_IBC_current_20110517.csv]: --> CSVsniffer detected: delimiter = ','
 +[library_data.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
 +[libros.csv]: --> CSVsniffer detected: delimiter = ';', quotechar = '"'
 +[limesurvey_survey_94328.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
-X[linodef_bueditor_button.csv]: --> CSVsniffer detected: delimiter = ' ', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[linodef_bueditor_button.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
 +[load_fund_structure_data.csv]: --> CSVsniffer detected: delimiter = ';', quotechar = '"'
 +[maatkit-issues.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
 +[Mage_Adminhtml.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
@@ -177,16 +177,16 @@ X [tweets.csv]: --> No result from CSVsniffer
 +[xlsws_category_amazon.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
 +[zips.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
 +[Zipssortedbycitystate.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
-[Passed test ratio]--: 89.6774%
-[Delimiter ratio]--: 91.6129%
+[Passed test ratio]--: 90.3226%
+[Delimiter ratio]--: 92.2581%
 [Failure ratio]--: 13.4078%
-[Elapsed time]--: 7.02 seconds
+[Elapsed time]--: 9.87 seconds
 <---------------------------------------------------------------------------------------->
-True Positive (TP): 139
-False Positive (FP): 16
+True Positive (TP): 140
+False Positive (FP): 15
 False Negative (FN): 24
 #
-Precision (P): 0.8968
-Recall (R): 0.8528
-F1 score: 0.8742
-Weighted F1 score for 179 files: 121.5138
+Precision (P): 0.9032
+Recall (R): 0.8537
+F1 score: 0.8778
+Weighted F1 score for 179 files: 122.89200000000001
