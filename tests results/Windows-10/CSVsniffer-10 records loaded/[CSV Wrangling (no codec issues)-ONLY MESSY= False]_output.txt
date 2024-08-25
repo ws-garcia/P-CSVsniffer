@@ -18,7 +18,7 @@ X[admins.csv]: --> CSVsniffer detected: delimiter = '#', quotechar = '"'| EXPECT
 +[association.csv]: --> CSVsniffer detected: delimiter = ';', quotechar = '"'
 +[awaymanagers-data.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
 +[bandwidth-2011-08-21-1MHz-175MHz.csv]: --> CSVsniffer detected: delimiter = '\t', quotechar = '"'
-X[baselog.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = "'"| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
+X[baselog.csv]: --> CSVsniffer detected: delimiter = '|', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
 +[benchmark.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
 +[BIO.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
 +[blocks.csv]: --> CSVsniffer detected: delimiter = ';', quotechar = '"'
@@ -72,7 +72,7 @@ X[JV_newsite_IBC_current_20110517.csv]: --> CSVsniffer detected: delimiter = ','
 +[keyword-count.csv]: --> CSVsniffer detected: delimiter = ';', quotechar = '"'
 +[kodepos-2008-10-20.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
 +[limesurvey_survey_94328.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
-X[linodef_bueditor_button.csv]: --> CSVsniffer detected: delimiter = ' ', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[linodef_bueditor_button.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
 +[load_fund_structure_data.csv]: --> CSVsniffer detected: delimiter = ';', quotechar = '"'
 +[maatkit-issues.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
 +[Mage_Adminhtml.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
@@ -140,16 +140,16 @@ X[task4_pad.csv]: --> CSVsniffer detected: delimiter = ':', quotechar = '"'| EXP
 +[xlsws_category_amazon.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
 +[zips.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
 +[Zipssortedbycitystate.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
-[Passed test ratio]--: 90.1408%
+[Passed test ratio]--: 90.8451%
 [Delimiter ratio]--: 92.2535%
 [Failure ratio]--: 0.0%
-[Elapsed time]--: 5.94 seconds
+[Elapsed time]--: 6.2 seconds
 <---------------------------------------------------------------------------------------->
-True Positive (TP): 128
-False Positive (FP): 14
+True Positive (TP): 129
+False Positive (FP): 13
 False Negative (FN): 0
 #
-Precision (P): 0.9014
+Precision (P): 0.9085
 Recall (R): 1.0
-F1 score: 0.9481
-Weighted F1 score for 142 files: 121.3568
+F1 score: 0.9521
+Weighted F1 score for 142 files: 122.8209
