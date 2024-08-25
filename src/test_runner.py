@@ -45,6 +45,12 @@ class grammar_helper:
             return 'eqsign'
         elif delim== '*':
             return 'star'
+        elif delim== '%':
+            return 'percentage'
+        elif delim== '&':
+            return 'ampersand'
+        elif delim== '^':
+            return 'caret'
     
     def get_encoding(self, _alias: str)->str:
         if _alias == 'utf8':
@@ -67,6 +73,8 @@ class grammar_helper:
             return 'singlequote'
         elif quote == '~':
             return 'tilde'
+        elif quote == '`':
+            return 'grave_accent'
     
     def get_escape_char_name(self, char:str)->str:
         if char == '"' or char == '':
