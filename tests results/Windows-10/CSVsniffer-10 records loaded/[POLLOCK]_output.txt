@@ -85,8 +85,8 @@ X[dd_Wickenburg_nobmp_623.csv]: --> CSVsniffer detected: delimiter = ',', quotec
 +[over25k-transparency.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
 +[permanent_secretary_and_director_general_expenses_and_hospitality_april_to_june_2012.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
 X[picasso.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'| EXPECTED:{delimiter = 'tab', quotechar = 'doublequote'}
-X[Pipe character is more frequent than the comma.csv]: --> CSVsniffer detected: delimiter = '|', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
-X[Pipe character is more frequent than the semicolon.csv]: --> CSVsniffer detected: delimiter = '|', quotechar = '"'| EXPECTED:{delimiter = 'semicolon', quotechar = 'doublequote'}
+X [Pipe character is more frequent than the comma.csv]: --> No result from CSVsniffer
+X [Pipe character is more frequent than the semicolon.csv]: --> No result from CSVsniffer
 +[planning-application-aug-17.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
 +[PLA_6%Talc-1hz.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
 +[prison-and-probation-ombudsman__30-09-2014__justice_PPO-September-Return-senior.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
@@ -146,16 +146,16 @@ X[Undefined field delimiter.csv]: --> CSVsniffer detected: delimiter = '\t', quo
 +[Wakefield Council Procurement Card Transactions 2018-19 Q2.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
 +[Wine_Cellar_Consumption_dataset_14-15.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
 +[workforce-management-information-dft_201706.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
-[Passed test ratio]--: 96.6216%
-[Delimiter ratio]--: 96.6216%
-[Failure ratio]--: 0.0%
-[Elapsed time]--: 8.4 seconds
+[Passed test ratio]--: 97.9452%
+[Delimiter ratio]--: 97.9452%
+[Failure ratio]--: 1.3514%
+[Elapsed time]--: 10.81 seconds
 <---------------------------------------------------------------------------------------->
 True Positive (TP): 143
-False Positive (FP): 5
-False Negative (FN): 0
+False Positive (FP): 3
+False Negative (FN): 2
 #
-Precision (P): 0.9662
-Recall (R): 1.0
+Precision (P): 0.9795
+Recall (R): 0.9862
 F1 score: 0.9828
 Weighted F1 score for 148 files: 140.5404

@@ -15,7 +15,7 @@ X[admins.csv]: --> CSVsniffer detected: delimiter = '#', quotechar = '"'| EXPECT
 +[AllUseCasesOrdered.csv]: --> CSVsniffer detected: delimiter = '|', quotechar = '"'
 +[answer.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
 +[association.csv]: --> CSVsniffer detected: delimiter = ';', quotechar = '"'
-X[baselog.csv]: --> CSVsniffer detected: delimiter = '|', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
+X[baselog.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = "'"| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
 +[benchmark.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
 +[BIO.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
 +[blocks.csv]: --> CSVsniffer detected: delimiter = ';', quotechar = '"'
@@ -64,7 +64,7 @@ X[JV_newsite_IBC_current_20110517.csv]: --> CSVsniffer detected: delimiter = ','
 +[keyword-count.csv]: --> CSVsniffer detected: delimiter = ';', quotechar = '"'
 +[kodepos-2008-10-20.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
 +[limesurvey_survey_94328.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
-+[linodef_bueditor_button.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
+X[linodef_bueditor_button.csv]: --> CSVsniffer detected: delimiter = ' ', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
 +[load_fund_structure_data.csv]: --> CSVsniffer detected: delimiter = ';', quotechar = '"'
 +[maatkit-issues.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
 +[Mage_Adminhtml.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
@@ -124,16 +124,16 @@ X[task4_pad.csv]: --> CSVsniffer detected: delimiter = ':', quotechar = '"'| EXP
 +[weapondef.csv]: --> CSVsniffer detected: delimiter = '|', quotechar = '"'
 +[xlsws_category_amazon.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
 +[zips.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
-[Passed test ratio]--: 80.2817%
+[Passed test ratio]--: 79.5775%
 [Delimiter ratio]--: 81.6901%
 [Failure ratio]--: 0.0%
-[Elapsed time]--: 5.51 seconds
+[Elapsed time]--: 6.06 seconds
 <---------------------------------------------------------------------------------------->
-True Positive (TP): 114
-False Positive (FP): 28
+True Positive (TP): 113
+False Positive (FP): 29
 False Negative (FN): 0
 #
-Precision (P): 0.8028
+Precision (P): 0.7958
 Recall (R): 1.0
-F1 score: 0.8906
-Weighted F1 score for 142 files: 101.52839999999999
+F1 score: 0.8863
+Weighted F1 score for 142 files: 100.1519
