@@ -22,6 +22,52 @@ from typing import List
 from typing import Optional
 from typing import Union
 
+class grammar_helper:
+    def __init__(self) -> None:
+        pass
+
+    def get_delimiter_name(self, delim:str)->str:
+        if delim == ',':
+            return 'comma'
+        elif delim == ';':
+            return 'semicolon'
+        elif delim == '\t':
+            return 'tab'
+        elif delim == ' ':
+            return 'space'
+        elif delim == '|':
+            return 'vslash'
+        elif delim== '#':
+            return 'nsign'
+        elif delim== ':':
+            return 'colon'
+        elif delim== '=':
+            return 'eqsign'
+        elif delim== '*':
+            return 'star'
+    
+    def get_encoding(self, _alias: str)->str:
+        if _alias == 'utf8':
+            return 'utf_8'
+        elif _alias == 'utf16':
+            return 'utf_16'
+        elif _alias == 'ansi' or _alias == 'windows-1251':
+            return 'latin_1'
+        elif _alias == 'ascii' or _alias == 'gb2312':
+            return _alias
+        elif _alias == 'shif-jis':
+            return 'shift_jis'
+        else:
+            return 'utf_8' 
+        
+    def get_quote_name(self, quote:str)->str:
+        if quote == '"' or quote == '':
+            return 'doublequote'
+        elif quote == "'":
+            return 'singlequote'
+        elif quote == '~':
+            return 'tilde'
+        
 class runner:
     """
     This container is used to run dialect detection tests.
@@ -86,7 +132,7 @@ class runner:
                                         threshold=self.threshold,
                                         delimiter_list=self.delimiter_list,
                                         quotechar_list=self.quotechar_list, 
-                                        encoding='utf_8')#encoding=self.get_encoding(self.expected_results[file_name]['encoding']))
+                                        encoding='utf_8')#encoding=gp.get_encoding(self.expected_results[file_name]['encoding']))
                                         )
             elif self.sniffer == 'Python sniffer':
                 with open(path, newline='') as csvfile:
@@ -146,47 +192,6 @@ class runner:
             except Exception as err:
                 print("Error was: %s" % err)
     
-    def get_delimiter_name(self, delim:str)->str:
-        if delim == ',':
-            return 'comma'
-        elif delim == ';':
-            return 'semicolon'
-        elif delim == '\t':
-            return 'tab'
-        elif delim == ' ':
-            return 'space'
-        elif delim == '|':
-            return 'vslash'
-        elif delim== '#':
-            return 'nsign'
-        elif delim== ':':
-            return 'colon'
-        elif delim== '=':
-            return 'eqsign'
-        elif delim== '*':
-            return 'star'
-    
-    def get_encoding(self, _alias: str)->str:
-        if _alias == 'utf8':
-            return 'utf_8'
-        elif _alias == 'utf16':
-            return 'utf_16'
-        elif _alias == 'ansi' or _alias == 'windows-1251':
-            return 'latin_1'
-        elif _alias == 'ascii' or _alias == 'gb2312':
-            return _alias
-        elif _alias == 'shif-jis':
-            return 'shift_jis'
-        else:
-            return 'utf_8' 
-        
-    def get_quote_name(self, quote:str)->str:
-        if quote == '"' or quote == '':
-            return 'doublequote'
-        elif quote == "'":
-            return 'singlequote'
-        elif quote == '~':
-            return 'tilde'
     """
     base_path: str
         Parent folder for the test_sets subfolder
@@ -207,6 +212,7 @@ class runner:
             test_sets: List[str]
         ):
         n=0
+        gp = grammar_helper()
         for output_file in output_file_names:
             sys.stdout = open(os.path.join(self.output_path,output_file), 'w')
             #Import expectect results as nested dicts
@@ -236,14 +242,14 @@ class runner:
                             except:
                                 dialect = None
                             if dialect !=None:
-                                if self.get_delimiter_name(dialect.delimiter)==self.expected_results[filename]['fields_delimiter'] and \
-                                self.get_quote_name(dialect.quotechar)==self.expected_results[filename]['quotechar']:
+                                if gp.get_delimiter_name(dialect.delimiter)==self.expected_results[filename]['fields_delimiter'] and \
+                                gp.get_quote_name(dialect.quotechar)==self.expected_results[filename]['quotechar']:
                                     tflag ='+'
                                     passed += 1
                                     d_passed += 1
                                 else:
                                     tflag ='X'
-                                    if self.get_delimiter_name(dialect.delimiter)==self.expected_results[filename]['fields_delimiter']:
+                                    if gp.get_delimiter_name(dialect.delimiter)==self.expected_results[filename]['fields_delimiter']:
                                         d_passed += 1
                                 if tflag =='+':
                                     print(tflag + '[' + filename + ']: --> ' + self.sniffer + ' detected: delimiter = %r, quotechar = %r' 
