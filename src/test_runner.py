@@ -67,6 +67,16 @@ class grammar_helper:
             return 'singlequote'
         elif quote == '~':
             return 'tilde'
+    
+    def get_escape_char_name(self, char:str)->str:
+        if char == '"' or char == '':
+            return 'doublequote'
+        elif char == "'":
+            return 'singlequote'
+        elif char == '~':
+            return 'tilde'
+        elif char == '\\':
+            return 'backslash'
         
 class runner:
     """
