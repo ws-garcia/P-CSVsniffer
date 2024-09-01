@@ -228,9 +228,10 @@ class runner:
             output_file_names: List[str],
             expected_results_csv_names: List[str],
             test_sets: List[str]
-        ):
+        )->dict:
         n=0
         gp = grammar_helper()
+        tmp_result = {}
         for output_file in output_file_names:
             sys.stdout = open(os.path.join(self.output_path,output_file), 'w')
             #Import expectect results as nested dicts
@@ -242,6 +243,7 @@ class runner:
             passed=0
             d_passed = 0
             failures=0
+            r_row = {}
             t=time.time()
             #Run test over all CSV files
             for filename in os.listdir(current_csv_set):
@@ -282,10 +284,15 @@ class runner:
                                 print("X [" + filename + "]: --> No result from " + self.sniffer)
                                 failures += 1
             n+=1
-            print('[Passed test ratio]--: %r' %(round(100*passed/(len(self.expected_results)-failures),4)) +'%')
-            print('[Delimiter ratio]--: %r' %(round(100*d_passed/(len(self.expected_results)-failures),4)) +'%')
-            print('[Failure ratio]--: %r' %(round(100*failures/len(self.expected_results),4)) +'%')
-            print('[Elapsed time]--: %r seconds' %(round(time.time()-t,2)))
+            t2 = time.time()
+            ptr = round(100*passed/(len(self.expected_results)-failures),4)
+            delr = round(100*d_passed/(len(self.expected_results)-failures),4)
+            fr = round(100*failures/len(self.expected_results),4)
+            et = round(t2-t,2)
+            print('[Passed test ratio]--: %r' %(ptr) +'%')
+            print('[Delimiter ratio]--: %r' %(delr) +'%')
+            print('[Failure ratio]--: %r' %(fr) +'%')
+            print('[Elapsed time]--: %r seconds' %(et))
             print('<---------------------------------------------------------------------------------------->')
             tp = passed
             fp = len(self.expected_results)-(passed + failures)
@@ -302,3 +309,19 @@ class runner:
             print('F1 score: %r' %f1)
             print('Weighted F1 score for %r files: %r' %(len(self.expected_results), f1 * tp))
             sys.stdout.close()
+            r_row['passed ratio'] = ptr
+            r_row['delimiter ratio'] = delr
+            r_row['failure ratio'] = fr
+            r_row['time'] = et
+            r_row['tp'] = tp
+            r_row['fp'] = fp
+            r_row['fn'] = fn
+            r_row['precision'] = p
+            r_row['recall'] = r
+            r_row['f1 score'] = f1
+            r_row['tests count'] = len(self.expected_results)
+            r_row['weighted f1 score'] = f1*tp
+            sqb_pos = output_file.find(']')
+            key = output_file[1:sqb_pos]
+            tmp_result[key] = r_row
+        return tmp_result

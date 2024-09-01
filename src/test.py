@@ -16,8 +16,8 @@ def main(basePath:str, fileName:str):
     filePath = os.path.join(CSVpath, fileName)
     #Sniff dialect
     iDialect = sniffer.sniff(sniffer(filePath,
-                                     threshold=50,
-                                     delimiter_list=[',', ';', '\t', ':', ' ', '#'])
+                                     threshold=25,
+                                     delimiter_list=[',', ';', '\t', ':', ' ', '#', '='])
                                      )
     """
     or
@@ -29,5 +29,5 @@ def main(basePath:str, fileName:str):
 if __name__ == "__main__":
     #Working dir
     path = os.getcwd()
-    filename = 'ACS_12_5YR_S1903_metadata.csv'
+    filename = 'baselog.csv'
     main(path, filename)
