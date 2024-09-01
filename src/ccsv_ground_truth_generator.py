@@ -2,14 +2,17 @@ import os
 import json
 
 from test_runner import grammar_helper
-def generate():
+def generate(only_messy: bool=False):
      basePath = os.path.join(os.path.dirname(os.path.dirname(__file__)),'ground truth')
      json_urls = os.path.join(basePath, 'urls_github.json')
      json_ground_truth = os.path.join(basePath, 'out_reference_github.json')
-     out_path = os.path.join(basePath, 'CCSV-all_test_files.txt')
+     normal_forms_json = os.path.join(basePath, 'normals_github.json')
+     out_file = 'CCSV-all_test_files.txt' if not only_messy else 'CCSV-all-Messy_test_files.txt'
+     out_path = os.path.join(basePath, out_file)
      gh = grammar_helper()
      json_url_lines = read_json(json_urls).split('\n')
      json_ground_dict = create_md5_dict(read_json(json_ground_truth).split('\n'))
+     json_normal_forms_dict = create_md5_dict(read_json(normal_forms_json).split('\n'))
      csv_out = []
      csv_out.append('#This file contains the dialects for all files from van den Burg 2019.')
      csv_out.append('file_name|encoding|fields_delimiter|quotechar|escapechar|records_delimiter')
@@ -19,15 +22,17 @@ def generate():
                test = json_ground_dict[json_dict['md5']]
                if test['status'] == 'OK':
                     try:
-                         csv_row = '|'.join(
-                                        [json_dict['urls'][0].split('/')[-1], 
-                                        'utf_8',
-                                        gh.get_delimiter_name(test['dialect']['delimiter']),
-                                        gh.get_quote_name(test['dialect']['quotechar']),
-                                        gh.get_escape_char_name(test['dialect']['escapechar']),
-                                        'lf']
-                                        )
-                         csv_out.append(csv_row)
+                         append_ = not (json_dict['md5'] in json_normal_forms_dict) if only_messy else True
+                         if append_:
+                              csv_row = '|'.join(
+                                             [json_dict['urls'][0].split('/')[-1], 
+                                             'utf_8',
+                                             gh.get_delimiter_name(test['dialect']['delimiter']),
+                                             gh.get_quote_name(test['dialect']['quotechar']),
+                                             gh.get_escape_char_name(test['dialect']['escapechar']),
+                                             'lf']
+                                             )
+                              csv_out.append(csv_row)
                     except Exception as e:
                          pass
      write_to_file(out_path,'\r\n'.join(csv_out))
@@ -64,4 +69,5 @@ if __name__ == "__main__":
      arr_ = [_dict]
      print(create_md5_dict(arr_))
      '''
-     generate() 
+     generate()
+     generate(True) 
