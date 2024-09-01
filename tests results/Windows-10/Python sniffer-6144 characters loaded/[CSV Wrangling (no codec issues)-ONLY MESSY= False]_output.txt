@@ -9,7 +9,7 @@ X [2_ip_test.csv]: --> No result from Python sniffer
 +[ABCAUS2011.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
 +[ACS_12_5YR_S1903_metadata.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
 +[act.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
-X[admins.csv]: --> Python sniffer detected: delimiter = '#', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
+X[admins.csv]: --> Python sniffer detected: delimiter = '%', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
 +[af.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
 +[afghanngos.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
 +[airports.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
@@ -161,7 +161,7 @@ X[weapondef.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = "'"|
 [Passed test ratio]--: 80.6452%
 [Delimiter ratio]--: 83.871%
 [Failure ratio]--: 12.6761%
-[Elapsed time]--: 0.26 seconds
+[Elapsed time]--: 0.28 seconds
 <---------------------------------------------------------------------------------------->
 True Positive (TP): 100
 False Positive (FP): 24

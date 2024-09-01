@@ -5,7 +5,7 @@ Error was: 'charmap' codec can't decode byte 0x9d in position 577: character map
 X [2009-2010ZS-studenti.csv]: --> No result from CleverCSV
 +[211.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
 +[2_18-05-2011-17-21-59_0.csv]: --> CleverCSV detected: delimiter = ';', quotechar = '"'
-X[2_ip_test.csv]: --> CleverCSV detected: delimiter = '', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[2_ip_test.csv]: --> CleverCSV detected: delimiter = '', quotechar = '"'
 +[ABCAUS2011.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
 X[ACS_12_5YR_S1903_metadata.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
 +[act.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
@@ -85,7 +85,7 @@ X [en-phrases.csv]: --> No result from CleverCSV
 +[en.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
 X[engine_reqs_2.csv]: --> CleverCSV detected: delimiter = '#', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
 +[Error331_DynCatsMenu.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
-X[events.csv]: --> CleverCSV detected: delimiter = '', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[events.csv]: --> CleverCSV detected: delimiter = '', quotechar = ''
 +[example.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
 +[exit.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
 Error was: 'charmap' codec can't decode byte 0x9d in position 24: character maps to <undefined>
@@ -96,7 +96,7 @@ X [explanations.csv]: --> No result from CleverCSV
 +[flat_file_database.csv]: --> CleverCSV detected: delimiter = '#', quotechar = '"'
 +[Formats.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
 +[fuw1.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
-X[general.csv]: --> CleverCSV detected: delimiter = '', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[general.csv]: --> CleverCSV detected: delimiter = '', quotechar = ''
 +[GPU_rod_1_metrica.csv]: --> CleverCSV detected: delimiter = ';', quotechar = '"'
 X[gsi_adresser_og_elevtall_2010.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
 Error was: 'charmap' codec can't decode byte 0x9d in position 5352: character maps to <undefined>
@@ -207,16 +207,16 @@ X[weapondef.csv]: --> CleverCSV detected: delimiter = '#', quotechar = ''| EXPEC
 +[xlsws_category_amazon.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
 +[zips.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
 +[Zipssortedbycitystate.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
-[Passed test ratio]--: 84.5638%
-[Delimiter ratio]--: 86.5772%
+[Passed test ratio]--: 86.5772%
+[Delimiter ratio]--: 88.5906%
 [Failure ratio]--: 16.7598%
-[Elapsed time]--: 2.6 seconds
+[Elapsed time]--: 2.97 seconds
 <---------------------------------------------------------------------------------------->
-True Positive (TP): 126
-False Positive (FP): 23
+True Positive (TP): 129
+False Positive (FP): 20
 False Negative (FN): 30
 #
-Precision (P): 0.8456
-Recall (R): 0.8077
-F1 score: 0.8262
-Weighted F1 score for 179 files: 104.1012
+Precision (P): 0.8658
+Recall (R): 0.8113
+F1 score: 0.8377
+Weighted F1 score for 179 files: 108.0633

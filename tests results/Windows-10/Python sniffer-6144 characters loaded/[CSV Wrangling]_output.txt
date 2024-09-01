@@ -12,7 +12,7 @@ X [2_ip_test.csv]: --> No result from Python sniffer
 +[ABCAUS2011.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
 +[ACS_12_5YR_S1903_metadata.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
 +[act.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
-X[admins.csv]: --> Python sniffer detected: delimiter = '#', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
+X[admins.csv]: --> Python sniffer detected: delimiter = '%', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
 Error was: 'charmap' codec can't decode byte 0x81 in position 109: character maps to <undefined>
 X [ads_classic_queries.csv]: --> No result from Python sniffer
 +[af.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
@@ -222,7 +222,7 @@ X[weapondef.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = "'"|
 [Passed test ratio]--: 81.0219%
 [Delimiter ratio]--: 83.9416%
 [Failure ratio]--: 23.4637%
-[Elapsed time]--: 0.29 seconds
+[Elapsed time]--: 0.32 seconds
 <---------------------------------------------------------------------------------------->
 True Positive (TP): 111
 False Positive (FP): 26

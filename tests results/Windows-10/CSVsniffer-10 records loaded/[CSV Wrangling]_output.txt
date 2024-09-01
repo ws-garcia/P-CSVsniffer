@@ -146,7 +146,7 @@ X[resources.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'| EXP
 +[set001.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
 +[shops.csv]: --> CSVsniffer detected: delimiter = ';', quotechar = '"'
 X [shortcuts.csv]: --> No result from CSVsniffer
-X[simulation.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'| EXPECTED:{delimiter = 'tab', quotechar = 'doublequote'}
++[simulation.csv]: --> CSVsniffer detected: delimiter = '\t', quotechar = '"'
 X [sjis.csv]: --> No result from CSVsniffer
 +[solar-system.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
 +[source-en.csv]: --> CSVsniffer detected: delimiter = ';', quotechar = '"'
@@ -177,16 +177,16 @@ X [tweets.csv]: --> No result from CSVsniffer
 +[xlsws_category_amazon.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
 +[zips.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
 +[Zipssortedbycitystate.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
-[Passed test ratio]--: 90.3226%
-[Delimiter ratio]--: 92.2581%
+[Passed test ratio]--: 90.9677%
+[Delimiter ratio]--: 92.9032%
 [Failure ratio]--: 13.4078%
-[Elapsed time]--: 9.87 seconds
+[Elapsed time]--: 10.77 seconds
 <---------------------------------------------------------------------------------------->
-True Positive (TP): 140
-False Positive (FP): 15
+True Positive (TP): 141
+False Positive (FP): 14
 False Negative (FN): 24
 #
-Precision (P): 0.9032
-Recall (R): 0.8537
-F1 score: 0.8778
-Weighted F1 score for 179 files: 122.89200000000001
+Precision (P): 0.9097
+Recall (R): 0.8545
+F1 score: 0.8812
+Weighted F1 score for 179 files: 124.2492

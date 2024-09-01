@@ -7,7 +7,7 @@ X [Album.csv]: --> No result from CSVsniffer
 +[countries.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
 +[country_slice.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
 +[csvw-requirements-notes.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
-X[CSV_QS601EW2011WARDH_151277.csv]: --> CSVsniffer detected: delimiter = ';', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[CSV_QS601EW2011WARDH_151277.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
 +[Customer.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
 +[department.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
 X [EG.csv]: --> No result from CSVsniffer
@@ -219,16 +219,16 @@ X[test304.csv]: --> CSVsniffer detected: delimiter = '#', quotechar = "'"| EXPEC
 +[tree-ops.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
 +[tweets.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
 +[unicode-nfc.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
-[Passed test ratio]--: 95.8904%
-[Delimiter ratio]--: 97.2603%
+[Passed test ratio]--: 96.347%
+[Delimiter ratio]--: 97.7169%
 [Failure ratio]--: 0.905%
-[Elapsed time]--: 7.17 seconds
+[Elapsed time]--: 10.39 seconds
 <---------------------------------------------------------------------------------------->
-True Positive (TP): 210
-False Positive (FP): 9
+True Positive (TP): 211
+False Positive (FP): 8
 False Negative (FN): 2
 #
-Precision (P): 0.9589
+Precision (P): 0.9635
 Recall (R): 0.9906
-F1 score: 0.9745
-Weighted F1 score for 221 files: 204.645
+F1 score: 0.9769
+Weighted F1 score for 221 files: 206.1259

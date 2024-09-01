@@ -1,0 +1,2168 @@
++[0.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[00-georegion.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[01_some_data.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[02b.csv]: --> CleverCSV detected: delimiter = '\t', quotechar = ''
++[02_02_kiwipycon_wifi_details.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[02_199603_1.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[04hour.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
+Error was: 'charmap' codec can't decode byte 0x81 in position 32: character maps to <undefined>
+X [071001_1.csv]: --> No result from CleverCSV
++[0927-2010-12-09T12-47-42.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[1.3.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[1.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[1.fail.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[100-external-simple.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[1000.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[10000_business_triples.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[100_cases.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[101109.guggenheim.noise.ks.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+Error was: line contains NULL byte
+X [10in15min-100x100.csv]: --> No result from CleverCSV
++[11.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = ''
++[11111-0001.csv]: --> CleverCSV detected: delimiter = ';', quotechar = '"'
+Error was: 'charmap' codec can't decode byte 0x81 in position 46: character maps to <undefined>
+X [11_08_08_biatlon_rollers.csv]: --> No result from CleverCSV
++[12.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[1234567_offer_min.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[1272554757.csv]: --> CleverCSV detected: delimiter = '', quotechar = ''
++[1289862356_statistics.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[1291430725AR4.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[1317913481111.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[1970.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[1985_2009mpg10282009.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[1988_k_arc.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[199_phenotypes.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[1lap_s50_30_80.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+Error was: 'charmap' codec can't decode byte 0x81 in position 8051: character maps to <undefined>
+X [1mar2011.csv]: --> No result from CleverCSV
++[1_Sharima.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[2006.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[2007.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[2008-05-22.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[2008-5-3.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[2008-german-holidays.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[2009-movies.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[2009Fall.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[2010-feb.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+Error was: 'charmap' codec can't decode byte 0x90 in position 16: character maps to <undefined>
+X [20100721_zipcode_ko_csv.csv]: --> No result from CleverCSV
++[20101215_141114_rawdata.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[20101231_Typeculture.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+Error was: 'charmap' codec can't decode byte 0x81 in position 23: character maps to <undefined>
+X [2010_october_clean.csv]: --> No result from CleverCSV
++[2011-02-west-midlands-street.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[2011-04-25_new_marc2prodmargin.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[2011-05-13.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[2011-07-03_us.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[2011-prim-ccom-localis.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
+X[20110405_114202_8827488360.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''| EXPECTED:{delimiter = 'semicolon', quotechar = 'doublequote'}
++[201107_transmitter_listing.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[2011bread.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+Error was: 'charmap' codec can't decode byte 0x81 in position 387: character maps to <undefined>
+X [2011_may_clean.csv]: --> No result from CleverCSV
++[2012-04-07-serial-882-flight-001.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[2012.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[2014_Soc_Changes.csv]: --> CleverCSV detected: delimiter = '\t', quotechar = ''
++[2018EventTicketPromotionPrice.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[2456.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[2d-grid-data--incomplete.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[2gram.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = ''
++[2_11_BilledCallDetails.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[2_18-05-2011-17-21-59_0.csv]: --> CleverCSV detected: delimiter = ';', quotechar = '"'
++[3.00.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[3.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[30_belboon_alle.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[311011.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[31_162_Post_Regen.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[3533-rst-csv-tables.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[365DCLP.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[3b7b283b-bbfa-95d2-45e7-4e330ee06f8e.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[3domains.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[40th_federal_election.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[4438643942.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[454AllControlMetrics.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+X[5percentwinners_120-245-multitrade.csv]: --> CleverCSV detected: delimiter = ':', quotechar = ''| EXPECTED:{delimiter = 'tab', quotechar = 'doublequote'}
+X[614137015-logs.csv]: --> CleverCSV detected: delimiter = ':', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[639KDAAXX_Sample_Report.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[7languages7weeks.csv]: --> CleverCSV detected: delimiter = '', quotechar = '"'
++[8.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[8_14_09.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[911_1000.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[A1026_CFG.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+Error was: 'charmap' codec can't decode byte 0x81 in position 14: character maps to <undefined>
+X [aa.csv]: --> No result from CleverCSV
++[AAA_batch-metadata-language.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[aal.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[Abklingkonstante.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[abook.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[ABresults.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[Abst_DB_New_Var_Names_Aug2010.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[AC97Test_pad.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[aca_trainers_10102010.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+X[access-log-throughput.csv]: --> CleverCSV detected: delimiter = ':', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[Access_Point-AP.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[Accommodation_and_Food_Services.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[account_10.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[account_details.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[accutracking.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[aces4.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[ach_payments.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[ACIDGlide-CellData.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[acl_entries.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[acma.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[acrobatReaderInstallTimes.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[acroleague.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+X[ACS_12_5YR_S1903_metadata.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[act.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+X[action-goal.csv]: --> CleverCSV detected: delimiter = ',', quotechar = "'"| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[actions.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[active_merchant.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[activity.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[activity_import.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[adcenter-2009-11-13_07-48-59.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[adc_data_sine_2MHz_500mVpp.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[addons-sheet.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[address-sample.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[addressbook.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[addresses.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[addresses_comma.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[AddressID.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[address_cleanups-example.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[add_profile.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[AdieHWCodec.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[adressen.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+Error was: 'charmap' codec can't decode byte 0x81 in position 701: character maps to <undefined>
+X [adresy.csv]: --> No result from CleverCSV
+X[ads.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''| EXPECTED:{delimiter = 'tab', quotechar = 'doublequote'}
++[adtable.csv]: --> CleverCSV detected: delimiter = '\t', quotechar = ''
++[adverbs.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[AEPIBBN2.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[af.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[affiliate.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[afghanngos.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[africa.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[african_feeds.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[ag2.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[agelist.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[agencies.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[agency.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[agency_abbr.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[aggregate_100users_10sec.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[aggressor.relation.code.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+Error was: 'charmap' codec can't decode byte 0x81 in position 93: character maps to <undefined>
+X [agnt_db.csv]: --> No result from CleverCSV
++[agt.test.header.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[ahoj.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[ahrs.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[AIC3254_REG.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[aim.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[aimee.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+X[aircraft.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''| EXPECTED:{delimiter = 'space', quotechar = 'doublequote'}
++[airlines.out.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+X[airports.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'| EXPECTED:{delimiter = 'tab', quotechar = 'doublequote'}
++[airport_codes_with_geo_name_ids_and_nl_names-2008-04-14.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+Error was: 'charmap' codec can't decode byte 0x81 in position 2024: character maps to <undefined>
+X [ALBUMS.csv]: --> No result from CleverCSV
++[albumTypesReplacements.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
+X[alert.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[alfa_example.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[alias.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[aligning.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[all-classes.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[all-reviews.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+X[all.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'| EXPECTED:{delimiter = 'tab', quotechar = 'doublequote'}
++[all.utilities.awwa.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[allagash_exp_files.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+X[allFilenames.csv]: --> CleverCSV detected: delimiter = ':', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[allocations.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[AllUseCasesOrdered.csv]: --> CleverCSV detected: delimiter = '|', quotechar = ''
++[all_airports.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[all_codes.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[all_defense_teams.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[all_drug_order_combinations.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[All_Links_wwwdup_uni-leipzig_de_jobportal_20110504T231856Z.csv]: --> CleverCSV detected: delimiter = '', quotechar = ''
++[ALL_TICKERS.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[alphabets.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[altamont.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[AltSmallTab.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[alu-abs-pass.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[always_hit.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[al_muscles_correspondence.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[amazon.csv]: --> CleverCSV detected: delimiter = '\t', quotechar = ''
++[amazon_history.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[AminoAcids.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[analitics.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[analy.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[analysis_example.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[analyst.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[analytics.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[anatomical_line.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[anc-count-o5.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+Error was: 'charmap' codec can't decode byte 0x8d in position 126: character maps to <undefined>
+X [anima.csv]: --> No result from CleverCSV
++[animal.csv]: --> CleverCSV detected: delimiter = ';', quotechar = '"'
++[animal_data_details.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[ankieta.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[annai_plugin_calc_tests.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[annotated-letters.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[Announcements.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[answer.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[api_keys.csv]: --> CleverCSV detected: delimiter = '\t', quotechar = ''
+X[apn.csv]: --> CleverCSV detected: delimiter = ':', quotechar = ''| EXPECTED:{delimiter = 'semicolon', quotechar = 'doublequote'}
+X[appa.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[Application.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
+Error was: 'charmap' codec can't decode byte 0x81 in position 17: character maps to <undefined>
+X [approval_status.csv]: --> No result from CleverCSV
++[apps_list.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+Error was: 'charmap' codec can't decode byte 0x90 in position 44: character maps to <undefined>
+X [app_stat.csv]: --> No result from CleverCSV
++[arabic_snippet.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[arches.0.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[archive.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[area-10-1.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+Error was: 'charmap' codec can't decode byte 0x81 in position 9: character maps to <undefined>
+X [area.csv]: --> No result from CleverCSV
++[area_codes.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[arena.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[args.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[arisexylightbox.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[arkafrn12_d.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[arquivo.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[arra.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[art.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+Error was: 'charmap' codec can't decode byte 0x8f in position 141: character maps to <undefined>
+X [articles.csv]: --> No result from CleverCSV
+Error was: 'charmap' codec can't decode byte 0x8d in position 7988: character maps to <undefined>
+X [artists.csv]: --> No result from CleverCSV
++[ART_PatientCard.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[as10.csv]: --> CleverCSV detected: delimiter = ';', quotechar = '"'
++[as16bitint.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[ase-campaign.csv]: --> CleverCSV detected: delimiter = '\t', quotechar = ''
++[asots.dump.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[assessment_info_482_484.csv]: --> CleverCSV detected: delimiter = '\t', quotechar = '"'
++[assets.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[assettemplate.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[assignment_title_list.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[association.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[asterisk-sample1.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[asterisk_core_sounds.csv]: --> CleverCSV detected: delimiter = ';', quotechar = '"'
++[astra.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[ASXListedCompanies.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+X[as_csv.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[atleti_laceno.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[atmega_devices.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[atp-devices.csv]: --> CleverCSV detected: delimiter = '|', quotechar = ''
++[attdecode.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[attendance.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[attractions-churches.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+X[attractions.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[Attrib-Basic-EP-examples.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[attributes.csv]: --> CleverCSV detected: delimiter = ';', quotechar = '"'
++[attribution-workflow.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[AudioBTID.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[AudioFilter.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[AudioPara4-sapphire.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[AudioPara_dream.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[aussie_postcodes.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[australia.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[AustralianPostcodes.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[Australian_Post_Codes_Lat_Lon.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[authorities.csv]: --> CleverCSV detected: delimiter = '', quotechar = ''
++[authors.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[author_tiers.csv]: --> CleverCSV detected: delimiter = '|', quotechar = ''
++[auto-mpg-modified.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[autoroutes.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[au_example.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[avg_sleep_power_temperature.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[ay.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[AYPmediaSchools.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[azoogle_ads.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[b11-expense-data-v2.csv]: --> CleverCSV detected: delimiter = '\t', quotechar = '"'
++[Babelglossary.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[babynamecounts.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[backup_targets.csv]: --> CleverCSV detected: delimiter = '|', quotechar = ''
+X[bad.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[badcoordinators.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[baddies.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[badge.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[bad_country.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[bad_escape.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[bag.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[bakers.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[ballots.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[BallOut.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[bamf-comma-comma.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+Error was: 'charmap' codec can't decode byte 0x8f in position 116: character maps to <undefined>
+X [banks.csv]: --> No result from CleverCSV
++[banks_year.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[barrio.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[barris_barcelona_1_part_1.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[baseball.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[baselog.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[basic.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[basicJavaExample.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[basicStatsTestTimers.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[basicTaming.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+Error was: 'charmap' codec can't decode byte 0x8f in position 59: character maps to <undefined>
+X [basic_greek_mapping.csv]: --> No result from CleverCSV
++[basket-1.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[batch_mascot.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[bats.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
+Error was: 'charmap' codec can't decode byte 0x81 in position 1: character maps to <undefined>
+X [batting.csv]: --> No result from CleverCSV
+Error was: 'charmap' codec can't decode byte 0x8d in position 5: character maps to <undefined>
+X [bbb.csv]: --> No result from CleverCSV
++[bbc_to_twfy.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[bcc_data_3-249.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[bcn_estacionsbus.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[bct_copy_dsc_institutions_melvyl_marc.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[bd.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[BD_ORPAN.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[BEC_HIT_ANALYSIS.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+Error was: 'charmap' codec can't decode byte 0x81 in position 1: character maps to <undefined>
+X [beer-list.csv]: --> No result from CleverCSV
++[belfasttelegraph.co.uk.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[benchmark.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[benchmarks.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[benchresults.csv]: --> CleverCSV detected: delimiter = '\t', quotechar = '"'
++[benutzer.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[berlin52.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[bestPaths.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[bewest-history.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[BHTinput.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[bias.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[Bibelbund.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[biblio.field.link.data.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[bicluster_0022.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[big.lebowski.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+X[BigBirdList.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[big_input.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+X[BIO.csv]: --> CleverCSV detected: delimiter = '#', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
+Error was: local variable 'dialect' referenced before assignment
+X [bioguide_ids.csv]: --> No result from CleverCSV
++[biowiki.table.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+X[bird-houses.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[BirdList.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[birds.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[Blackboard_Export_Roles_Students.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[blacklist.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+Error was: 'charmap' codec can't decode byte 0x9d in position 8: character maps to <undefined>
+X [blackoutdata.csv]: --> No result from CleverCSV
++[blah.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[blank_csv.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[blank_lines.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[blockings.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[blocks.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[Blog.csv]: --> CleverCSV detected: delimiter = ';', quotechar = '"'
+X[blog_entry.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[blz.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
+Error was: 'charmap' codec can't decode byte 0x90 in position 45: character maps to <undefined>
+X [bnkseek.csv]: --> No result from CleverCSV
++[bom.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[bones.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[book-import.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+X[book.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
+Error was: 'charmap' codec can't decode byte 0x81 in position 2: character maps to <undefined>
+X [Book1.csv]: --> No result from CleverCSV
++[bookmarks.csv]: --> CleverCSV detected: delimiter = ';', quotechar = '"'
++[books-catalogue.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[books.computers-in-fiction.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[books.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[bookworm.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[bootstrap.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+Error was: 'charmap' codec can't decode byte 0x90 in position 3: character maps to <undefined>
+X [Boravista.csv]: --> No result from CleverCSV
++[Bornholm.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[boston_house_prices.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[botIP.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[bovespa.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[box_categories.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[bp01ap08.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[BPM-Flats.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[BP_2009_00A1.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[brain_size.csv]: --> CleverCSV detected: delimiter = ';', quotechar = '"'
++[branches.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = ''
++[BrandDiscovered.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[brands.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[brasil.B46.13.diff.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[british_novels_bibliography.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[broken-csv-for-parsing.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[broken1.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[broken_smiles.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[brooklyn-bridge-movies-with-a-view-2011.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[browscap.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[browscap_14_05_2012.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[browser.csv]: --> CleverCSV detected: delimiter = '|', quotechar = ''
++[btest.asm.Symbols.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[buchung.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[budget.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+Error was: 'charmap' codec can't decode byte 0x9d in position 2736: character maps to <undefined>
+X [budget_items.csv]: --> No result from CleverCSV
++[budzet_zadaniowy_2011.csv]: --> CleverCSV detected: delimiter = ';', quotechar = '"'
++[buerger.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+X[bugs.csv]: --> CleverCSV detected: delimiter = ':', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[build.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[building-permits.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[buildings.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+Error was: 'charmap' codec can't decode byte 0x81 in position 90: character maps to <undefined>
+X [Built-In_Levels_1.0.csv]: --> No result from CleverCSV
++[bulkmpg.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[bulk_import_template.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[bundeshaushalt_2012.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[bus-data.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[business.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[BusinesseswithfreeWiFi.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[BusRoutes-1.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[busstops.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[bus_routes.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+X[buttons.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[bv_refdata.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[bw-locations.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[BX-Users.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[by-cofog1-then-cofog2.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[C-MorphRel.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[c2010a.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+X[ca.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'| EXPECTED:{delimiter = 'semicolon', quotechar = 'doublequote'}
++[Cabins.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[Cache_pad.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+Error was: 'charmap' codec can't decode byte 0x8d in position 772: character maps to <undefined>
+X [Calc-g-uni.csv]: --> No result from CleverCSV
++[CalculusComponents.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[camera_path.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[camsLoaded.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[canabalt_scores_with_username_and_timestamp.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[canBLC_BOM.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[cancer_survival_rates.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[candy.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[CanonicalBathymetry_H_0.03.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[capitals.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[capybara.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[cardiac.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = ''
++[cardListing.csv]: --> CleverCSV detected: delimiter = '|', quotechar = ''
++[card_list.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[CareLink-Export-1319060221528.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[CarModels.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[carnivora.csv]: --> CleverCSV detected: delimiter = ';', quotechar = '"'
+Error was: 'charmap' codec can't decode byte 0x81 in position 58: character maps to <undefined>
+X [carriers.csv]: --> No result from CleverCSV
++[cars.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[cassette_features.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[castine-cemetery.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[catalog.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[catalogo1.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[catalog_ref.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[categories.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[categories_for_mongo.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[category.csv]: --> CleverCSV detected: delimiter = '', quotechar = '"'
++[categoryDatabase.csv]: --> CleverCSV detected: delimiter = ':', quotechar = ''
++[cb0-expected.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[CbcSourceFilesTable.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[ccm.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[cctld-pricing.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+Error was: 'charmap' codec can't decode byte 0x81 in position 447: character maps to <undefined>
+X [cdh_download_01_21_2010.csv]: --> No result from CleverCSV
++[CDRImport-2015-10-26.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[cells.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[census.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[centerlines-placer_county.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[centres.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+Error was: 'charmap' codec can't decode byte 0x8d in position 608: character maps to <undefined>
+X [Centros.csv]: --> No result from CleverCSV
++[ceooffice.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[cereal.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = ''
++[cgl-tmlp_all_0.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[chairs_rr2008.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
+Error was: 'charmap' codec can't decode byte 0x90 in position 31: character maps to <undefined>
+X [ChatProfanity.csv]: --> No result from CleverCSV
++[check.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[chemkin_mole_fractions.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[chisel.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[ch_basel_list.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[cinch_start.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[circuitStatistics.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+X[cities.csv]: --> CleverCSV detected: delimiter = '\t', quotechar = ''| EXPECTED:{delimiter = 'semicolon', quotechar = 'doublequote'}
++[citieslatlon.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[cities_fr.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
+X[city.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''| EXPECTED:{delimiter = 'semicolon', quotechar = 'doublequote'}
++[cityList.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[citymap.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[ckan-endpoints.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[claims.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[classes.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[classwork10.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[cleaned_up_mars_rover_seed_data.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[cliente.csv]: --> CleverCSV detected: delimiter = ';', quotechar = '"'
++[clientes.csv]: --> CleverCSV detected: delimiter = ';', quotechar = "'"
++[clients.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+Error was: 'charmap' codec can't decode byte 0x90 in position 9: character maps to <undefined>
+X [client_phones.csv]: --> No result from CleverCSV
++[climate.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[clip_info_final.csv]: --> CleverCSV detected: delimiter = '\t', quotechar = '"'
++[CMMi_Schema_SQL_mysql_capability_levels.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[cm_header_file.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[cnc-donetsk.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[CNEHPapers.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+X[cnn_news_stories_for_all.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[cno94-2.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[cnsfile.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[cnx22-XE133-XE131M-XE133M.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[co2-from-fossilfuels.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[coas02f_dataset_20100831.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[COA_coordinators_02162011.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[COBRAD0.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[cocktails.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+Error was: 'charmap' codec can't decode byte 0x81 in position 3241: character maps to <undefined>
+X [codcidades.csv]: --> No result from CleverCSV
+Error was: 'charmap' codec can't decode byte 0x81 in position 17: character maps to <undefined>
+X [code-educ.csv]: --> No result from CleverCSV
++[cogip.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[cognomi_2012.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[CollectorList.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[college-address-seats.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[colleges.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[colorschemes.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[column_features.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[com.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = ''
++[combine.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[Combined.BOM.csv]: --> CleverCSV detected: delimiter = '\t', quotechar = ''
++[comma-delimited.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[commands.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[commbrd.csv]: --> CleverCSV detected: delimiter = '\t', quotechar = ''
++[comments-4txt.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[comments.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[comment_csv_test.csv]: --> CleverCSV detected: delimiter = '|', quotechar = ''
++[commitment.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[committees.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+Error was: 'charmap' codec can't decode byte 0x8d in position 69: character maps to <undefined>
+X [common.csv]: --> No result from CleverCSV
++[commonprefix.txt.parsetable.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[commonsense.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[compare.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[comparison.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = ''
++[compartments0.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[COMPCODES.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+Error was: 'charmap' codec can't decode byte 0x8d in position 98: character maps to <undefined>
+X [compendium.csv]: --> No result from CleverCSV
++[compfirm-damodaran-2010.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+X[complete.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = ''| EXPECTED:{delimiter = 'semicolon', quotechar = 'doublequote'}
++[complex.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[complexity.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[ComplexWorkbook.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[components-license-overview.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[compounds.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[compras.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[compressed-speed-distance-records.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+Error was: 'charmap' codec can't decode byte 0x81 in position 49: character maps to <undefined>
+X [condenados1.csv]: --> No result from CleverCSV
++[conditions.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[conf-example.csv]: --> CleverCSV detected: delimiter = ';', quotechar = '"'
++[config.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+Error was: 'charmap' codec can't decode byte 0x81 in position 15: character maps to <undefined>
+X [confitem.csv]: --> No result from CleverCSV
++[congruencia1.csv]: --> CleverCSV detected: delimiter = '|', quotechar = ''
++[ConnectionProfiles.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[Connelly29.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[conor_friedersdorfs_top_articles_of_2012_byliner.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[conrad_users.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[consigners.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[constants.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[constant_contact_dump.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[constituency.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[consultation-template.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[contact-addresses.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
+X[contact.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[contacts-for-import.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+X[contacts.csv]: --> CleverCSV detected: delimiter = ',', quotechar = "'"| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[Contacts_Example.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[contacts_with_id.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[contact_csv_import_one_error.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[content.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[contributions.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[control.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[ControladoresDeDirecaob.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[conversion_17_to_18.csv]: --> CleverCSV detected: delimiter = ';', quotechar = '"'
++[con_img.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[cookies.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[coord.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[coordinates.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[coordinate_axis.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[copyright.csv]: --> CleverCSV detected: delimiter = '\t', quotechar = ''
++[core.csv]: --> CleverCSV detected: delimiter = '', quotechar = ''
+Error was: line contains NULL byte
+X [CoresUtilization.csv]: --> No result from CleverCSV
+Error was: 'charmap' codec can't decode byte 0x81 in position 85: character maps to <undefined>
+X [core_dictlist.csv]: --> No result from CleverCSV
+Error was: 'charmap' codec can't decode byte 0x81 in position 62: character maps to <undefined>
+X [core_standard.csv]: --> No result from CleverCSV
++[correct_class.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[cosmicpanda.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[cotejadosConDnsNOOK.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+Error was: 'charmap' codec can't decode byte 0x8d in position 99: character maps to <undefined>
+X [councils.csv]: --> No result from CleverCSV
++[CountBtnI_pad.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[CountBtn_pad.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[counties.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[counties_90-to-110.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[Countries-Africa.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[COUNTRIES-EN.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[countries.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[countries_lang.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+X[country-capitals.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''| EXPECTED:{delimiter = 'semicolon', quotechar = 'doublequote'}
++[country.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[countryhood.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[countryInfo.csv]: --> CleverCSV detected: delimiter = '\t', quotechar = ''
++[countryInfoCSV.csv]: --> CleverCSV detected: delimiter = '\t', quotechar = ''
++[countrynames.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[country_boundingboxes.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[country_population.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = ''
++[country_region.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[coupons.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[course-detail-description.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[courses.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[coverage.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[cp1252.csv]: --> CleverCSV detected: delimiter = ';', quotechar = '"'
++[CPH_data.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[CPIOM_ICDcompleted.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[cpu-usage.csv]: --> CleverCSV detected: delimiter = '\t', quotechar = ''
+X[CPU.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = ''| EXPECTED:{delimiter = 'semicolon', quotechar = 'doublequote'}
+Error was: 'charmap' codec can't decode byte 0x8d in position 133: character maps to <undefined>
+X [crazy.csv]: --> No result from CleverCSV
++[create_users_template.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[credentials.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[credit-g.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[crime_counts.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = '"'
++[crime_incidents_current_csv.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[criteria.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[Crius_ConfigDanish.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[crs-to-tiploc.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[cs.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[csa_latlon.csv]: --> CleverCSV detected: delimiter = '\t', quotechar = ''
++[css_compliance.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[csv-future.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[csv-test.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+X[csv.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''| EXPECTED:{delimiter = 'semicolon', quotechar = 'doublequote'}
++[csv57415.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[CsvBulkLoaderTest_Players.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[csvgabi.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[CSVReaderTest.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[csvs2xls_test.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[csvtest.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[csvtranslations022012.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[csvtsv01.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+Error was: 'charmap' codec can't decode byte 0x90 in position 54: character maps to <undefined>
+X [csvuser.csv]: --> No result from CleverCSV
+X[csv_example.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''| EXPECTED:{delimiter = 'semicolon', quotechar = 'doublequote'}
++[csv_ingestion.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[csv_iso8859.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[csv_response.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+Error was: line contains NULL byte
+X [csv_template.csv]: --> No result from CleverCSV
++[cs_is_la_eli_list.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[ctc_mod.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[ctoolsAllCases.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[cty.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[cuentas.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[Cupid.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[curated_list_dummy.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+X[currencies.csv]: --> CleverCSV detected: delimiter = ',', quotechar = "'"| EXPECTED:{delimiter = 'semicolon', quotechar = 'doublequote'}
++[current-voltage.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[currentReport.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[cust.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[customers.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[customers_data.csv]: --> CleverCSV detected: delimiter = '\t', quotechar = ''
++[customer_dimension.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = ''
++[customer_importer_real_test_it.csv]: --> CleverCSV detected: delimiter = ';', quotechar = '"'
++[Customer_list-12_01_2009_09-20.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[customize.csv]: --> CleverCSV detected: delimiter = '|', quotechar = ''
++[custom_stat.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[cwc2011.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[cyberstock.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[cycling-map-features.csv]: --> CleverCSV detected: delimiter = '|', quotechar = ''
+Error was: 'charmap' codec can't decode byte 0x8d in position 4068: character maps to <undefined>
+X [cz.csv]: --> No result from CleverCSV
++[d.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[dane.in.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[dane1.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[dat.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = ''
++[data.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[data1.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[DataDrivenSample.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[dataid.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[dataset-hugo_final.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[data_address.csv]: --> CleverCSV detected: delimiter = '|', quotechar = ''
++[data_generators.csv]: --> CleverCSV detected: delimiter = '\t', quotechar = ''
+X[data_manager_ones.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[data_seq.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[data_test.csv]: --> CleverCSV detected: delimiter = ';', quotechar = '"'
++[data_x_x2_x3.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = ''
++[daten.csv]: --> CleverCSV detected: delimiter = ';', quotechar = '"'
+Error was: 'charmap' codec can't decode byte 0x81 in position 552: character maps to <undefined>
+X [DatosINE.csv]: --> No result from CleverCSV
++[datos_preliminares_censo_2010_argentina.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[DatumTransformationToWGS84Parameters.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[david_camerons_meetings.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[db.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[db1.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[dbsnam-utf8.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[db_general.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[DB_Germany_Sample.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[DCOCLK.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+X[dc_metro.csv]: --> CleverCSV detected: delimiter = ',', quotechar = "'"| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[ddr3_s4_uniphy_example.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+X[de.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[DE1_pin_assignments.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[DE2_pin_assignments.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[Debtris.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[Dec10nocal.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+Error was: 'charmap' codec can't decode byte 0x9d in position 3309: character maps to <undefined>
+X [deck.csv]: --> No result from CleverCSV
++[DEC_10_SF1_P12.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[default_content.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[default_gradebook.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[Default_LCCS2PFT_LUT.csv]: --> CleverCSV detected: delimiter = '|', quotechar = ''
++[delanotes.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[delegacias.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[delimitedFile.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[demo.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[DemoBayern.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[demographics-blue.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[demographics.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[departments.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[depends_1736.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[development_code.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[devices_data.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[device_table.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[devzone.dataset.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+X[devzone.topics.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[de_DE.csv]: --> CleverCSV detected: delimiter = ';', quotechar = '"'
++[Dfreerksen_Tweet.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[diabetes.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = ''
++[diagnostic_code_categories.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[diagram.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+Error was: 'charmap' codec can't decode byte 0x90 in position 112: character maps to <undefined>
+X [dialogs.csv]: --> No result from CleverCSV
++[diamonds.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = ''
+Error was: 'charmap' codec can't decode byte 0x8f in position 9: character maps to <undefined>
+X [dic.csv]: --> No result from CleverCSV
++[dic_de.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[diff_default_exceptions.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[DigitalDownloadTest.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+Error was: 'charmap' codec can't decode byte 0x81 in position 35: character maps to <undefined>
+X [dioik_diairesi_09_el.csv]: --> No result from CleverCSV
++[diptera.parts.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = ''
++[directories.csv]: --> CleverCSV detected: delimiter = '', quotechar = ''
++[diseases.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[distritos.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[division.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[DJMAX_ONLINE.csv]: --> CleverCSV detected: delimiter = ';', quotechar = '"'
++[DL-timelog-all.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[DLBCL.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[dlp2232m.csv]: --> CleverCSV detected: delimiter = '\t', quotechar = ''
++[dl_iso_table_a1.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[dmd_quotes.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[dm_grouppoints.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[dna-to-amino-acid.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
+Error was: 'charmap' codec can't decode byte 0x81 in position 1239: character maps to <undefined>
+X [docs.csv]: --> No result from CleverCSV
++[dodgers_2010_schedule.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[doe_jgi_list.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[domain_list.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[donations-min.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+Error was: 'charmap' codec can't decode byte 0x8f in position 6399: character maps to <undefined>
+X [donnees.csv]: --> No result from CleverCSV
++[door.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
+Error was: 'charmap' codec can't decode byte 0x8f in position 2165: character maps to <undefined>
+X [dordotky-followers.csv]: --> No result from CleverCSV
++[dosefactors_external_air.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[double_metaphone.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[Doug.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[doug_locations_360atl.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[downloadstats.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[download_results.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[doxygenTags.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[drinks.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[drive.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[drr-b_publications.csv]: --> CleverCSV detected: delimiter = ';', quotechar = '"'
++[dsa.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+Error was: 'charmap' codec can't decode byte 0x90 in position 278: character maps to <undefined>
+X [dtslist.csv]: --> No result from CleverCSV
++[duck_hunt_pad.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[dude.Symbols.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[dummyData.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+X[dump.csv]: --> CleverCSV detected: delimiter = '#', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
+Error was: 'charmap' codec can't decode byte 0x9d in position 5867: character maps to <undefined>
+X [dumplovr.csv]: --> No result from CleverCSV
+X[dups-same-file.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''| EXPECTED:{delimiter = 'vslash', quotechar = 'doublequote'}
++[Durchschnittliche_Verteilung_der_Aminoaeuren.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[durden_saucer.csv]: --> CleverCSV detected: delimiter = ';', quotechar = '"'
++[E2.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[EADExamples.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[easylife_mapping.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[eBird_Taxonomy_v2016.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[eclipse-keybindings.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[ECS.kml.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[ec_expert_group_individual_members.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[edgwired_clean.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+X[EDMD.d01b.csv]: --> CleverCSV detected: delimiter = ':', quotechar = ''| EXPECTED:{delimiter = 'semicolon', quotechar = 'doublequote'}
+Error was: 'charmap' codec can't decode byte 0x81 in position 5: character maps to <undefined>
+X [ek_atte.csv]: --> No result from CleverCSV
++[el-gordo.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[elapsed.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[elchaschab.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[elecProtoSurveyResponses.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[elec_nuclear.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[Element.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[elements.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[eligible-list-26.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+Error was: 'charmap' codec can't decode byte 0x81 in position 25: character maps to <undefined>
+X [elka_list.csv]: --> No result from CleverCSV
++[ElsevierPricelist2010USD.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[email_graph.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[email_list.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[EMEF_instrumental_teste_Vizir.csv]: --> CleverCSV detected: delimiter = '|', quotechar = '"'
++[employee.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[employees.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[empty-last-column.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+X[Empty.csv]: --> CleverCSV detected: delimiter = '#', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
+Error was: 'charmap' codec can't decode byte 0x8f in position 21: character maps to <undefined>
+X [en-phrases.csv]: --> No result from CleverCSV
++[en.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[enarm-2007.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[Enchantments.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+Error was: 'charmap' codec can't decode byte 0x81 in position 58: character maps to <undefined>
+X [encoder-devkit.csv]: --> No result from CleverCSV
++[Endgame.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+Error was: 'charmap' codec can't decode byte 0x90 in position 7: character maps to <undefined>
+X [enemylist.csv]: --> No result from CleverCSV
++[energyConsumption.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
+X[engine_reqs_2.csv]: --> CleverCSV detected: delimiter = '#', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[english-letters.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = ''
++[english.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[enrollment15_16.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[entries.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[envProperties.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[EPAFHM.mini.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[epcp_database.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[eplusoutMeter.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+X[error.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[Error331_DynCatsMenu.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+X[errorlog.csv]: --> CleverCSV detected: delimiter = ':', quotechar = ''| EXPECTED:{delimiter = 'semicolon', quotechar = 'doublequote'}
++[es.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[eskrim.csv]: --> CleverCSV detected: delimiter = ';', quotechar = '"'
++[estratti.csv]: --> CleverCSV detected: delimiter = '\t', quotechar = ''
++[Ethanol1REYF_Freq.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[ethernet-bus-reconnect.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+X[events.csv]: --> CleverCSV detected: delimiter = '', quotechar = ''| EXPECTED:{delimiter = 'vslash', quotechar = 'doublequote'}
++[eventspaces.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[events_20mar-21apr.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[events_hs.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[event_list.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[EVE_He_II_304_averages.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[ex.data.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[example-data-bad.csv]: --> CleverCSV detected: delimiter = '\t', quotechar = ''
++[example-linebreaks-in-cells.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[example-report.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[example-spreadsheet.csv]: --> CleverCSV detected: delimiter = ';', quotechar = '"'
+X[example.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[example1.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[example_calendar.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[example_course.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[example_csv.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[example_data.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[example_formatted.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[example_puzzles.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[Example_Rabo.csv]: --> CleverCSV detected: delimiter = ';', quotechar = '"'
++[excavation.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[excel-mac-2008.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[excel.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[excel_data.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[exchanges.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[exemple.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[existents.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[exit.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[exoplanetData-19oct2009.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[expanded_rate_matrix.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[expected.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[expected_pachube_request.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[expected_table.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[expeditures-formatted.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[Expenditure_Data_With_TIF_ID.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[expenses.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[expenses_2010.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[EXPEN_IL.csv]: --> CleverCSV detected: delimiter = '\t', quotechar = '"'
++[Experiment1.csv]: --> CleverCSV detected: delimiter = ',', quotechar = "'"
++[experimenter1.csv]: --> CleverCSV detected: delimiter = ',', quotechar = "'"
+Error was: 'charmap' codec can't decode byte 0x9d in position 24: character maps to <undefined>
+X [explanations.csv]: --> No result from CleverCSV
++[export.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[ExportByAnimal.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[exported_pin_input1.csv]: --> CleverCSV detected: delimiter = '\t', quotechar = ''
++[export_1.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[export_2008-08-29_002.csv]: --> CleverCSV detected: delimiter = ';', quotechar = '"'
++[export_cabinet_2_Contact.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[ExSP_Frontend_now.csv]: --> CleverCSV detected: delimiter = ';', quotechar = '"'
++[extended.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
+X[extensions.csv]: --> CleverCSV detected: delimiter = ':', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[ExtPrograms.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[ext_hauptgruppen.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[e_cms.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = ''
++[F040565.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[F24.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[Facilities.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[factor_info.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[facturation.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[Faculty_data.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[failedRecords11241202123325.csv]: --> CleverCSV detected: delimiter = '\t', quotechar = ''
++[fake-authority-add-tags.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[FakeOsd.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+X[fallback_categories.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[families.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[family.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[farm-to-city-philidelphia.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[fdic.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[feats.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[feature.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[Federal_Executive_Branch_Internet_Domains.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[feed-sample3.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[feedback.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+X[feedengine_20120914_1911.csv]: --> CleverCSV detected: delimiter = ':', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[feedlist.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[feedmyapptwitter.csv]: --> CleverCSV detected: delimiter = '', quotechar = ''
+X[feeds.csv]: --> CleverCSV detected: delimiter = '|', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[few-points.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[Fewcards.csv]: --> CleverCSV detected: delimiter = '%', quotechar = '"'
++[fields.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[fig6_data.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[File.csv]: --> CleverCSV detected: delimiter = '\t', quotechar = ''
++[file1.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[fileinvalidhandphone.csv]: --> CleverCSV detected: delimiter = '', quotechar = ''
++[files.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[files_2_97130000000_2010_07_01-2010_07_31.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[file_1.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[file_classification.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[file_list.csv]: --> CleverCSV detected: delimiter = '', quotechar = ''
++[file_with_extra_lines_at_top.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[films.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[filter.csv]: --> CleverCSV detected: delimiter = '\t', quotechar = ''
++[finaloutput.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[finalSheet.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[final_prof_Session3_Context_0.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[Find_Feed.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[find_my_nearest_data.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[firefly_partlist.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = ''
++[first.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[fixtures.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[fk4_no_e_fk4.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[Flagbit_Faq.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[Flagbit_Securepassword.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[flat_file_database.csv]: --> CleverCSV detected: delimiter = '#', quotechar = '"'
++[FlexAccount_expected_output.csv]: --> CleverCSV detected: delimiter = ';', quotechar = '"'
++[flickr_data.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[flights.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[foo.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[food.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[foodinfo.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[foodsoft_file_01.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[food_db.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[for08-rfcd.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[ForAldrin.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[forbes2000list_for_2011.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[forecasts.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[forma3.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[format.csv.csv]: --> CleverCSV detected: delimiter = ';', quotechar = '"'
++[Formats.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[formDeploy.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[fpw_data.csv]: --> CleverCSV detected: delimiter = ';', quotechar = '"'
++[fr.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[FRBRooFinal.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[free_games-2011-03-19.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[frequency_english.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
+Error was: 'charmap' codec can't decode byte 0x9d in position 212: character maps to <undefined>
+X [friends.csv]: --> No result from CleverCSV
++[fsrois_pibindex.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[ftest.csv]: --> CleverCSV detected: delimiter = '\t', quotechar = ''
++[Fulcrum_Import_Template.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[FullList.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[full_feed.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[fuw1.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[f_5500_2010_first9999.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[g3_teach.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[gameplays.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+X[games.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[game_history.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[gao-selected-programs-getting-arra.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[garmin_feature_list.csv]: --> CleverCSV detected: delimiter = '|', quotechar = ''
++[GBPEUR.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[GCI-2011.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[gdoc.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[GDP.World.Countries.csv]: --> CleverCSV detected: delimiter = '\t', quotechar = ''
+Error was: line contains NULL byte
+X [Gedenktafeln.csv]: --> No result from CleverCSV
++[gems.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[gender.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[genebase.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[general.csv]: --> CleverCSV detected: delimiter = '', quotechar = ''
++[generated_build_test.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[genes.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[gene_list.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+X[geocoded_cache.csv]: --> CleverCSV detected: delimiter = ':', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[geodata.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[GeoLiteCity-CountryCodes.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[GeoPC_DE.csv]: --> CleverCSV detected: delimiter = ';', quotechar = '"'
++[geo_data.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[geo_distance.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+Error was: 'charmap' codec can't decode byte 0x81 in position 1115: character maps to <undefined>
+X [german_1.csv]: --> No result from CleverCSV
++[gifts_60.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[gimp.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[ginger_users.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[gis.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+Error was: 'charmap' codec can't decode byte 0x90 in position 3358: character maps to <undefined>
+X [gismu.csv]: --> No result from CleverCSV
++[glasgow-1881-82.csv]: --> CleverCSV detected: delimiter = ';', quotechar = '"'
++[glasgow-veggie.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[glass.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[global.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[globalcountry.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+X[glossary.csv]: --> CleverCSV detected: delimiter = ';', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[GLRB-08-feedback.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[gmail.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[google-analytics-data.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[google.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[google_contacts.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[google_trends_report.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+X[Gouldoutput.csv]: --> CleverCSV detected: delimiter = ':', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
+X[gps.csv]: --> CleverCSV detected: delimiter = ':', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[grades.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+Error was: 'charmap' codec can't decode byte 0x8f in position 5418: character maps to <undefined>
+X [Grand-Challenges-responses.csv]: --> No result from CleverCSV
++[grants.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[graph4b.ent.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = ''
++[graphs.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[graypage_tests.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[greenhouse.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[grid.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = ''
++[gridp.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+X[groups.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[gruppe_ca5_kb1.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[gsi_adresser_og_elevtall_2010.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[gt_datum.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[guests.csv]: --> CleverCSV detected: delimiter = '^', quotechar = ''
++[Guide.csv]: --> CleverCSV detected: delimiter = ';', quotechar = '"'
++[guttenplag.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+X[hack_entries.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[HaitiClinicOrg.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[HaitiHealthFacilities_Master2.csv]: --> CleverCSV detected: delimiter = '\t', quotechar = '"'
++[hamster_carcinogenicity.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[handling_events.csv]: --> CleverCSV detected: delimiter = '\t', quotechar = ''
+Error was: 'charmap' codec can't decode byte 0x81 in position 202: character maps to <undefined>
+X [hanzi.csv]: --> No result from CleverCSV
++[haproxy.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[hash.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[hazards.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[header_NUT_DATA.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[heats2011.csv]: --> CleverCSV detected: delimiter = ';', quotechar = '"'
+Error was: 'charmap' codec can't decode byte 0x9d in position 291: character maps to <undefined>
+X [heisig-data.csv]: --> No result from CleverCSV
++[helios.csv]: --> CleverCSV detected: delimiter = '|', quotechar = '"'
++[help.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[help_text.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[henchmen.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+X[HidTEMPer_2011Y4M15D10h51m52s.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[highlights.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[Highscores.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+Error was: 'charmap' codec can't decode byte 0x81 in position 65: character maps to <undefined>
+X [himia.csv]: --> No result from CleverCSV
++[history.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[hit-data-1.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[hn_data.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[hockey.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[homeworks.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[HourlyHits.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[HouseDopByDivisionDownload-15508.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[HouseHoldTrends.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[HouseTppByPollingPlaceDownload-15508.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[hrdata.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[hr_by_team_year_sf_la.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+Error was: 'charmap' codec can't decode byte 0x81 in position 22: character maps to <undefined>
+X [hsk.csv]: --> No result from CleverCSV
+Error was: 'charmap' codec can't decode byte 0x90 in position 23: character maps to <undefined>
+X [hskflashcards.com_npcr.csv]: --> No result from CleverCSV
++[HS_vs_Control_proteins.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[html_color_families.csv]: --> CleverCSV detected: delimiter = '', quotechar = ''
++[human_micro_meta.csv]: --> CleverCSV detected: delimiter = '\t', quotechar = ''
++[hw3stats.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[IAEA_Nuclear_Facilities.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[iata_airports.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+Error was: 'charmap' codec can't decode byte 0x81 in position 48: character maps to <undefined>
+X [ibge_cidades_brasil.csv]: --> No result from CleverCSV
++[iconbar-hermes.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[icons.csv]: --> CleverCSV detected: delimiter = ':', quotechar = ''
++[icon_info.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[ideal_points.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+X[ideas.csv]: --> CleverCSV detected: delimiter = ':', quotechar = ''| EXPECTED:{delimiter = 'tab', quotechar = 'doublequote'}
++[idioms.csv]: --> CleverCSV detected: delimiter = ':', quotechar = ''
++[ie_data.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[IFDThor_loss_white.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+Error was: 'charmap' codec can't decode byte 0x81 in position 1110: character maps to <undefined>
+X [ifpr_ementario_si_matriz_2009.csv]: --> No result from CleverCSV
++[image_formats.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[image_sources.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[import.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[importar_diputados.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[importer_sample.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[ImportTemplate.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[import_dates.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[import_issue_template.csv]: --> CleverCSV detected: delimiter = ';', quotechar = '"'
++[import_sample.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[import_valid.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[improvs.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[IN.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[incomplete.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+X[index.csv]: --> CleverCSV detected: delimiter = '*', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
+Error was: 'charmap' codec can't decode byte 0x8f in position 70: character maps to <undefined>
+X [index_cfi.csv]: --> No result from CleverCSV
++[indicatorgapminderpopulation.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+X[Indirizzo_Disney.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
+X[industries.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[IndustryPortfolios.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[info.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[Ingredients.csv]: --> CleverCSV detected: delimiter = '\t', quotechar = ''
++[ingredients_rename.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[inits.csv]: --> CleverCSV detected: delimiter = '\t', quotechar = '"'
++[input-test.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+Error was: 'charmap' codec can't decode byte 0x8d in position 441: character maps to <undefined>
+X [input.csv]: --> No result from CleverCSV
++[input_data.csv]: --> CleverCSV detected: delimiter = '|', quotechar = ''
++[inquireraugmented_osgood.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[InquirerPESTLE.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[insee.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[install.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[instructions.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[insurances.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[intc.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+Error was: line contains NULL byte
+X [interim_results.csv]: --> No result from CleverCSV
++[intrinsics.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '`'
++[intro.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[invalid_must_end_word.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[invalid_taxa.csv]: --> CleverCSV detected: delimiter = '|', quotechar = '"'
++[invent.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[inventory.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[InvoiceImportTemplate.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[ioa_members.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[iometeroutput.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+X[ip-log.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '~'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[ipfix-information-element-data-types.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+X[IpToCountry.csv]: --> CleverCSV detected: delimiter = '#', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[ipv4-address-space.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+X[ip_locations.csv]: --> CleverCSV detected: delimiter = '#', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[iqbio.pasurvey.workflow.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[ir.model.access.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[irisdata.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[ISA-BiocViews-mapping.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[isbn_list.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[isco.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
+Error was: line contains NULL byte
+X [ISO-3166.csv]: --> No result from CleverCSV
+Error was: 'charmap' codec can't decode byte 0x8d in position 612: character maps to <undefined>
+X [iso15924.csv]: --> No result from CleverCSV
++[iso3166-3.csv]: --> CleverCSV detected: delimiter = '\t', quotechar = ''
++[iso4217.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+Error was: 'charmap' codec can't decode byte 0x90 in position 41: character maps to <undefined>
+X [ISO_639-1_codes.csv]: --> No result from CleverCSV
++[iso_countries.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[issues.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+Error was: 'charmap' codec can't decode byte 0x9d in position 25: character maps to <undefined>
+X [item.csv]: --> No result from CleverCSV
+X[items-custom.csv]: --> CleverCSV detected: delimiter = '#', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[items.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+Error was: 'charmap' codec can't decode byte 0x81 in position 5: character maps to <undefined>
+X [item_info.csv]: --> No result from CleverCSV
++[itt_sample_data-two_factor.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+Error was: 'charmap' codec can't decode byte 0x8f in position 2546: character maps to <undefined>
+X [iTunesMusic.csv]: --> No result from CleverCSV
++[itut.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+Error was: 'charmap' codec can't decode byte 0x8d in position 412: character maps to <undefined>
+X [japanese.csv]: --> No result from CleverCSV
+Error was: 'charmap' codec can't decode byte 0x8f in position 72: character maps to <undefined>
+X [japanese.responses.csv]: --> No result from CleverCSV
++[java-competencies-data.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[JeannieProperties.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+X[jlpt-n1.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[jmhKlausEnBlocControl092110.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[JointList_JoinGOTable.csv]: --> CleverCSV detected: delimiter = ';', quotechar = '"'
+X[jos_assets.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'singlequote'}
++[jos_categories.csv]: --> CleverCSV detected: delimiter = ',', quotechar = "'"
++[js_quantile.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[judgedonations.csv]: --> CleverCSV detected: delimiter = '|', quotechar = ''
++[July2011Updates.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[june2011.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[junk.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[JV_newsite_IBC_current_20110517.csv]: --> CleverCSV detected: delimiter = ',', quotechar = "'"
++[JWQ.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+Error was: 'charmap' codec can't decode byte 0x9d in position 4401: character maps to <undefined>
+X [jws-98cbe3ed2c5155525c5f85e0b3fe48bc.csv]: --> No result from CleverCSV
++[kabupaten.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[kali-freund-cell-file.csv]: --> CleverCSV detected: delimiter = '\t', quotechar = ''
+Error was: 'charmap' codec can't decode byte 0x81 in position 46: character maps to <undefined>
+X [kanji_dictionary.csv]: --> No result from CleverCSV
+Error was: 'charmap' codec can't decode byte 0x81 in position 145: character maps to <undefined>
+X [katakana.csv]: --> No result from CleverCSV
+Error was: 'charmap' codec can't decode byte 0x90 in position 8: character maps to <undefined>
+X [katakana_romaji.csv]: --> No result from CleverCSV
++[Katalog-Book-Tester.csv]: --> CleverCSV detected: delimiter = ';', quotechar = '"'
++[kategorimapping.csv]: --> CleverCSV detected: delimiter = ';', quotechar = '"'
++[kcdbconfig.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+Error was: 'charmap' codec can't decode byte 0x81 in position 70: character maps to <undefined>
+X [ke-tai_list.csv]: --> No result from CleverCSV
+Error was: 'charmap' codec can't decode byte 0x81 in position 17: character maps to <undefined>
+X [ken.csv]: --> No result from CleverCSV
+Error was: 'charmap' codec can't decode byte 0x81 in position 158: character maps to <undefined>
+X [kenp.csv]: --> No result from CleverCSV
++[kenpom_2016.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[kenwood-ts480.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[kerg.csv]: --> CleverCSV detected: delimiter = ';', quotechar = '"'
++[kernel_api.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[keymaps.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[keyword-count.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
+Error was: 'charmap' codec can't decode byte 0x81 in position 66: character maps to <undefined>
+X [KFP-2000-2009.csv]: --> No result from CleverCSV
++[kim_spikes.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+Error was: 'charmap' codec can't decode byte 0x81 in position 58: character maps to <undefined>
+X [kindle-uart.csv]: --> No result from CleverCSV
++[kipr-country-count.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = ''
++[kiwifruit.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+X[kmllist.csv]: --> CleverCSV detected: delimiter = ':', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
+Error was: 'charmap' codec can't decode byte 0x9d in position 127: character maps to <undefined>
+X [kms-properties.csv]: --> No result from CleverCSV
+Error was: 'charmap' codec can't decode byte 0x90 in position 22: character maps to <undefined>
+X [KOATUU_072011.csv]: --> No result from CleverCSV
++[kodepos-2008-10-20.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[kontoplan-ffr.xls.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[kroger_scs_feed.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[kunden.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[l3prefixes.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[la-riots-deaths.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[labs.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[lacounty.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[ladysmith_schedule-2011.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[lakes.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[lala.csv]: --> CleverCSV detected: delimiter = '\t', quotechar = ''
++[lambda-0.1.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = ''
++[landfills.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[LandonlineCharSet.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+X[langs.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''| EXPECTED:{delimiter = 'semicolon', quotechar = 'doublequote'}
++[language.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[language.school.course.level.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+Error was: 'charmap' codec can't decode byte 0x8d in position 804: character maps to <undefined>
+X [languages.csv]: --> No result from CleverCSV
+Error was: 'charmap' codec can't decode byte 0x81 in position 626: character maps to <undefined>
+X [Language_codes_ISO_639-1.csv]: --> No result from CleverCSV
+Error was: 'charmap' codec can't decode byte 0x81 in position 6118: character maps to <undefined>
+X [langues.csv]: --> No result from CleverCSV
++[lang_de.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[large.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[last-lov-prefixes-for-pcc.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[latest_stories.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[latest_tarball.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[latlong.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[latlongdata.csv]: --> CleverCSV detected: delimiter = '\t', quotechar = ''
++[layout_schema_enumerations.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[la_yumba.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[lca_2015.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[LCM_Data.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[lcr_all.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[ldnsub_stops.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[LeaderVolumeNoCommunicationLowGroupSize.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[Legacies_User.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[legislators.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[level.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[libraries.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[librarything.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[lif.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[lilypond-issues-analysis-trim-duplicates.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+X[limesurvey_survey_94328.csv]: --> CleverCSV detected: delimiter = '#', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[limited_set.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[linestations.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[linetransectexample.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+Error was: 'charmap' codec can't decode byte 0x81 in position 10: character maps to <undefined>
+X [linked-phone.csv]: --> No result from CleverCSV
+Error was: 'charmap' codec can't decode byte 0x9d in position 3843: character maps to <undefined>
+X [links.csv]: --> No result from CleverCSV
++[links_doc.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[linlog.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+Error was: local variable 'dialect' referenced before assignment
+X [linodef_bueditor_button.csv]: --> No result from CleverCSV
++[list.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[ListaProc.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[listener-data.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[liste_des_prenoms_2004_a_2012.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[ListScroll.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+Error was: 'charmap' codec can't decode byte 0x81 in position 279: character maps to <undefined>
+X [Listup001.csv]: --> No result from CleverCSV
++[livemail_de.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[LM3S828-pins.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[load_fund_structure_data.csv]: --> CleverCSV detected: delimiter = ';', quotechar = '"'
++[local-elections-candidate-votes-ward-2006.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+Error was: 'charmap' codec can't decode byte 0x81 in position 26: character maps to <undefined>
+X [locale.csv]: --> No result from CleverCSV
+Error was: 'charmap' codec can't decode byte 0x9d in position 31: character maps to <undefined>
+X [LocalGeocoder_cities.csv]: --> No result from CleverCSV
++[local_services.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[locations.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+Error was: 'charmap' codec can't decode byte 0x81 in position 331: character maps to <undefined>
+X [locations_cities.csv]: --> No result from CleverCSV
++[locationtags.csv]: --> CleverCSV detected: delimiter = ',', quotechar = "'"
++[log.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[logDev.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[logindataSrJr.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[lognorm_params.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[LOGS__2010-02-19-2200.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[LOGS__2010-05-19-0300.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[log_metas.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[lovegames.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[lowest_repo_for_each_user.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = ''
+Error was: local variable 'dialect' referenced before assignment
+X [lp-cached.csv]: --> No result from CleverCSV
++[lugares.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[luigi_shortcut_configuration.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[Lyndebrook.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[M00000015.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[maatkit-issues.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[macosx.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[maestro.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[Mage_Adminhtml.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[Mage_Catalog.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[Mage_Lucene.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+X[maillist.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
+X[main.csv]: --> CleverCSV detected: delimiter = ';', quotechar = '"'| EXPECTED:{delimiter = 'eqsign', quotechar = 'doublequote'}
++[maindata.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[main_pad.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[makes_models.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[malformed.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[mammalia-10.csv]: --> CleverCSV detected: delimiter = '\t', quotechar = ''
++[manual_stops.csv]: --> CleverCSV detected: delimiter = '\t', quotechar = ''
+Error was: 'charmap' codec can't decode byte 0x8f in position 7: character maps to <undefined>
+X [manyou_utf8.csv]: --> No result from CleverCSV
+X[map.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''| EXPECTED:{delimiter = 'semicolon', quotechar = 'doublequote'}
+Error was: 'charmap' codec can't decode byte 0x9d in position 104: character maps to <undefined>
+X [map590013.csv]: --> No result from CleverCSV
+X[mapfile.csv]: --> CleverCSV detected: delimiter = '#', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[MapiTags.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[mapping.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[maps.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[marc2prodmargin.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[march.csv]: --> CleverCSV detected: delimiter = '\t', quotechar = '"'
++[MARINE_TRAFFIC_DUMP.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[marin_demographics_code_sets.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[market_comments_template.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[marks.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[matching-1.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[math.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[mayu_FDR_analysis.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[Mbid_Magebid.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[mcdlist.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[mdl_question.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[medals.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[members-20090831-161616a.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+Error was: 'charmap' codec can't decode byte 0x81 in position 2: character maps to <undefined>
+X [mendel.csv]: --> No result from CleverCSV
++[messages.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[Metadata_ApiaryDisplay_ROIs_Rules.csv]: --> CleverCSV detected: delimiter = ';', quotechar = '"'
++[metagenome.blout.127.out.megan.csv]: --> CleverCSV detected: delimiter = '|', quotechar = ''
++[metaspring.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[methane.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[metricData.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[metro.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+X[Metrof_FBConnect.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[metronome_10x1_fault.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = ''
++[mgrs_index.csv]: --> CleverCSV detected: delimiter = '\t', quotechar = ''
++[mibbi.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[MicrosoftTermCollection-bel.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[midas_test_1.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[migracje.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[migrate-disqus.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[mimetypes.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[mindapples_20090918_1846.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[mindstream_sample.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[minimal_data.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[minimal_scene.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[mlbplayers-good.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[MLB_Teams.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[mlrs.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[mmr_hh_spatial.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[mmusculus_ncbi36_ensemblgene.txt.csv]: --> CleverCSV detected: delimiter = '\t', quotechar = ''
++[MM_CatalogVisibility.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[MNI-BAs-6239-voxels.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[mn_world.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[MOAD_dataset.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[mobilefoodpermits.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[mobile_image_map_docomo.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[mobility_sample.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[model.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[Models.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[modencode-22August2011.csv]: --> CleverCSV detected: delimiter = '\t', quotechar = ''
++[modifconv.csv]: --> CleverCSV detected: delimiter = '\t', quotechar = ''
++[Modules.csv]: --> CleverCSV detected: delimiter = '\t', quotechar = ''
++[Mon-Thurs-North.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[mongodb_rs_init.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[monqi_classes_export.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[monthly_ftse_data.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[morts.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[mostly_valid_venues.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[most_abundant_elements.csv]: --> CleverCSV detected: delimiter = '', quotechar = '"'
++[motor.csv]: --> CleverCSV detected: delimiter = '\t', quotechar = ''
++[motor_control_pad.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[moves.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[movies.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[movies2.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[movie_answers.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[mozilla-result.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[Mozillapeopleevents.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[mp-expenses.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[MRMessages.csv]: --> CleverCSV detected: delimiter = '\t', quotechar = '"'
++[mrsatrusts.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[msft.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[MSH_PLOT_DESCRIPTORS.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+Error was: 'charmap' codec can't decode byte 0x81 in position 165: character maps to <undefined>
+X [mst_compositions.csv]: --> No result from CleverCSV
++[mta_subway_info.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[multicolumnexample.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[multipleMentorMentee.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[mundial-fase1.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+Error was: 'charmap' codec can't decode byte 0x81 in position 870: character maps to <undefined>
+X [municipios.csv]: --> No result from CleverCSV
++[mushroom.data.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[mxoClothing.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[mychores-sermoa-20070509-202919.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[mycontact.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[myfile.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[MyLastLoad.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+Error was: local variable 'dialect' referenced before assignment
+X [MyList.csv]: --> No result from CleverCSV
++[mystery.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[my_Jess_Robinson.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[my_new_csv.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[n225.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[nace07.csv]: --> CleverCSV detected: delimiter = '|', quotechar = ''
++[NACE2.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[NAIC.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[name.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+X[NamedCharacters.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
+X[names.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[national-issues.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[navmesh2.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[NAVTEX_Stations.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
+Error was: local variable 'dialect' referenced before assignment
+X [na_colors.csv]: --> No result from CleverCSV
+Error was: local variable 'dialect' referenced before assignment
+X [NA_letters.csv]: --> No result from CleverCSV
++[nearmap.csv]: --> CleverCSV detected: delimiter = '\t', quotechar = ''
++[NephrineMedianThresh.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
+X[networks.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[network_dec2010.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[net_cfg_2BitAddierer.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[neutralLoss.csv]: --> CleverCSV detected: delimiter = '\t', quotechar = ''
++[new.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[newtebu.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[new_order_format.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[new_world_prefixes.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[new_york_islanders.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[next_q.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[nf2_top_par_pad.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[nielsen-genes.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[NMEA_testdata_echosounder.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[node.csv]: --> CleverCSV detected: delimiter = ';', quotechar = '"'
++[nodeCounts.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+X[nodes.csv]: --> CleverCSV detected: delimiter = ',', quotechar = "'"| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
+X[non-profit-test-data_chart-of-accounts.csv]: --> CleverCSV detected: delimiter = ':', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
+X[norm.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
+X[normal.csv]: --> CleverCSV detected: delimiter = ',', quotechar = "'"| EXPECTED:{delimiter = 'semicolon', quotechar = 'doublequote'}
++[normexport.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[northeast_raw_blackout_data2.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = ''
++[notepad.csv]: --> CleverCSV detected: delimiter = ';', quotechar = '"'
++[no_scheme_to_scheme.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+Error was: 'charmap' codec can't decode byte 0x90 in position 18: character maps to <undefined>
+X [npc.csv]: --> No result from CleverCSV
++[num-mscc-undir.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[numbers.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[nyc-open-data.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[nyord-split.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[ny_only.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[object.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[observations.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[obstaculosFaseDois.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[oc_cci.South_Pacific_Gyre.csv]: --> CleverCSV detected: delimiter = '\t', quotechar = ''
+X[Offer_Grid_v2.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[OGS_Headstage.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[old-legislators.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[OLDcountriesregions.csv]: --> CleverCSV detected: delimiter = ';', quotechar = '"'
++[old_footfuzion_bdd.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[old_guestbook.csv]: --> CleverCSV detected: delimiter = '\t', quotechar = '"'
++[OLED1.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[ol_article.csv]: --> CleverCSV detected: delimiter = ';', quotechar = '"'
++[one-line-with-accents.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[one_iteam_sample_products.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[one_line.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[oolite_galaxy_1.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[open-site-list-jul-2011.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[Operators.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[opto-endstop.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
+X[op_politician_birth_dates.csv]: --> CleverCSV detected: delimiter = ':', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[ORcontestData.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[order.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[orders.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[OrderTestCase.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[order_statuses.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[organisations.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[OrgProfiles-CAAB.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+Error was: 'charmap' codec can't decode byte 0x8d in position 15: character maps to <undefined>
+X [ORGS_Strediska.csv]: --> No result from CleverCSV
++[Orig_J5_1026_Session1_Context_0.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[ORliquor.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[orr.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[out-of-order-dates.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+X[out.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'| EXPECTED:{delimiter = 'tab', quotechar = 'doublequote'}
++[out.sample.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[outlook_contacts.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[OutputOfBiGramModel.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[output_for_test_134546012.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[owners.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[OxigenCountryList.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[oystercard_payg_stations.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[pacjenci.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[pages.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+Error was: 'charmap' codec can't decode byte 0x81 in position 664: character maps to <undefined>
+X [palestras.csv]: --> No result from CleverCSV
++[paperpile.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[parameters.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+Error was: 'charmap' codec can't decode byte 0x81 in position 11: character maps to <undefined>
+X [paroquias.csv]: --> No result from CleverCSV
++[paro_por_comunidades.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[participants.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[partition_rpt.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[parts.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[parts_list.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[party.estimates.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[par_csv.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[passwd.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[patch-freebsd_events.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[patient.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[patients.gender.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[pawn_0_spiral_oscoutput.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[paypal.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[pc-full_20100330.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[PCB_trace-via_specs.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[pcecd.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[PDASchedule.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[peaks_vanja.csv]: --> CleverCSV detected: delimiter = ';', quotechar = '"'
++[people.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[people_base.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[Pepper_mutants.csv]: --> CleverCSV detected: delimiter = '\t', quotechar = ''
++[percentHandData.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[perlsurvey2007.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[persone.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[personinfo.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[pfif-1.2-example-long.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[PGC2008.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[pg_settings.csv]: --> CleverCSV detected: delimiter = ';', quotechar = '"'
++[Pharmacy-Finder.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+Error was: 'charmap' codec can't decode byte 0x90 in position 319: character maps to <undefined>
+X [phonography_lib.csv]: --> No result from CleverCSV
++[photos.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+X[phrasen.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[PhraseTranslationTemplate.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[PIC10-MCU-2011-03-26.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+X[picasso.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''| EXPECTED:{delimiter = 'tab', quotechar = 'doublequote'}
+X[pids.csv]: --> CleverCSV detected: delimiter = ':', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[pinout_lpqf_144.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[pitch.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = ''
++[pivotal_tracker.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[pizza.csv]: --> CleverCSV detected: delimiter = ';', quotechar = '"'
++[place_kshcode_postcode_points.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[plane.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[planificacion-definitiva-proyecto.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
+Error was: 'charmap' codec can't decode byte 0x8f in position 150: character maps to <undefined>
+X [plan_sample.csv]: --> No result from CleverCSV
++[Plates.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+X[playerList.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[players.csv]: --> CleverCSV detected: delimiter = ';', quotechar = '"'
++[playlist.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[plentyways_product_feed_jun_2010.csv]: --> CleverCSV detected: delimiter = ':', quotechar = '"'
++[plotwatt_appliance_data.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[plugins_list.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[plz.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[pmd-report.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+X[poblacion.csv]: --> CleverCSV detected: delimiter = ';', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
+X[points.csv]: --> CleverCSV detected: delimiter = ';', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
+Error was: 'charmap' codec can't decode byte 0x8d in position 14: character maps to <undefined>
+X [pokedex.csv]: --> No result from CleverCSV
+Error was: 'charmap' codec can't decode byte 0x9d in position 139: character maps to <undefined>
+X [polyglot-errors.csv]: --> No result from CleverCSV
++[popplace.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[PositionRoleDuty.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[Possible_HTT_Proteins.csv]: --> CleverCSV detected: delimiter = '|', quotechar = ''
++[post.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[postcodes.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[postervideo.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[Postnummer0904.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[postnummer_liste.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[posts.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+X[post_list.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[post_sample_csv.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[POS_Tags.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[ppg2008.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+Error was: 'charmap' codec can't decode byte 0x8f in position 4: character maps to <undefined>
+X [ppldic.csv]: --> No result from CleverCSV
++[practica1_pad.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[prd-tasks.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[predictions.csv]: --> CleverCSV detected: delimiter = '\t', quotechar = '"'
++[preferences.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[prefixes.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[preise.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[presidents.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[preview.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[prices.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[price_results-chi-shanghai-2011-04-16_july-travelocity.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+X[primer.primer.csv]: --> CleverCSV detected: delimiter = ';', quotechar = "'"| EXPECTED:{delimiter = 'semicolon', quotechar = 'doublequote'}
++[primes_to_750000.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[primitives_by_release.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[PRIOR_TO_RESTART_Fri_Dec_24_17_32_02_EST_2010_database.dat.noforce.300K_clean.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[private.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[processed.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[prod.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[productos.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[ProductPages.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+X[products.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'singlequote'}
++[prodversionmin.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+Error was: 'charmap' codec can't decode byte 0x8d in position 516: character maps to <undefined>
+X [professores_rede.csv]: --> No result from CleverCSV
++[profiler.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[profiler_output_v1.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[programming_inventory.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[programs.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[projection.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = '"'
++[projectplan.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[projects_collected.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[PropertyList.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
+Error was: 'charmap' codec can't decode byte 0x8d in position 67: character maps to <undefined>
+X [proracun_2010.csv]: --> No result from CleverCSV
++[protected.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[proveedores-laindell.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[prt_statuses.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[PR_INFO.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[PSSA_Results_Math_and_Reading_School_2009.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[PTCAR-GPS.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
+X[pt_BR.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'| EXPECTED:{delimiter = 'semicolon', quotechar = 'doublequote'}
++[publish.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[pubs.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[pull_requests.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[PVS-CRP.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[PWM_pad.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[Pyroprints.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[pysolar_v_usno.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[queenController_pad.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+Error was: 'charmap' codec can't decode byte 0x8f in position 389: character maps to <undefined>
+X [query.csv]: --> No result from CleverCSV
++[queryresults.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[QuestionaireResults.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[questions.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[quiz-fragen.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[quiz-questions.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[quotes.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[r-rho.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = ''
++[radiohead_data_frame2.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[rail-points.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[rails.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[rankedridings.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[rates.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[ratinghistory_kwo.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[ratings.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[rat_king.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[raw-data-russian-parlimentary-elections-2011-english-headers-only-no-links.csv]: --> CleverCSV detected: delimiter = ';', quotechar = '"'
++[rawdata.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+Error was: 'charmap' codec can't decode byte 0x9d in position 152: character maps to <undefined>
+X [raw_58_house.csv]: --> No result from CleverCSV
++[rcc1.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[rc_encode.csv]: --> CleverCSV detected: delimiter = ';', quotechar = '"'
++[rdfschema-payment.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[readings.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[really-space-separated.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = ''
+Error was: 'charmap' codec can't decode byte 0x81 in position 21: character maps to <undefined>
+X [realty_fields.csv]: --> No result from CleverCSV
++[receiver.bom.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[receiver_3.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+X[record_labels.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[redbridge-freedom-of-information-requests.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[rede-social-pivotal.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[ref.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[regions.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[region_adjacency_matrix.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = '"'
+Error was: local variable 'dialect' referenced before assignment
+X [register_data.csv]: --> No result from CleverCSV
++[registry.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[RegulationMatrix_Documented_20091117_131_1479138127.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[reg_codes.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[Release_OLSD_V3_RevB_BOM.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[reordering_speed.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[repeated_fields.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[replace.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[repolist.csv]: --> CleverCSV detected: delimiter = ';', quotechar = "'"
++[report.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[report_.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = ''
++[requisitos.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[res-5.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[ReseqChip_ParamsNcall.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = ''
++[reserve_Log.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[resorts.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[resource.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+X[resources.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = '"'| EXPECTED:{delimiter = 'semicolon', quotechar = 'doublequote'}
++[respaldo.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[responses.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[restaurants-de.csv]: --> CleverCSV detected: delimiter = '|', quotechar = ''
+Error was: 'charmap' codec can't decode byte 0x8f in position 29: character maps to <undefined>
+X [restaurants.csv]: --> No result from CleverCSV
++[resultado-2004.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+X[results.csv]: --> CleverCSV detected: delimiter = '\t', quotechar = "'"| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[results4.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[results4A3I.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[ResultsKB201101271.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[retorts.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+X[rgb.csv]: --> CleverCSV detected: delimiter = '#', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[risk2008.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[Riskanalys.csv]: --> CleverCSV detected: delimiter = '\t', quotechar = "'"
+X[RockApplication.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[RolapResultTest.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+Error was: 'charmap' codec can't decode byte 0x81 in position 246: character maps to <undefined>
+X [roles.csv]: --> No result from CleverCSV
++[routes.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[routingzones.csv]: --> CleverCSV detected: delimiter = '\t', quotechar = ''
++[rssfeeds.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[rswn-print-everything.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[RTAData-abbrev.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[RubyCsv.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[ruleTable.csv]: --> CleverCSV detected: delimiter = '|', quotechar = ''
++[runData.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+Error was: 'charmap' codec can't decode byte 0x8f in position 94: character maps to <undefined>
+X [ru_RU.csv]: --> No result from CleverCSV
++[S3.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[Saferpay_Ecommerce.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[sample-army-bonuses.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+X[sample-graphics.csv]: --> CleverCSV detected: delimiter = ';', quotechar = "'"| EXPECTED:{delimiter = 'tab', quotechar = 'doublequote'}
++[sample-input.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+Error was: 'charmap' codec can't decode byte 0x81 in position 102: character maps to <undefined>
+X [sample-ngrams-ar.csv]: --> No result from CleverCSV
++[Sample-Spending.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[sample.barcodes.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+X[sample.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[SampleFile.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[samples.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[SampleSheet.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[sample_city_data.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[sample_clearcats_investigator_upload_file.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[sample_eventitems.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[sample_mailing_list.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+Error was: local variable 'dialect' referenced before assignment
+X [sample_map.csv]: --> No result from CleverCSV
++[sample_products.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[Sample_report-2014-02-27_20-25-45.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[sample_spreadsheet.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+X[sample_talks.csv]: --> CleverCSV detected: delimiter = '\t', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[sample_tax_rates.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[sample_user.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[SaveTogether_InitialSavers_22Mar10.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+Error was: 'charmap' codec can't decode byte 0x8d in position 303: character maps to <undefined>
+X [savivaldybes.csv]: --> No result from CleverCSV
++[sber-1000.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+Error was: 'charmap' codec can't decode byte 0x81 in position 153: character maps to <undefined>
+X [SbToDocomo.csv]: --> No result from CleverCSV
++[ScaleWorks_Bitcoin.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[scandal_tour.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[SCFP2007_codebook.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[schedule.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[Schlib1.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[schools.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[schtsk.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[score.csv]: --> CleverCSV detected: delimiter = '|', quotechar = ''
++[scores.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+X[SdkMasterLog.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[se-2010-01-27.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+X[sectors.csv]: --> CleverCSV detected: delimiter = '&', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[sectors_export.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[SecurityControls.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[seed_data.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[seekpoints.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[seg7_decoder_pad.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+X[sent_testfile.csv]: --> CleverCSV detected: delimiter = ':', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
+Error was: local variable 'dialect' referenced before assignment
+X [Seq1.csv]: --> No result from CleverCSV
++[servdefs.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[servers.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[Session1.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[set001.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[sets.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[sf_scmtype.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[shady_hoodz.csv]: --> CleverCSV detected: delimiter = '|', quotechar = ''
++[shakespeare.csv]: --> CleverCSV detected: delimiter = '|', quotechar = ''
++[sheet1.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[shelters.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+Error was: 'charmap' codec can't decode byte 0x90 in position 4: character maps to <undefined>
+X [shipping_list.csv]: --> No result from CleverCSV
++[shops.csv]: --> CleverCSV detected: delimiter = ';', quotechar = '"'
+Error was: 'charmap' codec can't decode byte 0x90 in position 337: character maps to <undefined>
+X [shortcuts.csv]: --> No result from CleverCSV
++[Shot.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[show.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[showcase-cs.csv]: --> CleverCSV detected: delimiter = '=', quotechar = ''
++[sim.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = ''
++[simulchart_20110715_0243.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[simulwfc.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[SingleColumnWorkbook.csv]: --> CleverCSV detected: delimiter = '', quotechar = ''
++[single_bounced_subscriber.csv]: --> CleverCSV detected: delimiter = '', quotechar = ''
+Error was: 'charmap' codec can't decode byte 0x81 in position 12: character maps to <undefined>
+X [sites.csv]: --> No result from CleverCSV
++[SITE_SETUP_FILE.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[size.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+Error was: 'charmap' codec can't decode byte 0x81 in position 44: character maps to <undefined>
+X [sjis.csv]: --> No result from CleverCSV
++[Skills.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[Slot2007.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[sm1.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[small-gmail-to-outlook.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[soil_natures.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[solar-system.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[some.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+X[something-cool.csv]: --> CleverCSV detected: delimiter = ':', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[sonde_1_4-24-13--2.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[songs.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+Error was: local variable 'dialect' referenced before assignment
+X [source-en.csv]: --> No result from CleverCSV
++[sp500-March-19-2010.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[sp500.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+Error was: 'charmap' codec can't decode byte 0x81 in position 774: character maps to <undefined>
+X [spanish_countries.csv]: --> No result from CleverCSV
++[Sparkasse.csv]: --> CleverCSV detected: delimiter = ';', quotechar = '"'
++[species.csv]: --> CleverCSV detected: delimiter = ',', quotechar = "'"
++[species_import_template.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[specrows.csv]: --> CleverCSV detected: delimiter = ';', quotechar = '"'
++[spectest-progress.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[spreadsheet-example.csv]: --> CleverCSV detected: delimiter = ';', quotechar = '"'
++[SPY_100_5.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[SP_training_data_Q1_w_dpriceQ2.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[STATE.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+Error was: 'charmap' codec can't decode byte 0x81 in position 26: character maps to <undefined>
+X [state_code.csv]: --> No result from CleverCSV
++[station-locations.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+X[stations.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[station_data_1h.csv]: --> CleverCSV detected: delimiter = '\t', quotechar = ''
++[StatisticalData.0.csv]: --> CleverCSV detected: delimiter = '\t', quotechar = '"'
++[statistics.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[stats-1.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[stats.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[Stats_out_MCMC_correct_prob.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+X[status.csv]: --> CleverCSV detected: delimiter = ',', quotechar = "'"| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[STEC_O157_model.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[steps.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[stereo-pwm.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[stmt-mcm-v201103.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[stolenvehicles.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[stonePine1FieldData.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[stoplist.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[stopwordlist.csv]: --> CleverCSV detected: delimiter = '', quotechar = '"'
++[stopWords.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+X[stop_times_r.csv]: --> CleverCSV detected: delimiter = ':', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[stores.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[store_products.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[stories.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[streets.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[street_names_alaska.csv]: --> CleverCSV detected: delimiter = '|', quotechar = ''
++[strings.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+X[stringtable.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[students.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[SUB-EST2009-IP.UTF-8.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[subjects_categories_wok.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[subscriptions.csv]: --> CleverCSV detected: delimiter = '', quotechar = ''
++[suburbs.csv]: --> CleverCSV detected: delimiter = '|', quotechar = ''
++[success.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[sudoku.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[suffixDN-test-presidents.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[summary.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[summary_1000x10.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[sunnybeam.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[supercali_import_template.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[supplyItemTest.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[supported_encodings.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[surfing_data.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[susp-ignored.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[sy-export.csv]: --> CleverCSV detected: delimiter = ';', quotechar = '"'
++[syscall.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[system_pad.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[t.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[tab1.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[table.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[table1.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[table_assertion.csv]: --> CleverCSV detected: delimiter = ';', quotechar = '"'
++[TAFishConfiguration.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[tags.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[talks.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[target.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[task_types.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[Taxonomy.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = ''
+X[tblDistributors.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[TDR.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[teams.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[techism-events.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[temp.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+X[temperatures.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[template.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[templecraft-en-US.csv]: --> CleverCSV detected: delimiter = '=', quotechar = ''
++[temp_eight.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[tentative_accounts.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[terms.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[tes.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[test-columnar.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[test-csv-graph-c135.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+X[test-csv.csv]: --> CleverCSV detected: delimiter = ',', quotechar = "'"| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[test-seb.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[test-spreadsheet-for-csv-blank-row.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[test.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[test0.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[test1.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[test1_estadisticas.csv]: --> CleverCSV detected: delimiter = '\t', quotechar = '"'
++[test3.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[testboxcsv.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[testcase-1.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[testcase.users.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[testdata-dump.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[testdata.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[testDataLoad1.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[testdaten.csv]: --> CleverCSV detected: delimiter = ':', quotechar = ''
+Error was: line contains NULL byte
+X [testeProjeto22009.csv]: --> No result from CleverCSV
++[testers.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[testFilenameAgainstPattern.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[TestGridMatch.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+Error was: 'charmap' codec can't decode byte 0x8f in position 826: character maps to <undefined>
+X [testkm.csv]: --> No result from CleverCSV
++[testLoadDataInFile.csv]: --> CleverCSV detected: delimiter = '\t', quotechar = ''
++[testlog2.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[testMULTI_VICIDIAL_lead_file.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[testout.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[testreport.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[tests-all.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[TestScripts.1.16.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[testUShipData.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
+Error was: line contains NULL byte
+X [testutf16.csv]: --> No result from CleverCSV
++[test_comments_raw.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[test_contacts.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[test_data.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[test_file_server.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[test_issues.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[test_manifest.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[test_neighbours.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[test_samples.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[test_serializer.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[test_sheet.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[test_urls.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+X[test_usa_phones_with_extensions.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[test_users1.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[test_with_empty_column_names.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[text.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[TextData_20110329.log.csv]: --> CleverCSV detected: delimiter = '\t', quotechar = '"'
++[textfile.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[tginfo.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+Error was: 'charmap' codec can't decode byte 0x81 in position 28: character maps to <undefined>
+X [thanks.csv]: --> No result from CleverCSV
+Error was: 'charmap' codec can't decode byte 0x90 in position 327: character maps to <undefined>
+X [TheMarker.candidates20.csv]: --> No result from CleverCSV
+Error was: 'charmap' codec can't decode byte 0x8d in position 67: character maps to <undefined>
+X [thirukural.csv]: --> No result from CleverCSV
++[thomaschrstnsn.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[ti-drv8824_8825.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[time.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+X[timeseries.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''| EXPECTED:{delimiter = 'vslash', quotechar = 'doublequote'}
++[timesheet.10.2009.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[timezone.csv]: --> CleverCSV detected: delimiter = '', quotechar = ''
++[time_entries.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[time_entries_20110510_164432.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[time_now_twice.csv]: --> CleverCSV detected: delimiter = '\t', quotechar = ''
++[timing.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[timings.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[tinacsv_test_14.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[tinySearch.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[titledata.csv]: --> CleverCSV detected: delimiter = '|', quotechar = ''
+X[titles.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[toc.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[todocsv.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[token.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[top-100k.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[top-10k-2009-03-06.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[top5000.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[topics.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[Tostan2.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[TPA2051_CFG.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+X[traffic.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''| EXPECTED:{delimiter = 'vslash', quotechar = 'doublequote'}
+Error was: line contains NULL byte
+X [trail.csv]: --> No result from CleverCSV
++[train.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[trainDesignDataSet1.csv]: --> CleverCSV detected: delimiter = ';', quotechar = '"'
+X[transactions.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''| EXPECTED:{delimiter = 'semicolon', quotechar = 'doublequote'}
++[transaction_list.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+Error was: 'charmap' codec can't decode byte 0x8d in position 342: character maps to <undefined>
+X [transcoder_sorted.csv]: --> No result from CleverCSV
++[translat.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[translate.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+X[translation-de_DE.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = ''| EXPECTED:{delimiter = 'semicolon', quotechar = 'doublequote'}
+X[translation.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = ''| EXPECTED:{delimiter = 'semicolon', quotechar = 'doublequote'}
+Error was: 'charmap' codec can't decode byte 0x81 in position 288: character maps to <undefined>
+X [translations.csv]: --> No result from CleverCSV
+Error was: 'charmap' codec can't decode byte 0x90 in position 3038: character maps to <undefined>
+X [translation_data.csv]: --> No result from CleverCSV
+Error was: 'charmap' codec can't decode byte 0x9d in position 4060: character maps to <undefined>
+X [transtable.csv]: --> No result from CleverCSV
++[tr_2p1f.csv]: --> CleverCSV detected: delimiter = '&', quotechar = ''
+Error was: 'charmap' codec can't decode byte 0x9d in position 26: character maps to <undefined>
+X [ts.csv]: --> No result from CleverCSV
+Error was: 'charmap' codec can't decode byte 0x81 in position 105: character maps to <undefined>
+X [tunes_master.csv]: --> No result from CleverCSV
++[turkey.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
+X[tutorial.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[tvshows.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[TWC_schemaorg_mapping.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+Error was: 'charmap' codec can't decode byte 0x9d in position 2709: character maps to <undefined>
+X [tweets.csv]: --> No result from CleverCSV
+X[tweet_test.csv]: --> CleverCSV detected: delimiter = ':', quotechar = '~'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[twins.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[twitter.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[types.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[typestatus.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[UCBParse.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[udp-flood-packet-counts.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[UIUC_Honey_bee_oligo_13K_v1.csv]: --> CleverCSV detected: delimiter = ';', quotechar = '"'
+Error was: 'charmap' codec can't decode byte 0x90 in position 73: character maps to <undefined>
+X [ukrainian_character_map.csv]: --> No result from CleverCSV
++[unemployment.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[unicodeSymbols.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[unique_stops.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+X[uniq_nl_data.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = "'"| EXPECTED:{delimiter = 'nsign', quotechar = 'singlequote'}
+X[units.csv]: --> CleverCSV detected: delimiter = ':', quotechar = ''| EXPECTED:{delimiter = 'space', quotechar = 'doublequote'}
++[Unknown-18-74-110-237.csv]: --> CleverCSV detected: delimiter = ';', quotechar = '"'
++[unused_css_selectors.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[up-to-nov21.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[upload.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[upload0.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[uris.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[url.map.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[urls-horizontal-test.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[us.csv]: --> CleverCSV detected: delimiter = '\t', quotechar = ''
+X[usage.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[uscities.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+X[user.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''| EXPECTED:{delimiter = 'tab', quotechar = 'doublequote'}
++[users.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[UsersInfo.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+Error was: 'charmap' codec can't decode byte 0x90 in position 44: character maps to <undefined>
+X [users_sample.csv]: --> No result from CleverCSV
+X[user_design_template.csv]: --> CleverCSV detected: delimiter = '#', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[user_import.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[ushahidi-haiti-export-may-15.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+Error was: 'charmap' codec can't decode byte 0x9d in position 3132: character maps to <undefined>
+X [ushahidi-report-test.csv]: --> No result from CleverCSV
++[usno.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[us_economic_assistance.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[us_zipcodes.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[us_zip_codes.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+Error was: line contains NULL byte
+X [utf-16.csv]: --> No result from CleverCSV
++[utf8.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+X[validParams.csv]: --> CleverCSV detected: delimiter = '%', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[valid_001.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[valid_flattened_file.csv]: --> CleverCSV detected: delimiter = '|', quotechar = '`'
++[values.csv]: --> CleverCSV detected: delimiter = ',', quotechar = "'"
++[variable_categories.20130329.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[vb_result.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[venues.csv]: --> CleverCSV detected: delimiter = ';', quotechar = '"'
++[venue_tags.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[versions.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[vga_pad.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[VHVO_Kapitel.csv]: --> CleverCSV detected: delimiter = ';', quotechar = '"'
++[videotags.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[view_cabinet.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[villes.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[vista_sec.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+Error was: 'charmap' codec can't decode byte 0x90 in position 148: character maps to <undefined>
+X [vocab-all-blcu.csv]: --> No result from CleverCSV
++[volcano.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[vorsatz.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
++[vulnerabilities.csv]: --> CleverCSV detected: delimiter = ';', quotechar = '"'
++[w.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[WASC-MITRE.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[wavelengths.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+X[weapondef.csv]: --> CleverCSV detected: delimiter = '#', quotechar = ''| EXPECTED:{delimiter = 'vslash', quotechar = 'doublequote'}
++[website_import_sample.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[week35.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[week44.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[weekdays.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[weeklies.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[whole_week_report.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+Error was: 'charmap' codec can't decode byte 0x81 in position 1263: character maps to <undefined>
+X [whs-no-wikipedia.csv]: --> No result from CleverCSV
+Error was: 'charmap' codec can't decode byte 0x81 in position 280: character maps to <undefined>
+X [whs_features.csv]: --> No result from CleverCSV
++[WIID2C.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[wiki_strategy.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = ''
+X[wiki_urls.csv]: --> CleverCSV detected: delimiter = ';', quotechar = "'"| EXPECTED:{delimiter = 'semicolon', quotechar = 'doublequote'}
++[winners_losers.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[winners_losers_w.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[wordCount.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[wordcounts.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+Error was: 'charmap' codec can't decode byte 0x81 in position 13: character maps to <undefined>
+X [words.csv]: --> No result from CleverCSV
++[wow_tcg.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[wplicenses.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[ws2812.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[wsdemo_import_moodle.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[xlsws_category_amazon.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[xml_converted_to_csv.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[yankeedoodle.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+Error was: 'charmap' codec can't decode byte 0x9d in position 112: character maps to <undefined>
+X [yubin.csv]: --> No result from CleverCSV
+Error was: 'charmap' codec can't decode byte 0x81 in position 13: character maps to <undefined>
+X [z.csv]: --> No result from CleverCSV
++[z705a.csv]: --> CleverCSV detected: delimiter = '\t', quotechar = ''
+X[zeppelin_members.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
+Error was: 'charmap' codec can't decode byte 0x9d in position 83: character maps to <undefined>
+X [zh_CN.csv]: --> No result from CleverCSV
++[zillow_statistical_areas_errata.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[zip.csv]: --> CleverCSV detected: delimiter = '\t', quotechar = ''
++[zipcode.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[zipcodes.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[zipnov99.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[zips.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[zip_codes_cities_counties.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[zip_code_database.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
++[ZNArrayCsvParserTest.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+Error was: 'charmap' codec can't decode byte 0x8d in position 87: character maps to <undefined>
+X [ZR2002-006-II._________POSEBNI_DEL_ZR_PRORACUNA-Priloga.csv]: --> No result from CleverCSV
++[ZzaExampleRecords.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+Error was: line contains NULL byte
+X [_Bieumau-DKMH.csv]: --> No result from CleverCSV
++[_books.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
+X[_out_.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[_report_20091119_012438.csv]: --> CleverCSV detected: delimiter = ';', quotechar = '"'
++[_sabc-new.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
++[_tweets.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
+[Passed test ratio]--: 82.9851%
+[Delimiter ratio]--: 83.5323%
+[Failure ratio]--: 8.0092%
+[Elapsed time]--: 28.29 seconds
+<---------------------------------------------------------------------------------------->
+True Positive (TP): 1668
+False Positive (FP): 342
+False Negative (FN): 175
+#
+Precision (P): 0.8299
+Recall (R): 0.905
+F1 score: 0.8658
+Weighted F1 score for 2185 files: 1444.1544000000001
