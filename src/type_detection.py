@@ -242,21 +242,33 @@ class type_detector:
         """
         try:
             td = type_detector()
+            data_type_dict = {}
             TotalScore = 0
             for record in data:
                 tmpSum = 0
                 k = 0
+                row_ = ''
                 for field in record:
                     k += 1
                     if td.is_known_type(trip_quotes(field, dialect)):
                         tmpSum += 100
                     else:
                         tmpSum += 0.1
-                TotalScore += math.pow(tmpSum, 2)/(100 * math.pow(k, 2))
+                '''
+                The table uniformity method proposed in the research article 
+                tends to select dialects that produce a single field record 
+                when data detection is difficult. To alleviate this phenomenon, 
+                which is increased when considering false positives on data types 
+                that return patterns used by regular expressions, a Type Balance (tb)
+                factor is proposed to differentiate between single and multi-field 
+                records.
+                '''
+                tb = 1 if k > 1 else 0.5 
+                TotalScore += math.pow(tmpSum, 2)/(100 * math.pow(k, 2))*tb
             return TotalScore
         except:
             pass
-    
+
 def trip_quotes( 
     field: str,
     dialect: Dialect
