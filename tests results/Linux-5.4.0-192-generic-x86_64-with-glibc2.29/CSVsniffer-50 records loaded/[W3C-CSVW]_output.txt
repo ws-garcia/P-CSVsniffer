@@ -162,7 +162,7 @@ X[test245.csv]: --> CSVsniffer detected: delimiter = ':', quotechar = '"'| EXPEC
 +[test007.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
 +[test198.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
 +[department.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
-X[CSV_QS601EW2011WARDH_151277.csv]: --> CSVsniffer detected: delimiter = ';', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[CSV_QS601EW2011WARDH_151277.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
 +[test045.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
 +[test306.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
 +[test190.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
@@ -219,16 +219,16 @@ X [mth-10-january-2014.csv]: --> No result from CSVsniffer
 +[test048.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
 +[test228.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
 +[test159.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
-[Passed test ratio]--: 95.8525%
-[Delimiter ratio]--: 97.235%
+[Passed test ratio]--: 96.3134%
+[Delimiter ratio]--: 97.6959%
 [Failure ratio]--: 1.81%
-[Elapsed time]--: 3.15 seconds
+[Elapsed time]--: 5.37 seconds
 <---------------------------------------------------------------------------------------->
-True Positive (TP): 208
-False Positive (FP): 9
+True Positive (TP): 209
+False Positive (FP): 8
 False Negative (FN): 4
 #
-Precision (P): 0.9585
-Recall (R): 0.9811
-F1 score: 0.9697
-Weighted F1 score for 221 files: 201.6976
+Precision (P): 0.9631
+Recall (R): 0.9812
+F1 score: 0.9721
+Weighted F1 score for 221 files: 203.16889999999998

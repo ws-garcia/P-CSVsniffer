@@ -91,7 +91,7 @@ X[task4_pad.csv]: --> CSVsniffer detected: delimiter = ':', quotechar = '"'| EXP
 +[sample.csv]: --> CSVsniffer detected: delimiter = ';', quotechar = '"'
 +[MyList.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
 +[association.csv]: --> CSVsniffer detected: delimiter = ';', quotechar = '"'
-X[act.csv]: --> CSVsniffer detected: delimiter = ';', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
+X[act.csv]: --> CSVsniffer detected: delimiter = '&', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
 +[poblacion.csv]: --> CSVsniffer detected: delimiter = ';', quotechar = '"'
 X [Parsed.csv]: --> No result from CSVsniffer
 +[talks.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
@@ -127,7 +127,7 @@ X [one-line-with-accents.csv]: --> No result from CSVsniffer
 [Passed test ratio]--: 78.1955%
 [Delimiter ratio]--: 79.6992%
 [Failure ratio]--: 6.338%
-[Elapsed time]--: 3.16 seconds
+[Elapsed time]--: 4.54 seconds
 <---------------------------------------------------------------------------------------->
 True Positive (TP): 104
 False Positive (FP): 29

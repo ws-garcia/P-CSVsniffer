@@ -21,12 +21,12 @@ X [ABCAUS2011.csv]: --> No result from CSVsniffer
 +[ckan-endpoints.csv]: --> CSVsniffer detected: delimiter = ';', quotechar = '"'
 +[xlsws_category_amazon.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
 +[afghanngos.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
-+[DBPortfolioGenerale.csv]: --> CSVsniffer detected: delimiter = ';', quotechar = '"'
-X[baselog.csv]: --> CSVsniffer detected: delimiter = '|', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
+X [DBPortfolioGenerale.csv]: --> No result from CSVsniffer
+X[baselog.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = "'"| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
 +[report.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
 +[feedback.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
-+[ACS_12_5YR_S1903_metadata.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
-+[data_gov_catalog.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
+X[ACS_12_5YR_S1903_metadata.csv]: --> CSVsniffer detected: delimiter = ';', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
+X [data_gov_catalog.csv]: --> No result from CSVsniffer
 +[Mage_Lucene.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
 +[weapondef.csv]: --> CSVsniffer detected: delimiter = '|', quotechar = '"'
 +[set001.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
@@ -52,7 +52,7 @@ X [2_18-05-2011-17-21-59_0.csv]: --> No result from CSVsniffer
 +[ads_classic_queries.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
 +[exit.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
 +[af.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
-+[results.csv]: --> CSVsniffer detected: delimiter = '\t', quotechar = '"'
+X[results.csv]: --> CSVsniffer detected: delimiter = '\t', quotechar = "'"| EXPECTED:{delimiter = 'tab', quotechar = 'doublequote'}
 +[example.csv]: --> CSVsniffer detected: delimiter = ';', quotechar = '"'
 +[responses.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
 X[diamonds.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'| EXPECTED:{delimiter = 'space', quotechar = 'doublequote'}
@@ -78,7 +78,7 @@ X [shops.csv]: --> No result from CSVsniffer
 +[copyright.csv]: --> CSVsniffer detected: delimiter = '\t', quotechar = '"'
 +[tentative_accounts.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
 +[cassette_features.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
-X[iometeroutput.csv]: --> CSVsniffer detected: delimiter = ':', quotechar = "'"| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
+X[iometeroutput.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = "'"| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
 +[general.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
 +[GPU_rod_1_metrica.csv]: --> CSVsniffer detected: delimiter = ';', quotechar = '"'
 +[products.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
@@ -87,7 +87,7 @@ X[iometeroutput.csv]: --> CSVsniffer detected: delimiter = ':', quotechar = "'"|
 +[blocks.csv]: --> CSVsniffer detected: delimiter = ';', quotechar = '"'
 +[book.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
 X [Speaking_Tool.csv]: --> No result from CSVsniffer
-X[items.csv]: --> CSVsniffer detected: delimiter = '=', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[items.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
 +[top-10k-2009-03-06.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
 X [dict.csv]: --> No result from CSVsniffer
 +[prt_statuses.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
@@ -129,7 +129,7 @@ X [Parsed.csv]: --> No result from CSVsniffer
 +[durden_saucer.csv]: --> CSVsniffer detected: delimiter = ';', quotechar = '"'
 +[conversion_17_to_18.csv]: --> CSVsniffer detected: delimiter = ';', quotechar = '"'
 +[dodgers_2010_schedule.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
-+[hirise_captions.csv]: --> CSVsniffer detected: delimiter = '\t', quotechar = '"'
+X [hirise_captions.csv]: --> No result from CSVsniffer
 +[TableA.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
 +[csv_ingestion.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
 +[ip-log.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
@@ -147,7 +147,7 @@ X[isco.csv]: --> CSVsniffer detected: delimiter = ';', quotechar = '"'| EXPECTED
 X[JV_newsite_IBC_current_20110517.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'singlequote'}
 +[events.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
 +[raw_58_house.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
-+[linodef_bueditor_button.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
+X[linodef_bueditor_button.csv]: --> CSVsniffer detected: delimiter = ' ', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
 X [dbpj_female_fbg.csv]: --> No result from CSVsniffer
 +[answer.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
 +[kodepos-2008-10-20.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
@@ -177,16 +177,16 @@ X[admins.csv]: --> CSVsniffer detected: delimiter = '#', quotechar = '"'| EXPECT
 X [one-line-with-accents.csv]: --> No result from CSVsniffer
 +[table1.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
 +[metricData.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
-[Passed test ratio]--: 91.195%
-[Delimiter ratio]--: 92.4528%
-[Failure ratio]--: 11.1732%
-[Elapsed time]--: 6.57 seconds
+[Passed test ratio]--: 89.7436%
+[Delimiter ratio]--: 92.9487%
+[Failure ratio]--: 12.8492%
+[Elapsed time]--: 22.45 seconds
 <---------------------------------------------------------------------------------------->
-True Positive (TP): 145
-False Positive (FP): 14
-False Negative (FN): 20
+True Positive (TP): 140
+False Positive (FP): 16
+False Negative (FN): 23
 #
-Precision (P): 0.9119
-Recall (R): 0.8788
-F1 score: 0.895
-Weighted F1 score for 179 files: 129.775
+Precision (P): 0.8974
+Recall (R): 0.8589
+F1 score: 0.8777
+Weighted F1 score for 179 files: 122.878

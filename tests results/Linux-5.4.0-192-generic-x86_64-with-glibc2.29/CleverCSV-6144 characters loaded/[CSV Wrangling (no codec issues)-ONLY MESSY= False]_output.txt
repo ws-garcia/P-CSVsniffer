@@ -73,7 +73,7 @@ X [shops.csv]: --> No result from CleverCSV
 +[tentative_accounts.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
 +[cassette_features.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
 +[iometeroutput.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
-X[general.csv]: --> CleverCSV detected: delimiter = '', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[general.csv]: --> CleverCSV detected: delimiter = '', quotechar = ''
 +[GPU_rod_1_metrica.csv]: --> CleverCSV detected: delimiter = ';', quotechar = '"'
 +[products.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
 +[blocks.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''
@@ -130,7 +130,7 @@ X[isco.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''| EXPECTED:{
 +[orig_data.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
 +[timing.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
 +[JV_newsite_IBC_current_20110517.csv]: --> CleverCSV detected: delimiter = ',', quotechar = "'"
-X[events.csv]: --> CleverCSV detected: delimiter = '', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[events.csv]: --> CleverCSV detected: delimiter = '', quotechar = ''
 Error was: local variable 'dialect' referenced before assignment
 X [linodef_bueditor_button.csv]: --> No result from CleverCSV
 +[answer.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
@@ -147,7 +147,7 @@ X [sample_map.csv]: --> No result from CleverCSV
 Error was: 'utf-8' codec can't decode byte 0xd4 in position 0: invalid continuation byte
 X [load_fund_structure_data.csv]: --> No result from CleverCSV
 +[upload.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
-X[2_ip_test.csv]: --> CleverCSV detected: delimiter = '', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[2_ip_test.csv]: --> CleverCSV detected: delimiter = '', quotechar = '"'
 X[uniq_nl_data.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = "'"| EXPECTED:{delimiter = 'nsign', quotechar = 'singlequote'}
 +[awaymanagers-data.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
 X[admins.csv]: --> CleverCSV detected: delimiter = '#', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
@@ -155,16 +155,16 @@ Error was: 'utf-8' codec can't decode byte 0xf4 in position 6: invalid continuat
 X [one-line-with-accents.csv]: --> No result from CleverCSV
 +[table1.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
 +[metricData.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
-[Passed test ratio]--: 84.252%
-[Delimiter ratio]--: 86.6142%
+[Passed test ratio]--: 86.6142%
+[Delimiter ratio]--: 88.9764%
 [Failure ratio]--: 10.5634%
-[Elapsed time]--: 1.4 seconds
+[Elapsed time]--: 1.49 seconds
 <---------------------------------------------------------------------------------------->
-True Positive (TP): 107
-False Positive (FP): 20
+True Positive (TP): 110
+False Positive (FP): 17
 False Negative (FN): 15
 #
-Precision (P): 0.8425
-Recall (R): 0.877
-F1 score: 0.8594
-Weighted F1 score for 142 files: 91.95580000000001
+Precision (P): 0.8661
+Recall (R): 0.88
+F1 score: 0.873
+Weighted F1 score for 142 files: 96.03

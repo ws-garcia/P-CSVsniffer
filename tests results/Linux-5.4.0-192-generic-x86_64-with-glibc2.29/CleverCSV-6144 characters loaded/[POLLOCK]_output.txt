@@ -152,7 +152,7 @@ X[dd_Wickenburg_nobmp_623.csv]: --> CleverCSV detected: delimiter = ',', quotech
 [Passed test ratio]--: 95.1724%
 [Delimiter ratio]--: 95.8621%
 [Failure ratio]--: 2.027%
-[Elapsed time]--: 1.6 seconds
+[Elapsed time]--: 1.65 seconds
 <---------------------------------------------------------------------------------------->
 True Positive (TP): 138
 False Positive (FP): 7

@@ -1,0 +1,2317 @@
++[l3prefixes.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [filter.csv]: --> No result from Python sniffer
++[professores_rede.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[CollectorList.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[CsvBulkLoaderTest_Players.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[cz.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[one_line.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [cotejadosConDnsNOOK.csv]: --> No result from Python sniffer
++[ioa_members.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[device_table.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[1970.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[countryInfoCSV.csv]: --> Python sniffer detected: delimiter = '\t', quotechar = '"'
++[gis.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[accutracking.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[latest_stories.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[index.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = "'"| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[players.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[by-cofog1-then-cofog2.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: 'utf-8' codec can't decode byte 0xd2 in position 0: invalid continuation byte
+X [alfa_example.csv]: --> No result from Python sniffer
++[matching-1.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[Dfreerksen_Tweet.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[blockings.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[paypal.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[malformed.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [register_data.csv]: --> No result from Python sniffer
+X[user_design_template.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[sets.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[report_.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = '"'
++[csv-test.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[Debtris.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[carnivora.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[Sparkasse.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[excel.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[redbridge-freedom-of-information-requests.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[column_features.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[TWC_schemaorg_mapping.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[keymaps.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[Blackboard_Export_Roles_Students.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[constant_contact_dump.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[engine_reqs_2.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[Empty.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[SampleSheet.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [test_usa_phones_with_extensions.csv]: --> No result from Python sniffer
++[top-100k.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[oystercard_payg_stations.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[success.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[acma.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[addresses_comma.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[parameters.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[blackoutdata.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[parts.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[custom_stat.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[mostly_valid_venues.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[venues.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[ol_article.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
+Error was: Could not determine delimiter
+X [dump.csv]: --> No result from Python sniffer
++[feature.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[whole_week_report.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[zips.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[Default_LCCS2PFT_LUT.csv]: --> Python sniffer detected: delimiter = '|', quotechar = '"'
++[local_services.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[census.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+X [testeProjeto22009.csv]: --> No result from Python sniffer
++[browscap.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[lowest_repo_for_each_user.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = '"'
+Error was: Could not determine delimiter
+X [diabetes.csv]: --> No result from Python sniffer
++[translate.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[mxoClothing.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[solar-system.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[unemployment.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[readings.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[kategorimapping.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[Plates.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[ratinghistory_kwo.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
+Error was: 'utf-8' codec can't decode byte 0xc4 in position 54: invalid continuation byte
+X [ext_hauptgruppen.csv]: --> No result from Python sniffer
++[text.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[twitter.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[events_hs.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[enrollment15_16.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[SecurityControls.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[order_statuses.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[testMULTI_VICIDIAL_lead_file.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[glossary.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[locale.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [batting.csv]: --> No result from Python sniffer
++[la-riots-deaths.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[1.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[Error331_DynCatsMenu.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[points.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[bugs.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[con_img.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[maps.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[foo.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[counties.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[customize.csv]: --> Python sniffer detected: delimiter = '|', quotechar = '"'
++[example_course.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[ABresults.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[assessment_info_482_484.csv]: --> Python sniffer detected: delimiter = '\t', quotechar = '"'
+Error was: Could not determine delimiter
+X [stopwordlist.csv]: --> No result from Python sniffer
+Error was: Could not determine delimiter
+X [validParams.csv]: --> No result from Python sniffer
++[upload0.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[jos_categories.csv]: --> Python sniffer detected: delimiter = ',', quotechar = "'"
++[100-external-simple.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[distritos.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[barrio.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[csvgabi.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[PDASchedule.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[wow_tcg.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[071001_1.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[greenhouse.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
+Error was: Could not determine delimiter
+X [blah.csv]: --> No result from Python sniffer
++[postervideo.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[file_1.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [country_population.csv]: --> No result from Python sniffer
++[family.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[clip_info_final.csv]: --> Python sniffer detected: delimiter = '\t', quotechar = '"'
++[2011_may_clean.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[en.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [A1026_CFG.csv]: --> No result from Python sniffer
++[insee.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[old-legislators.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[british_novels_bibliography.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[20100721_zipcode_ko_csv.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[codcidades.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
+X[traffic.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'| EXPECTED:{delimiter = 'vslash', quotechar = 'doublequote'}
++[stats.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[Crius_ConfigDanish.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[example_data.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[keyword-count.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[inits.csv]: --> Python sniffer detected: delimiter = '\t', quotechar = '"'
++[jws-98cbe3ed2c5155525c5f85e0b3fe48bc.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: 'utf-8' codec can't decode byte 0xe9 in position 1238: invalid continuation byte
+X [BusinesseswithfreeWiFi.csv]: --> No result from Python sniffer
++[annotated-letters.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[envProperties.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [ccm.csv]: --> No result from Python sniffer
+Error was: 'utf-8' codec can't decode byte 0xa3 in position 34: invalid start byte
+X [file_with_extra_lines_at_top.csv]: --> No result from Python sniffer
++[junk.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [english-letters.csv]: --> No result from Python sniffer
++[assettemplate.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[broken1.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[2012.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = "'"| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[crazy.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[Ethanol1REYF_Freq.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[Connelly29.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[diagnostic_code_categories.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[ALBUMS.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [feedmyapptwitter.csv]: --> No result from Python sniffer
++[3b7b283b-bbfa-95d2-45e7-4e330ee06f8e.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[flights.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[icon_info.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[lovegames.csv]: --> Python sniffer detected: delimiter = ':', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[mystery.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[stopWords.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[dl_iso_table_a1.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[rates.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'| EXPECTED:{delimiter = 'semicolon', quotechar = 'doublequote'}
++[Grand-Challenges-responses.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[header_NUT_DATA.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[march.csv]: --> Python sniffer detected: delimiter = '\t', quotechar = '"'
++[mlrs.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[human_micro_meta.csv]: --> Python sniffer detected: delimiter = '\t', quotechar = '"'
++[example_csv.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[elka_list.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[Mage_Catalog.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[ay.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[0927-2010-12-09T12-47-42.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[albumTypesReplacements.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
+Error was: Could not determine delimiter
+X [analysis_example.csv]: --> No result from Python sniffer
+Error was: Could not determine delimiter
+X [genes.csv]: --> No result from Python sniffer
+Error was: 'utf-8' codec can't decode byte 0x94 in position 35: invalid start byte
+X [bom.csv]: --> No result from Python sniffer
++[camsLoaded.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[_sabc-new.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = "'"| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
+X[ckan-endpoints.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = '"'| EXPECTED:{delimiter = 'semicolon', quotechar = 'doublequote'}
+X[cardListing.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = '"'| EXPECTED:{delimiter = 'vslash', quotechar = 'doublequote'}
++[observations.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[feedengine_20120914_1911.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[tests-all.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: 'utf-8' codec can't decode byte 0xf6 in position 2: invalid start byte
+X [cp1252.csv]: --> No result from Python sniffer
++[elapsed.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [really-space-separated.csv]: --> No result from Python sniffer
+Error was: 'utf-8' codec can't decode byte 0xfc in position 1190: invalid start byte
+X [dic_de.csv]: --> No result from Python sniffer
+X[baseball.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
+Error was: 'utf-8' codec can't decode byte 0xc7 in position 404: invalid continuation byte
+X [export_2008-08-29_002.csv]: --> No result from Python sniffer
++[camera_path.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[annai_plugin_calc_tests.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[com.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = '"'
+Error was: Could not determine delimiter
+X [tweet_test.csv]: --> No result from Python sniffer
+X[5percentwinners_120-245-multitrade.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = '"'| EXPECTED:{delimiter = 'tab', quotechar = 'doublequote'}
++[foodsoft_file_01.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[broken_smiles.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[xlsws_category_amazon.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[linetransectexample.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[transtable.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[cctld-pricing.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[iata_airports.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[afghanngos.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[0.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[amazon_history.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[help_text.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[NAIC.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[Federal_Executive_Branch_Internet_Domains.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[monthly_ftse_data.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[resorts.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[kontoplan-ffr.xls.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[2gram.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = '"'
++[csv_response.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[Metadata_ApiaryDisplay_ROIs_Rules.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[ifpr_ementario_si_matriz_2009.csv]: --> Python sniffer detected: delimiter = '|', quotechar = '"'
+Error was: Could not determine delimiter
+X [fallback_categories.csv]: --> No result from Python sniffer
++[zip.csv]: --> Python sniffer detected: delimiter = '\t', quotechar = '"'
+Error was: Could not determine delimiter
+X [modifconv.csv]: --> No result from Python sniffer
++[fsrois_pibindex.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: 'utf-8' codec can't decode byte 0x99 in position 1597: invalid start byte
+X [PR_INFO.csv]: --> No result from Python sniffer
++[ip_locations.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[genebase.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[aggressor.relation.code.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[baselog.csv]: --> Python sniffer detected: delimiter = ',', quotechar = "'"| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[report.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[ReseqChip_ParamsNcall.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = '"'
++[departments.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[primer.primer.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[old_guestbook.csv]: --> Python sniffer detected: delimiter = '\t', quotechar = '"'
++[customer_dimension.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = '"'
++[cyberstock.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[BX-Users.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[POS_Tags.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[doug_locations_360atl.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[benchmarks.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[post.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[birds.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[feedback.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[ACS_12_5YR_S1903_metadata.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[attribution-workflow.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[ScaleWorks_Bitcoin.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [jlpt-n1.csv]: --> No result from Python sniffer
+Error was: 'utf-8' codec can't decode byte 0xe4 in position 55: invalid continuation byte
+X [Riskanalys.csv]: --> No result from Python sniffer
++[estratti.csv]: --> Python sniffer detected: delimiter = '\t', quotechar = '"'
++[tinacsv_test_14.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [ddr3_s4_uniphy_example.csv]: --> No result from Python sniffer
++[TextData_20110329.log.csv]: --> Python sniffer detected: delimiter = '\t', quotechar = '"'
++[crime_counts.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = '"'
++[prefixes.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[current-voltage.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[brooklyn-bridge-movies-with-a-view-2011.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [bias.csv]: --> No result from Python sniffer
++[CoresUtilization.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[bcn_estacionsbus.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[dane1.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[affiliate.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[adcenter-2009-11-13_07-48-59.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[task_types.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[climate.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[bad.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[altamont.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[old_footfuzion_bdd.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[resource.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[mp-expenses.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[aa.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[trainDesignDataSet1.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
+Error was: Could not determine delimiter
+X [norm.csv]: --> No result from Python sniffer
++[finalSheet.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[ExportByAnimal.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[english.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = "'"| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[winners_losers.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[Abst_DB_New_Var_Names_Aug2010.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[example-report.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [pitch.csv]: --> No result from Python sniffer
++[linestations.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[fixtures.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [zeppelin_members.csv]: --> No result from Python sniffer
+Error was: 'utf-8' codec can't decode byte 0xa3 in position 3518: invalid start byte
+X [pacjenci.csv]: --> No result from Python sniffer
++[ZR2002-006-II._________POSEBNI_DEL_ZR_PRORACUNA-Priloga.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[quiz-fragen.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[gems.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[Mage_Lucene.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = "'"| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[asterisk-sample1.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: 'utf-8' codec can't decode byte 0xdf in position 1456: invalid continuation byte
+X [google_contacts.csv]: --> No result from Python sniffer
+Error was: Could not determine delimiter
+X [japanese.responses.csv]: --> No result from Python sniffer
+Error was: Could not determine delimiter
+X [fileinvalidhandphone.csv]: --> No result from Python sniffer
++[google-analytics-data.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[weapondef.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = "'"| EXPECTED:{delimiter = 'vslash', quotechar = 'doublequote'}
++[coordinates.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[HouseDopByDivisionDownload-15508.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[bootstrap.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[ListScroll.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[101109.guggenheim.noise.ks.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[limited_set.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[help.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[set001.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[expected_pachube_request.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[ORcontestData.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: 'utf-8' codec can't decode byte 0x96 in position 10: invalid start byte
+X [sjis.csv]: --> No result from Python sniffer
+Error was: 'utf-8' codec can't decode byte 0xfe in position 0: invalid start byte
+X [testutf16.csv]: --> No result from Python sniffer
++[1317913481111.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [guests.csv]: --> No result from Python sniffer
+X[airports.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'| EXPECTED:{delimiter = 'tab', quotechar = 'doublequote'}
++[data.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: 'utf-8' codec can't decode byte 0xea in position 905: invalid continuation byte
+X [ase-campaign.csv]: --> No result from Python sniffer
++[constituency.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[linlog.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[edgwired_clean.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[thomaschrstnsn.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[macosx.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[csvuser.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[cb0-expected.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[parts_list.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[week35.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[100_cases.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[buttons.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[SbToDocomo.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[sber-1000.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[PRIOR_TO_RESTART_Fri_Dec_24_17_32_02_EST_2010_database.dat.noforce.300K_clean.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[JWQ.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[us_zipcodes.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[account_details.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [messages.csv]: --> No result from Python sniffer
++[rail-points.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[ALL_TICKERS.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[example-spreadsheet.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
+Error was: 'utf-8' codec can't decode byte 0x80 in position 4645: invalid start byte
+X [division.csv]: --> No result from Python sniffer
++[maatkit-issues.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[local-elections-candidate-votes-ward-2006.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[results4.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[Example_Rabo.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
+Error was: Could not determine delimiter
+X [btest.asm.Symbols.csv]: --> No result from Python sniffer
++[example1.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[devzone.dataset.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[extended.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
+X[zh_CN.csv]: --> Python sniffer detected: delimiter = ',', quotechar = "'"| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[AudioFilter.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[fields.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[time.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[africa.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[chairs_rr2008.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
+X[bioguide_ids.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = "'"| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[photos.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[math.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[ushahidi-report-test.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[customer_importer_real_test_it.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[gismu.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[limesurvey_survey_94328.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[actions.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[MapiTags.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[chemkin_mole_fractions.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[Postnummer0904.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[anc-count-o5.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[botIP.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[control.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[double_metaphone.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[csv_iso8859.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[EMEF_instrumental_teste_Vizir.csv]: --> Python sniffer detected: delimiter = '|', quotechar = '"'
++[entries.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[country_region.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[issues.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[food.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[import_dates.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[testcase.users.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[bbb.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[mdl_question.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[countries.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[conor_friedersdorfs_top_articles_of_2012_byliner.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[units.csv]: --> Python sniffer detected: delimiter = ':', quotechar = '"'| EXPECTED:{delimiter = 'space', quotechar = 'doublequote'}
++[map590013.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[e_cms.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = '"'
++[msft.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[db1.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
+Error was: Could not determine delimiter
+X [stmt-mcm-v201103.csv]: --> No result from Python sniffer
++[agt.test.header.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[eligible-list-26.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[steps.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[nodeCounts.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[excel-mac-2008.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[failedRecords11241202123325.csv]: --> Python sniffer detected: delimiter = '\t', quotechar = '"'
+X[ideas.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'| EXPECTED:{delimiter = 'tab', quotechar = 'doublequote'}
++[454AllControlMetrics.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: 'utf-8' codec can't decode byte 0xf6 in position 518: invalid start byte
+X [plz.csv]: --> No result from Python sniffer
+Error was: 'utf-8' codec can't decode byte 0x96 in position 7920: invalid start byte
+X [big_input.csv]: --> No result from Python sniffer
+Error was: 'utf-8' codec can't decode byte 0xb5 in position 99: invalid start byte
+X [Ingredients.csv]: --> No result from Python sniffer
+X[ExSP_Frontend_now.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = '"'| EXPECTED:{delimiter = 'semicolon', quotechar = 'doublequote'}
+Error was: Could not determine delimiter
+X [as16bitint.csv]: --> No result from Python sniffer
+Error was: Could not determine delimiter
+X [639KDAAXX_Sample_Report.csv]: --> No result from Python sniffer
++[katakana_romaji.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[ISA-BiocViews-mapping.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[Abklingkonstante.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [RTAData-abbrev.csv]: --> No result from Python sniffer
++[feed-sample3.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [scores.csv]: --> No result from Python sniffer
+Error was: 'utf-8' codec can't decode byte 0xeb in position 7696: invalid continuation byte
+X [villes.csv]: --> No result from Python sniffer
++[planificacion-definitiva-proyecto.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
+Error was: 'utf-8' codec can't decode byte 0xa1 in position 50: invalid start byte
+X [Indirizzo_Disney.csv]: --> No result from Python sniffer
++[r-rho.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = '"'
++[default_content.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [account_10.csv]: --> No result from Python sniffer
+Error was: Could not determine delimiter
+X [usage.csv]: --> No result from Python sniffer
++[FullList.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[centerlines-placer_county.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[metagenome.blout.127.out.megan.csv]: --> Python sniffer detected: delimiter = '\t', quotechar = '"'| EXPECTED:{delimiter = 'vslash', quotechar = 'doublequote'}
++[EPAFHM.mini.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[Contacts_Example.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[customers_data.csv]: --> Python sniffer detected: delimiter = '\t', quotechar = '"'
+Error was: Could not determine delimiter
+X [Cache_pad.csv]: --> No result from Python sniffer
++[test.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[routes.csv]: --> Python sniffer detected: delimiter = ':', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[cnsfile.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[ex.data.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [vga_pad.csv]: --> No result from Python sniffer
++[size.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[transcoder_sorted.csv]: --> Python sniffer detected: delimiter = ',', quotechar = "'"| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[dordotky-followers.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[benchmark.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[all_defense_teams.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[csvtest.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[drive.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[rankedridings.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[devices_data.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[show.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[arkafrn12_d.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [devzone.topics.csv]: --> No result from Python sniffer
++[GBPEUR.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[Accommodation_and_Food_Services.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[contact.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[Release_OLSD_V3_RevB_BOM.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[mammalia-10.csv]: --> Python sniffer detected: delimiter = ':', quotechar = '"'| EXPECTED:{delimiter = 'tab', quotechar = 'doublequote'}
+Error was: 'utf-8' codec can't decode byte 0xc9 in position 6440: invalid continuation byte
+X [store_products.csv]: --> No result from Python sniffer
++[teams.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[drinks.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[dialogs.csv]: --> Python sniffer detected: delimiter = '|', quotechar = '"'
++[import_valid.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[kcdbconfig.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[categories.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [final_prof_Session3_Context_0.csv]: --> No result from Python sniffer
++[wiki_strategy.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = '"'
++[compounds.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[categoryDatabase.csv]: --> Python sniffer detected: delimiter = ':', quotechar = '"'
++[testDataLoad1.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[techism-events.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[zipcode.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[generated_build_test.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[compfirm-damodaran-2010.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[some.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[S3.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[agency_abbr.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[development_code.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[OxigenCountryList.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[url.map.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[demographics.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[utf8.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[Boravista.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
+Error was: 'utf-8' codec can't decode byte 0xc9 in position 73: invalid continuation byte
+X [OrderTestCase.csv]: --> No result from Python sniffer
++[grades.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: 'utf-8' codec can't decode byte 0xd3 in position 0: invalid continuation byte
+X [1272554757.csv]: --> No result from Python sniffer
++[requisitos.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: 'utf-8' codec can't decode byte 0xa1 in position 22: invalid start byte
+X [homeworks.csv]: --> No result from Python sniffer
+Error was: Could not determine delimiter
+X [articles.csv]: --> No result from Python sniffer
++[comments.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[InquirerPESTLE.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[user.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'| EXPECTED:{delimiter = 'tab', quotechar = 'doublequote'}
++[aim.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [ach_payments.csv]: --> No result from Python sniffer
++[variable_categories.20130329.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[ldnsub_stops.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[aussie_postcodes.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[stations.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
+X[langs.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'| EXPECTED:{delimiter = 'semicolon', quotechar = 'doublequote'}
+Error was: 'utf-8' codec can't decode byte 0x82 in position 0: invalid start byte
+X [Book1.csv]: --> No result from Python sniffer
++[berlin52.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[CareLink-Export-1319060221528.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[data_seq.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [logDev.csv]: --> No result from Python sniffer
++[sample-army-bonuses.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[fk4_no_e_fk4.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[all_drug_order_combinations.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[table.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[post_sample_csv.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[bulk_import_template.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[cities.csv]: --> Python sniffer detected: delimiter = '\t', quotechar = '"'| EXPECTED:{delimiter = 'semicolon', quotechar = 'doublequote'}
++[demo.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[gao-selected-programs-getting-arra.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[building-permits.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[Saferpay_Ecommerce.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [BallOut.csv]: --> No result from Python sniffer
+Error was: Could not determine delimiter
+X [sectors.csv]: --> No result from Python sniffer
++[hskflashcards.com_npcr.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[al_muscles_correspondence.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[complexity.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[op_politician_birth_dates.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
+X[out.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'| EXPECTED:{delimiter = 'tab', quotechar = 'doublequote'}
++[oolite_galaxy_1.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[testLoadDataInFile.csv]: --> Python sniffer detected: delimiter = '\t', quotechar = '"'
++[us_economic_assistance.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[turkey.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[libraries.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[TPA2051_CFG.csv]: --> Python sniffer detected: delimiter = '#', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[AustralianPostcodes.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[last-lov-prefixes-for-pcc.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[Find_Feed.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[ag2.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[sf_scmtype.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[OGS_Headstage.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[OrgProfiles-CAAB.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[2011bread.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[legislators.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[Schlib1.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[kanji_dictionary.csv]: --> Python sniffer detected: delimiter = '\t', quotechar = '"'
+Error was: 'utf-8' codec can't decode byte 0xfc in position 692: invalid start byte
+X [bookmarks.csv]: --> No result from Python sniffer
+X[dc_metro.csv]: --> Python sniffer detected: delimiter = ':', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[Expenditure_Data_With_TIF_ID.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[african_feeds.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[All_Links_wwwdup_uni-leipzig_de_jobportal_20110504T231856Z.csv]: --> Python sniffer detected: delimiter = ':', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
+Error was: Could not determine delimiter
+X [LOGS__2010-02-19-2200.csv]: --> No result from Python sniffer
++[food_db.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[cwc2011.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: 'utf-8' codec can't decode byte 0xf3 in position 0: invalid continuation byte
+X [2_18-05-2011-17-21-59_0.csv]: --> No result from Python sniffer
++[preview.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[mycontact.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[empty-last-column.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[PIC10-MCU-2011-03-26.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: 'utf-8' codec can't decode byte 0xf0 in position 2: invalid continuation byte
+X [lcr_all.csv]: --> No result from Python sniffer
++[css_compliance.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[AYPmediaSchools.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[example_calendar.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[GLRB-08-feedback.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[pages.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[heisig-data.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[cnc-donetsk.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [CountBtn_pad.csv]: --> No result from Python sniffer
++[bct_copy_dsc_institutions_melvyl_marc.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[cno94-2.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[website_import_sample.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[WASC-MITRE.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[ideal_points.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[paperpile.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[global.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[google_trends_report.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[paro_por_comunidades.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[prodversionmin.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[test3.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[IFDThor_loss_white.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[pmd-report.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[tunes_master.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: 'utf-8' codec can't decode byte 0xd1 in position 1937: invalid continuation byte
+X [clientes.csv]: --> No result from Python sniffer
+Error was: 'utf-8' codec can't decode byte 0xd2 in position 1134: invalid continuation byte
+X [labs.csv]: --> No result from Python sniffer
++[servdefs.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[shakespeare.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = "'"| EXPECTED:{delimiter = 'vslash', quotechar = 'doublequote'}
++[course-detail-description.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[exit.csv]: --> Python sniffer detected: delimiter = ',', quotechar = "'"| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[geodata.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [mozilla-result.csv]: --> No result from Python sniffer
++[2008-5-3.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[vb_result.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[mmr_hh_spatial.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [approval_status.csv]: --> No result from Python sniffer
++[NACE2.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[_tweets.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[n225.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[out-of-order-dates.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: 'utf-8' codec can't decode byte 0xf4 in position 6509: invalid continuation byte
+X [GDP.World.Countries.csv]: --> No result from Python sniffer
++[place_kshcode_postcode_points.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[af.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[flickr_data.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[geocoded_cache.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[college-address-seats.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [ControladoresDeDirecaob.csv]: --> No result from Python sniffer
+Error was: Could not determine delimiter
+X [translation.csv]: --> No result from Python sniffer
++[co2-from-fossilfuels.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[sample_mailing_list.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [timezone.csv]: --> No result from Python sniffer
+Error was: Could not determine delimiter
+X [kim_spikes.csv]: --> No result from Python sniffer
++[31_162_Post_Regen.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[data_generators.csv]: --> Python sniffer detected: delimiter = '\t', quotechar = '"'
++[resultado-2004.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[list.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[stereo-pwm.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [1289862356_statistics.csv]: --> No result from Python sniffer
++[donations-min.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[frequency_english.csv]: --> Python sniffer detected: delimiter = ';', quotechar = "'"| EXPECTED:{delimiter = 'semicolon', quotechar = 'doublequote'}
++[adc_data_sine_2MHz_500mVpp.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[dat.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = '"'
+X[results.csv]: --> Python sniffer detected: delimiter = '\t', quotechar = "'"| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
+X[error.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[rcc1.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[venue_tags.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[clients.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[exoplanetData-19oct2009.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: 'utf-8' codec can't decode byte 0xa4 in position 2598: invalid start byte
+X [mobile_image_map_docomo.csv]: --> No result from Python sniffer
++[2009-movies.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[categories_for_mongo.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [CountBtnI_pad.csv]: --> No result from Python sniffer
++[cpu-usage.csv]: --> Python sniffer detected: delimiter = '\t', quotechar = '"'
++[mobilefoodpermits.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[ek_atte.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[dioik_diairesi_09_el.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[SPY_100_5.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[buildings.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[customers.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[DCOCLK.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[handling_events.csv]: --> Python sniffer detected: delimiter = '\t', quotechar = '"'
++[core_dictlist.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[Centros.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[mcdlist.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[helios.csv]: --> Python sniffer detected: delimiter = '|', quotechar = '"'
++[anima.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[june2011.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[budzet_zadaniowy_2011.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
+Error was: Could not determine delimiter
+X [de.csv]: --> No result from Python sniffer
+Error was: 'utf-8' codec can't decode byte 0x92 in position 2185: invalid start byte
+X [delanotes.csv]: --> No result from Python sniffer
++[timings.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[Fewcards.csv]: --> Python sniffer detected: delimiter = '%', quotechar = '"'
+X[example.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[item_info.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[schtsk.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[sonde_1_4-24-13--2.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[test_serializer.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[asterisk_core_sounds.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[cs_is_la_eli_list.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[ir.model.access.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[ppldic.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = '"'
+Error was: Could not determine delimiter
+X [RubyCsv.csv]: --> No result from Python sniffer
++[compras.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[sites.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[errorlog.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[xml_converted_to_csv.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[schedule.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[responses.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [Orig_J5_1026_Session1_Context_0.csv]: --> No result from Python sniffer
++[bw-locations.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [file_list.csv]: --> No result from Python sniffer
+Error was: Could not determine delimiter
+X [langues.csv]: --> No result from Python sniffer
+X[3.00.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'| EXPECTED:{delimiter = 'semicolon', quotechar = 'doublequote'}
+Error was: 'utf-8' codec can't decode byte 0xbb in position 0: invalid start byte
+X [maillist.csv]: --> No result from Python sniffer
++[importar_diputados.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[commitment.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[playlist.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[art.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [diamonds.csv]: --> No result from Python sniffer
++[retorts.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[eclipse-keybindings.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[logindataSrJr.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [projectplan.csv]: --> No result from Python sniffer
+X[ExtPrograms.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = "'"| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
+X[street_names_alaska.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = '"'| EXPECTED:{delimiter = 'vslash', quotechar = 'doublequote'}
++[compendium.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[data_address.csv]: --> Python sniffer detected: delimiter = '|', quotechar = '"'
++[log_metas.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[plotwatt_appliance_data.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[globalcountry.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[itut.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[tvshows.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
+Error was: Could not determine delimiter
+X [area-10-1.csv]: --> No result from Python sniffer
++[myfile.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[motor.csv]: --> Python sniffer detected: delimiter = '\t', quotechar = '"'
++[Bibelbund.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[20101231_Typeculture.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[mrsatrusts.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[supported_encodings.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[locations_cities.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[commonsense.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[20101215_141114_rawdata.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[amazon.csv]: --> Python sniffer detected: delimiter = '\t', quotechar = '"'
++[party.estimates.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[atp-devices.csv]: --> Python sniffer detected: delimiter = '|', quotechar = '"'
++[Calc-g-uni.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[tr_2p1f.csv]: --> Python sniffer detected: delimiter = '&', quotechar = '"'
++[persone.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[navmesh2.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[languages.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'| EXPECTED:{delimiter = 'semicolon', quotechar = 'doublequote'}
+Error was: Could not determine delimiter
+X [whs_features.csv]: --> No result from Python sniffer
+Error was: Could not determine delimiter
+X [titles.csv]: --> No result from Python sniffer
++[belfasttelegraph.co.uk.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[guttenplag.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[questions.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[NA_letters.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[employee.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [colorschemes.csv]: --> No result from Python sniffer
++[hsk.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: 'utf-8' codec can't decode byte 0x81 in position 2: invalid start byte
+X [mendel.csv]: --> No result from Python sniffer
++[311011.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[1291430725AR4.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[api_keys.csv]: --> Python sniffer detected: delimiter = '\t', quotechar = '"'
++[BHTinput.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[species_import_template.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[risk2008.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[capybara.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[BIO.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[Bornholm.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[basicTaming.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[paroquias.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[reserve_Log.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [replace.csv]: --> No result from Python sniffer
++[movies2.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[content.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[cuentas.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[AudioPara_dream.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[wiki_urls.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'| EXPECTED:{delimiter = 'semicolon', quotechar = 'doublequote'}
++[PSSA_Results_Math_and_Reading_School_2009.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[test_sheet.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[zipcodes.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: 'utf-8' codec can't decode byte 0xa9 in position 215: invalid start byte
+X [2456.csv]: --> No result from Python sniffer
++[cust.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[books.computers-in-fiction.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[analytics.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[z705a.csv]: --> Python sniffer detected: delimiter = '\t', quotechar = '"'
+Error was: Could not determine delimiter
+X [queenController_pad.csv]: --> No result from Python sniffer
++[katakana.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[en-phrases.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[finaloutput.csv]: --> Python sniffer detected: delimiter = '\t', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
+X[names.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[pokedex.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[2011-04-25_new_marc2prodmargin.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[BPM-Flats.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[JointList_JoinGOTable.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[feats.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[one_iteam_sample_products.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[kmllist.csv]: --> Python sniffer detected: delimiter = ':', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[plentyways_product_feed_jun_2010.csv]: --> Python sniffer detected: delimiter = ':', quotechar = '"'
+Error was: Could not determine delimiter
+X [most_abundant_elements.csv]: --> No result from Python sniffer
+Error was: Could not determine delimiter
+X [Doug.csv]: --> No result from Python sniffer
++[EVE_He_II_304_averages.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[MicrosoftTermCollection-bel.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [NMEA_testdata_echosounder.csv]: --> No result from Python sniffer
+Error was: 'utf-8' codec can't decode byte 0xd7 in position 1323: invalid continuation byte
+X [newtebu.csv]: --> No result from Python sniffer
++[predictions.csv]: --> Python sniffer detected: delimiter = '\t', quotechar = '"'
+Error was: 'utf-8' codec can't decode byte 0xa3 in position 11: invalid start byte
+X [migracje.csv]: --> No result from Python sniffer
+Error was: Could not determine delimiter
+X [seg7_decoder_pad.csv]: --> No result from Python sniffer
++[coupons.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[preferences.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[centres.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[existents.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
+Error was: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte
+X [wordcounts.csv]: --> No result from Python sniffer
++[hanzi.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[Built-In_Levels_1.0.csv]: --> Python sniffer detected: delimiter = '\t', quotechar = '"'
+Error was: 'utf-8' codec can't decode byte 0x93 in position 2606: invalid start byte
+X [SaveTogether_InitialSavers_22Mar10.csv]: --> No result from Python sniffer
++[state_code.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[addresses.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[2007.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[basicJavaExample.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[test-seb.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[Mage_Adminhtml.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[Session1.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [data_x_x2_x3.csv]: --> No result from Python sniffer
+Error was: Could not determine delimiter
+X [opto-endstop.csv]: --> No result from Python sniffer
++[bv_refdata.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[valid_flattened_file.csv]: --> Python sniffer detected: delimiter = ':', quotechar = '"'| EXPECTED:{delimiter = 'vslash', quotechar = 'grave_accent'}
++[InvoiceImportTemplate.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[ny_only.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[PhraseTranslationTemplate.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[members-20090831-161616a.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[capitals.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[sample-input.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[modencode-22August2011.csv]: --> Python sniffer detected: delimiter = '\t', quotechar = '"'
++[arisexylightbox.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [RockApplication.csv]: --> No result from Python sniffer
++[nyord-split.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[default_gradebook.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[obstaculosFaseDois.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[CarModels.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[new_york_islanders.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [SingleColumnWorkbook.csv]: --> No result from Python sniffer
++[COMPCODES.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: 'utf-8' codec can't decode byte 0xc8 in position 0: invalid continuation byte
+X [forma3.csv]: --> No result from Python sniffer
++[biblio.field.link.data.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[iso15924.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[percentHandData.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
+Error was: Could not determine delimiter
+X [BirdList.csv]: --> No result from Python sniffer
++[non-profit-test-data_chart-of-accounts.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [games.csv]: --> No result from Python sniffer
++[elements.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [circuitStatistics.csv]: --> No result from Python sniffer
+Error was: Could not determine delimiter
+X [C-MorphRel.csv]: --> No result from Python sniffer
+Error was: Could not determine delimiter
+X [formDeploy.csv]: --> No result from Python sniffer
++[02_199603_1.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [indicatorgapminderpopulation.csv]: --> No result from Python sniffer
++[baddies.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[test_issues.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[Combined.BOM.csv]: --> Python sniffer detected: delimiter = '\t', quotechar = '"'
++[station-locations.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[syscall.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[stories.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[maindata.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: 'utf-8' codec can't decode byte 0x9c in position 5: invalid start byte
+X [shops.csv]: --> No result from Python sniffer
++[heats2011.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[thanks.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[feedlist.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[stonePine1FieldData.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[new_world_prefixes.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[199_phenotypes.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[sample_user.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[ORliquor.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[families.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[downloadstats.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[language.school.course.level.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[my_Jess_Robinson.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[raw-data-russian-parlimentary-elections-2011-english-headers-only-no-links.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[TDR.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[suburbs.csv]: --> Python sniffer detected: delimiter = '|', quotechar = '"'
++[catalogo1.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[wavelengths.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: 'utf-8' codec can't decode byte 0xfc in position 1168: invalid start byte
+X [ch_basel_list.csv]: --> No result from Python sniffer
+Error was: Could not determine delimiter
+X [comparison.csv]: --> No result from Python sniffer
++[AEPIBBN2.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[el-gordo.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[flat_file_database.csv]: --> Python sniffer detected: delimiter = '#', quotechar = '"'
++[au_example.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[claims.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[DatosINE.csv]: --> Python sniffer detected: delimiter = '#', quotechar = '"'
++[spectest-progress.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[coord.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = '"'| EXPECTED:{delimiter = 'semicolon', quotechar = 'doublequote'}
++[DEC_10_SF1_P12.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[business.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[bp01ap08.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [2011-prim-ccom-localis.csv]: --> No result from Python sniffer
+Error was: Could not determine delimiter
+X [temperatures.csv]: --> No result from Python sniffer
++[all_airports.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[citieslatlon.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[apn.csv]: --> Python sniffer detected: delimiter = ':', quotechar = '"'| EXPECTED:{delimiter = 'semicolon', quotechar = 'doublequote'}
+X[up-to-nov21.csv]: --> Python sniffer detected: delimiter = ':', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
+Error was: Could not determine delimiter
+X [cityList.csv]: --> No result from Python sniffer
++[marc2prodmargin.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[8_14_09.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[core_standard.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[output_for_test_134546012.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[postnummer_liste.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [vista_sec.csv]: --> No result from Python sniffer
++[CMMi_Schema_SQL_mysql_capability_levels.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[mapping.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[gps.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [northeast_raw_blackout_data2.csv]: --> No result from Python sniffer
+Error was: 'utf-8' codec can't decode byte 0xe1 in position 148: invalid continuation byte
+X [translat.csv]: --> No result from Python sniffer
++[PTCAR-GPS.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[attractions.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[d.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [employees.csv]: --> No result from Python sniffer
+X[copyright.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = "'"| EXPECTED:{delimiter = 'tab', quotechar = 'doublequote'}
++[tentative_accounts.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[testdaten.csv]: --> Python sniffer detected: delimiter = ':', quotechar = '"'
++[activity_import.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[users.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[bookworm.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[csvs2xls_test.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[winners_losers_w.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [ResultsKB201101271.csv]: --> No result from Python sniffer
++[lif.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [BigBirdList.csv]: --> No result from Python sniffer
++[plane.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [02b.csv]: --> No result from Python sniffer
++[whs-no-wikipedia.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[M00000015.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[vocab-all-blcu.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[ForAldrin.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[LocalGeocoder_cities.csv]: --> Python sniffer detected: delimiter = '|', quotechar = '"'
++[mst_compositions.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[UCBParse.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[brands.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[valid_001.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[pt_BR.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'| EXPECTED:{delimiter = 'semicolon', quotechar = 'doublequote'}
++[types.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
+Error was: Could not determine delimiter
+X [dane.in.csv]: --> No result from Python sniffer
+Error was: Could not determine delimiter
+X [Taxonomy.csv]: --> No result from Python sniffer
++[invent.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[carriers.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[mushroom.data.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [runData.csv]: --> No result from Python sniffer
+Error was: 'utf-8' codec can't decode byte 0xc8 in position 0: invalid continuation byte
+X [streets.csv]: --> No result from Python sniffer
+X[diff_default_exceptions.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
+X[sent_testfile.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[nielsen-genes.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[activity.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[station_data_1h.csv]: --> Python sniffer detected: delimiter = '\t', quotechar = '"'
++[forbes2000list_for_2011.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[linked-phone.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[input_data.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'| EXPECTED:{delimiter = 'vslash', quotechar = 'doublequote'}
+X[ads.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'| EXPECTED:{delimiter = 'tab', quotechar = 'doublequote'}
++[out.sample.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[toc.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[DJMAX_ONLINE.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[students.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[sample-graphics.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = "'"| EXPECTED:{delimiter = 'tab', quotechar = 'doublequote'}
++[aca_trainers_10102010.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[cm_header_file.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[credentials.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[country-capitals.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'| EXPECTED:{delimiter = 'semicolon', quotechar = 'doublequote'}
+X[typestatus.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = "'"| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[csvtsv01.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[File.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'| EXPECTED:{delimiter = 'tab', quotechar = 'doublequote'}
+Error was: Could not determine delimiter
+X [jmhKlausEnBlocControl092110.csv]: --> No result from Python sniffer
++[attdecode.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[files_2_97130000000_2010_07_01-2010_07_31.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[lognorm_params.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [directories.csv]: --> No result from Python sniffer
+Error was: 'utf-8' codec can't decode byte 0xe9 in position 215: invalid continuation byte
+X [HaitiClinicOrg.csv]: --> No result from Python sniffer
++[as10.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
+Error was: 'utf-8' codec can't decode byte 0x96 in position 115: invalid start byte
+X [seed_data.csv]: --> No result from Python sniffer
++[inventory.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: 'utf-8' codec can't decode byte 0xd5 in position 3752: invalid continuation byte
+X [SCFP2007_codebook.csv]: --> No result from Python sniffer
+Error was: Could not determine delimiter
+X [metronome_10x1_fault.csv]: --> No result from Python sniffer
++[usno.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[cassette_features.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[acl_entries.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [contacts-for-import.csv]: --> No result from Python sniffer
++[aligning.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[testFilenameAgainstPattern.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[ref.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[data1.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[comments-4txt.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [iometeroutput.csv]: --> No result from Python sniffer
++[encoder-devkit.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[dmd_quotes.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[hr_by_team_year_sf_la.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[user_import.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[la_yumba.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[specrows.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[sm1.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
+Error was: Could not determine delimiter
+X [general.csv]: --> No result from Python sniffer
++[HidTEMPer_2011Y4M15D10h51m52s.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[IpToCountry.csv]: --> Python sniffer detected: delimiter = ':', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[people_base.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[testcase-1.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[archive.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[STATE.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[domain_list.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[query.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[movie_answers.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[expenses.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[products.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'singlequote'}
++[primitives_by_release.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: 'utf-8' codec can't decode byte 0xf3 in position 8: invalid continuation byte
+X [c2010a.csv]: --> No result from Python sniffer
++[GeoLiteCity-CountryCodes.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[ctc_mod.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[js_quantile.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[network_dec2010.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[fake-authority-add-tags.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[index_cfi.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[complex.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[cocktails.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[combine.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [Dec10nocal.csv]: --> No result from Python sniffer
+Error was: Could not determine delimiter
+X [firefly_partlist.csv]: --> No result from Python sniffer
++[species.csv]: --> Python sniffer detected: delimiter = ',', quotechar = "'"
++[area.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[bad_country.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[makes_models.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[AltSmallTab.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[locations.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[gridp.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[author_tiers.csv]: --> Python sniffer detected: delimiter = '|', quotechar = '"'
++[sample_talks.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[beer-list.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[countryInfo.csv]: --> Python sniffer detected: delimiter = '\t', quotechar = '"'
++[delimitedFile.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[Guide.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[bewest-history.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[40th_federal_election.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[graphs.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[yankeedoodle.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[foodinfo.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[colleges.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [7languages7weeks.csv]: --> No result from Python sniffer
++[ImportTemplate.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[projects_collected.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[listener-data.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[LCM_Data.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[GCI-2011.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[repeated_fields.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[blocks.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[users_sample.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[address-sample.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[hash.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[private.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[japanese.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[book.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+X [ISO-3166.csv]: --> No result from Python sniffer
++[AAA_batch-metadata-language.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[inquireraugmented_osgood.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[area_codes.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[servers.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[testkm.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[boston_house_prices.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[ballots.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[CNEHPapers.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[avg_sleep_power_temperature.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: 'utf-8' codec can't decode byte 0xdc in position 2344: invalid continuation byte
+X [vorsatz.csv]: --> No result from Python sniffer
+Error was: Could not determine delimiter
+X [currentReport.csv]: --> No result from Python sniffer
++[items.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[DE1_pin_assignments.csv]: --> Python sniffer detected: delimiter = '#', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[supplyItemTest.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[top-10k-2009-03-06.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[3.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[normexport.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [statistics.csv]: --> No result from Python sniffer
++[2008-german-holidays.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[iqbio.pasurvey.workflow.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[target.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[projection.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = '"'
++[for08-rfcd.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[patient.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: 'utf-8' codec can't decode byte 0xc4 in position 105: invalid continuation byte
+X [Highscores.csv]: --> No result from Python sniffer
+Error was: Could not determine delimiter
+X [PWM_pad.csv]: --> No result from Python sniffer
++[contributions.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[Possible_HTT_Proteins.csv]: --> Python sniffer detected: delimiter = '|', quotechar = '"'
++[prt_statuses.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[Babelglossary.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[hn_data.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[Cupid.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[2012-04-07-serial-882-flight-001.csv]: --> Python sniffer detected: delimiter = '#', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[mgrs_index.csv]: --> Python sniffer detected: delimiter = '\t', quotechar = '"'
+Error was: 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+X [Gedenktafeln.csv]: --> No result from Python sniffer
++[bovespa.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[classes.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[price_results-chi-shanghai-2011-04-16_july-travelocity.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[mindapples_20090918_1846.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[cgl-tmlp_all_0.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[lakes.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[score.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = '"'| EXPECTED:{delimiter = 'vslash', quotechar = 'doublequote'}
+Error was: 'utf-8' codec can't decode byte 0xe9 in position 28: invalid continuation byte
+X [latlong.csv]: --> No result from Python sniffer
++[first.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[ComplexWorkbook.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[icons.csv]: --> Python sniffer detected: delimiter = ':', quotechar = '"'
++[import.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [AIC3254_REG.csv]: --> No result from Python sniffer
++[time_entries.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[excavation.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[showcase-cs.csv]: --> Python sniffer detected: delimiter = '=', quotechar = '"'
++[30_belboon_alle.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[enemylist.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[pivotal_tracker.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[azoogle_ads.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[f_5500_2010_first9999.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[ZzaExampleRecords.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[expected.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[ushahidi-haiti-export-may-15.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[friends.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[agency.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[all-reviews.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
+X[ART_PatientCard.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'| EXPECTED:{delimiter = 'semicolon', quotechar = 'doublequote'}
++[ListaProc.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
+X[Formats.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[z.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[AminoAcids.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[plugins_list.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[ukrainian_character_map.csv]: --> Python sniffer detected: delimiter = '\t', quotechar = '"'
++[expenses_2010.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[Mozillapeopleevents.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[contacts.csv]: --> Python sniffer detected: delimiter = ',', quotechar = "'"| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[abook.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[midas_test_1.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[babynamecounts.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[vulnerabilities.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[queryresults.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[test_neighbours.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[nace07.csv]: --> Python sniffer detected: delimiter = '|', quotechar = '"'
++[spreadsheet-example.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[CanonicalBathymetry_H_0.03.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[cognomi_2012.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
+X[templecraft-en-US.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = '"'| EXPECTED:{delimiter = 'eqsign', quotechar = 'doublequote'}
++[henchmen.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[test1_estadisticas.csv]: --> Python sniffer detected: delimiter = '\t', quotechar = '"'
++[metaspring.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[normal.csv]: --> Python sniffer detected: delimiter = ',', quotechar = "'"| EXPECTED:{delimiter = 'semicolon', quotechar = 'doublequote'}
+Error was: 'utf-8' codec can't decode byte 0x84 in position 1406: invalid start byte
+X [mibbi.csv]: --> No result from Python sniffer
++[multipleMentorMentee.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: 'utf-8' codec can't decode byte 0xe1 in position 33: invalid continuation byte
+X [aces4.csv]: --> No result from Python sniffer
++[code-educ.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [1988_k_arc.csv]: --> No result from Python sniffer
++[passwd.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[anatomical_line.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[AllUseCasesOrdered.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = "'"| EXPECTED:{delimiter = 'vslash', quotechar = 'doublequote'}
+Error was: Could not determine delimiter
+X [AudioBTID.csv]: --> No result from Python sniffer
++[TestGridMatch.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[events_20mar-21apr.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[COA_coordinators_02162011.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[b11-expense-data-v2.csv]: --> Python sniffer detected: delimiter = '\t', quotechar = '"'
+Error was: Could not determine delimiter
+X [as_csv.csv]: --> No result from Python sniffer
++[history.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[diseases.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[config.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[cookies.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[bd.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[UsersInfo.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[cancer_survival_rates.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [graypage_tests.csv]: --> No result from Python sniffer
++[mundial-fase1.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[feeds.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[ISO_639-1_codes.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [playerList.csv]: --> No result from Python sniffer
++[drr-b_publications.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[testlog2.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[programs.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[free_games-2011-03-19.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[quiz-questions.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[invalid_must_end_word.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[map.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'| EXPECTED:{delimiter = 'semicolon', quotechar = 'doublequote'}
++[sudoku.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[npc.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[currencies.csv]: --> Python sniffer detected: delimiter = ',', quotechar = "'"| EXPECTED:{delimiter = 'semicolon', quotechar = 'doublequote'}
+Error was: 'utf-8' codec can't decode byte 0xe4 in position 1001: invalid continuation byte
+X [OLED1.csv]: --> No result from Python sniffer
++[tes.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[10in15min-100x100.csv]: --> Python sniffer detected: delimiter = '#', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[ppg2008.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[CSVReaderTest.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
+Error was: Could not determine delimiter
+X [RolapResultTest.csv]: --> No result from Python sniffer
++[resources.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[farm-to-city-philidelphia.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[regions.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: 'utf-8' codec can't decode byte 0xf4 in position 1078: invalid continuation byte
+X [info.csv]: --> No result from Python sniffer
++[rdfschema-payment.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [object.csv]: --> No result from Python sniffer
++[consigners.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[small-gmail-to-outlook.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[country_boundingboxes.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[alphabets.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = "'"| EXPECTED:{delimiter = 'semicolon', quotechar = 'doublequote'}
++[par_csv.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[pubs.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[benutzer.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[lala.csv]: --> Python sniffer detected: delimiter = '\t', quotechar = '"'
++[language.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[summary.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[components-license-overview.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[kiwifruit.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[strings.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: 'utf-8' codec can't decode byte 0xe9 in position 54: invalid continuation byte
+X [stringtable.csv]: --> No result from Python sniffer
+Error was: Could not determine delimiter
+X [add_profile.csv]: --> No result from Python sniffer
++[example_puzzles.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[blank_lines.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: 'utf-8' codec can't decode byte 0xe4 in position 8: invalid continuation byte
+X [csv-future.csv]: --> No result from Python sniffer
++[librarything.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [basicStatsTestTimers.csv]: --> No result from Python sniffer
++[test_comments_raw.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[Gouldoutput.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[jos_assets.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'singlequote'}
++[uscities.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[budget.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[zip_code_database.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[template.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[tutorial.csv]: --> Python sniffer detected: delimiter = '&', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
+Error was: Could not determine delimiter
+X [aircraft.csv]: --> No result from Python sniffer
++[yubin.csv]: --> Python sniffer detected: delimiter = '\t', quotechar = '"'
++[Skills.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[2011-07-03_us.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[invalid_taxa.csv]: --> Python sniffer detected: delimiter = '|', quotechar = '"'
++[address_cleanups-example.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[gsi_adresser_og_elevtall_2010.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[rc_encode.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[outlook_contacts.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[links.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[eventspaces.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[active_merchant.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[forecasts.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[crime_incidents_current_csv.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[glasgow-1881-82.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[routingzones.csv]: --> Python sniffer detected: delimiter = '\t', quotechar = '"'
+Error was: 'utf-8' codec can't decode byte 0xe1 in position 2: invalid continuation byte
+X [ahoj.csv]: --> No result from Python sniffer
+X[iconbar-hermes.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = "'"| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
+Error was: 'utf-8' codec can't decode byte 0xe9 in position 5324: invalid continuation byte
+X [registry.csv]: --> No result from Python sniffer
+Error was: Could not determine delimiter
+X [new.csv]: --> No result from Python sniffer
+Error was: 'utf-8' codec can't decode byte 0x92 in position 1572: invalid start byte
+X [monqi_classes_export.csv]: --> No result from Python sniffer
++[attributes.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[bats.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[shipping_list.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[orders.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[gdoc.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[factor_info.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[00-georegion.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [LOGS__2010-05-19-0300.csv]: --> No result from Python sniffer
++[palestras.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[F040565.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[adtable.csv]: --> Python sniffer detected: delimiter = '\t', quotechar = '"'
+Error was: 'utf-8' codec can't decode byte 0xeb in position 166: invalid continuation byte
+X [csvtranslations022012.csv]: --> No result from Python sniffer
++[us.csv]: --> Python sniffer detected: delimiter = '\t', quotechar = '"'
++[SdkMasterLog.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[picasso.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'| EXPECTED:{delimiter = 'tab', quotechar = 'doublequote'}
++[week44.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[find_my_nearest_data.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[ctoolsAllCases.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[bus-data.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[explanations.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[orr.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[db_general.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[kindle-uart.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
+Error was: Could not determine delimiter
+X [arquivo.csv]: --> No result from Python sniffer
++[extensions.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[01_some_data.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[mmusculus_ncbi36_ensemblgene.txt.csv]: --> Python sniffer detected: delimiter = '\t', quotechar = '"'
+X[surfing_data.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = "'"| EXPECTED:{delimiter = 'semicolon', quotechar = 'doublequote'}
++[urls-horizontal-test.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[cty.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[MLB_Teams.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [door.csv]: --> No result from Python sniffer
+Error was: Could not determine delimiter
+X [system_pad.csv]: --> No result from Python sniffer
++[methane.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[KFP-2000-2009.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[HS_vs_Control_proteins.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[ec_expert_group_individual_members.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[model.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[glass.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: 'utf-8' codec can't decode byte 0xa8 in position 340: invalid start byte
+X [epcp_database.csv]: --> No result from Python sniffer
++[bakers.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
+Error was: Could not determine delimiter
+X [authorities.csv]: --> No result from Python sniffer
++[HouseHoldTrends.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: 'utf-8' codec can't decode byte 0xfe in position 0: invalid start byte
+X [utf-16.csv]: --> No result from Python sniffer
++[arabic_snippet.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [client_phones.csv]: --> No result from Python sniffer
++[post_list.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [backup_targets.csv]: --> No result from Python sniffer
++[medals.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[sunnybeam.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
+X[NephrineMedianThresh.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'| EXPECTED:{delimiter = 'semicolon', quotechar = 'doublequote'}
++[source-en.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[manyou_utf8.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[import_issue_template.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
+Error was: 'utf-8' codec can't decode byte 0xd3 in position 0: invalid continuation byte
+X [TAFishConfiguration.csv]: --> No result from Python sniffer
++[basic.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [ti-drv8824_8825.csv]: --> No result from Python sniffer
++[cleaned_up_mars_rover_seed_data.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[protected.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[quotes.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[timesheet.10.2009.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[Endgame.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[ftest.csv]: --> Python sniffer detected: delimiter = '\t', quotechar = '"'
++[java-competencies-data.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[kms-properties.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[build.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[kipr-country-count.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = '"'
++[PropertyList.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
+Error was: Could not determine delimiter
+X [bus_routes.csv]: --> No result from Python sniffer
++[attractions-churches.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[AdieHWCodec.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [args.csv]: --> No result from Python sniffer
++[download_results.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[ru_RU.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[Modules.csv]: --> Python sniffer detected: delimiter = '\t', quotechar = '"'
++[NAVTEX_Stations.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[tags.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[agencies.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[ipv4-address-space.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [publish.csv]: --> No result from Python sniffer
+Error was: Could not determine delimiter
+X [phrasen.csv]: --> No result from Python sniffer
+Error was: Could not determine delimiter
+X [arena.csv]: --> No result from Python sniffer
++[IN.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[fdic.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[Application.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
+X[csv_example.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'| EXPECTED:{delimiter = 'semicolon', quotechar = 'doublequote'}
+Error was: 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+X [csv_template.csv]: --> No result from Python sniffer
++[schools.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[RegulationMatrix_Documented_20091117_131_1479138127.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'| EXPECTED:{delimiter = 'semicolon', quotechar = 'doublequote'}
++[export_1.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[gt_datum.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[CPIOM_ICDcompleted.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[irisdata.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[temp_eight.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[translations.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[CalculusComponents.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[tinySearch.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[JeannieProperties.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[Announcements.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[simulchart_20110715_0243.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[organisations.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[supercali_import_template.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[confitem.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [KOATUU_072011.csv]: --> No result from Python sniffer
++[cnx22-XE133-XE131M-XE133M.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[compartments0.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[pysolar_v_usno.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[bbc_to_twfy.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [dm_grouppoints.csv]: --> No result from Python sniffer
++[COUNTRIES-EN.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
+Error was: Could not determine delimiter
+X [core.csv]: --> No result from Python sniffer
++[sim.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = '"'
+X[pull_requests.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = "'"| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[citymap.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[04hour.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[sy-export.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
+Error was: 'utf-8' codec can't decode byte 0xba in position 11: invalid start byte
+X [2011-05-13.csv]: --> No result from Python sniffer
++[consultation-template.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[highlights.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[ibge_cidades_brasil.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: 'utf-8' codec can't decode byte 0xfa in position 6292: invalid start byte
+X [email_graph.csv]: --> No result from Python sniffer
+Error was: Could not determine delimiter
+X [results4A3I.csv]: --> No result from Python sniffer
+Error was: Could not determine delimiter
+X [rswn-print-everything.csv]: --> No result from Python sniffer
++[intro.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[thirukural.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[gmail.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[dups-same-file.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'| EXPECTED:{delimiter = 'vslash', quotechar = 'doublequote'}
+X[sample.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
+Error was: Could not determine delimiter
+X [kernel_api.csv]: --> No result from Python sniffer
++[canabalt_scores_with_username_and_timestamp.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[bones.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[networks.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[unused_css_selectors.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[bird-houses.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[grid.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = '"'
++[biowiki.table.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[DE2_pin_assignments.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[postcodes.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[bcc_data_3-249.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[banks.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[FRBRooFinal.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: 'utf-8' codec can't decode byte 0x98 in position 62: invalid start byte
+X [ke-tai_list.csv]: --> No result from Python sniffer
+X[status.csv]: --> Python sniffer detected: delimiter = ',', quotechar = "'"| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
+Error was: Could not determine delimiter
+X [commbrd.csv]: --> No result from Python sniffer
++[translation_data.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[expeditures-formatted.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[g3_teach.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[install.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[cells.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[restaurants.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[intc.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[values.csv]: --> Python sniffer detected: delimiter = ',', quotechar = "'"
++[MyList.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[something-cool.csv]: --> Python sniffer detected: delimiter = ':', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[addressbook.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[rgb.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[MRMessages.csv]: --> Python sniffer detected: delimiter = '\t', quotechar = '"'
+Error was: 'utf-8' codec can't decode byte 0xef in position 4193: invalid continuation byte
+X [ConnectionProfiles.csv]: --> No result from Python sniffer
+Error was: Could not determine delimiter
+X [duck_hunt_pad.csv]: --> No result from Python sniffer
++[classwork10.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[cogip.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'| EXPECTED:{delimiter = 'semicolon', quotechar = 'doublequote'}
++[adverbs.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[StatisticalData.0.csv]: --> Python sniffer detected: delimiter = '\t', quotechar = '"'
+Error was: Could not determine delimiter
+X [db.csv]: --> No result from Python sniffer
++[view_cabinet.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[es.csv]: --> Python sniffer detected: delimiter = '%', quotechar = "'"| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[ruleTable.csv]: --> Python sniffer detected: delimiter = '|', quotechar = '"'
++[hamster_carcinogenicity.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[coverage.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[receiver.bom.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[2011-02-west-midlands-street.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[association.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[2010_october_clean.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[intrinsics.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'grave_accent'}
++[11.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = '"'
++[OLDcountriesregions.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
+Error was: Could not determine delimiter
+X [common.csv]: --> No result from Python sniffer
++[auto-mpg-modified.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[cdh_download_01_21_2010.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[act.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[ws2812.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[transaction_list.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [Enchantments.csv]: --> No result from Python sniffer
++[1985_2009mpg10282009.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[kunden.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[contact_csv_import_one_error.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[books-catalogue.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[test-columnar.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[tginfo.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[luigi_shortcut_configuration.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[basket-1.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[addons-sheet.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[testboxcsv.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [kabupaten.csv]: --> No result from Python sniffer
++[PVS-CRP.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[TheMarker.candidates20.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [simulwfc.csv]: --> No result from Python sniffer
+Error was: Could not determine delimiter
+X [data_manager_ones.csv]: --> No result from Python sniffer
++[1000.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[action-goal.csv]: --> Python sniffer detected: delimiter = ',', quotechar = "'"| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[adresy.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [testreport.csv]: --> No result from Python sniffer
++[minimal_data.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [exported_pin_input1.csv]: --> No result from Python sniffer
+Error was: 'utf-8' codec can't decode byte 0x9a in position 2118: invalid start byte
+X [DB_Germany_Sample.csv]: --> No result from Python sniffer
++[weekdays.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[agnt_db.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[latest_tarball.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[landfills.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[titledata.csv]: --> Python sniffer detected: delimiter = '|', quotechar = '"'
++[example-linebreaks-in-cells.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[Customer_list-12_01_2009_09-20.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[event_list.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[gruppe_ca5_kb1.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[hw3stats.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[all.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'| EXPECTED:{delimiter = 'tab', quotechar = 'doublequote'}
++[respaldo.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[blacklist.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[email_list.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[ts.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[main.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'| EXPECTED:{delimiter = 'eqsign', quotechar = 'doublequote'}
++[national-issues.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[poblacion.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[gene_list.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[topics.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[processed.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[COBRAD0.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[SP_training_data_Q1_w_dpriceQ2.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[ethernet-bus-reconnect.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[ie_data.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[Seq1.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'| EXPECTED:{delimiter = 'semicolon', quotechar = 'doublequote'}
++[marks.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[MNI-BAs-6239-voxels.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[stop_times_r.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [cycling-map-features.csv]: --> No result from Python sniffer
++[dic.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[twins.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [elchaschab.csv]: --> No result from Python sniffer
+Error was: 'utf-8' codec can't decode byte 0xe5 in position 2: invalid continuation byte
+X [complete.csv]: --> No result from Python sniffer
++[NamedCharacters.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[commands.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[primes_to_750000.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[daten.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[MM_CatalogVisibility.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[books.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: 'utf-8' codec can't decode byte 0xfe in position 370: invalid start byte
+X [2_11_BilledCallDetails.csv]: --> No result from Python sniffer
++[csa_latlon.csv]: --> Python sniffer detected: delimiter = '\t', quotechar = '"'
++[Facilities.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[delegacias.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[dosefactors_external_air.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[chisel.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [Cabins.csv]: --> No result from Python sniffer
++[participants.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[kerg.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[large.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[8.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[ratings.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[temp.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[365DCLP.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [record_labels.csv]: --> No result from Python sniffer
+Error was: Could not determine delimiter
+X [udp-flood-packet-counts.csv]: --> No result from Python sniffer
++[experimenter1.csv]: --> Python sniffer detected: delimiter = ',', quotechar = "'"
++[mindstream_sample.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[blog_entry.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[2010-feb.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[shortcuts.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = '"'| EXPECTED:{delimiter = 'vslash', quotechar = 'doublequote'}
+Error was: 'utf-8' codec can't decode byte 0xee in position 200: invalid continuation byte
+X [volcano.csv]: --> No result from Python sniffer
++[testers.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[energyConsumption.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'| EXPECTED:{delimiter = 'semicolon', quotechar = 'doublequote'}
++[card_list.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[my_new_csv.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[sample_eventitems.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[Pepper_mutants.csv]: --> Python sniffer detected: delimiter = '\t', quotechar = '"'
++[german_1.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[todocsv.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [profiler.csv]: --> No result from Python sniffer
++[us_zip_codes.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: 'utf-8' codec can't decode byte 0x83 in position 2491: invalid start byte
+X [iTunesMusic.csv]: --> No result from Python sniffer
++[import_sample.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[seekpoints.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[catalog.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[transactions.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'| EXPECTED:{delimiter = 'semicolon', quotechar = 'doublequote'}
++[talks.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[reg_codes.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[rssfeeds.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[lp-cached.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[test-csv.csv]: --> Python sniffer detected: delimiter = ',', quotechar = "'"| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[1234567_offer_min.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[contact-addresses.csv]: --> Python sniffer detected: delimiter = '#', quotechar = '"'| EXPECTED:{delimiter = 'semicolon', quotechar = 'doublequote'}
++[3533-rst-csv-tables.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[links_doc.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[pg_settings.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
+Error was: Could not determine delimiter
+X [cs.csv]: --> No result from Python sniffer
++[PCB_trace-via_specs.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[analy.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[depends_1736.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[durden_saucer.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
+Error was: 'utf-8' codec can't decode byte 0xa0 in position 2: invalid start byte
+X [top5000.csv]: --> No result from Python sniffer
++[words.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[counties_90-to-110.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[popplace.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[animal.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[CDRImport-2015-10-26.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[productos.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[file1.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [prod.csv]: --> No result from Python sniffer
++[IndustryPortfolios.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [html_color_families.csv]: --> No result from Python sniffer
+Error was: 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+X [trail.csv]: --> No result from Python sniffer
++[posts.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[IAEA_Nuclear_Facilities.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[LeaderVolumeNoCommunicationLowGroupSize.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[eskrim.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[LandonlineCharSet.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[instructions.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[se-2010-01-27.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[owners.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[GeoPC_DE.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[savivaldybes.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[realty_fields.csv]: --> Python sniffer detected: delimiter = '\t', quotechar = '"'
++[multicolumnexample.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[graph4b.ent.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = '"'
+Error was: Could not determine delimiter
+X [videotags.csv]: --> No result from Python sniffer
+Error was: Could not determine delimiter
+X [acrobatReaderInstallTimes.csv]: --> No result from Python sniffer
++[conversion_17_to_18.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[sp500-March-19-2010.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[commonprefix.txt.parsetable.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [barris_barcelona_1_part_1.csv]: --> No result from Python sniffer
++[zipnov99.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[Lyndebrook.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[2008-05-22.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[dodgers_2010_schedule.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[agelist.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[TestScripts.1.16.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[Blog.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[prd-tasks.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[market_comments_template.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[ACIDGlide-CellData.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[ceooffice.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[hit-data-1.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[full_feed.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[appa.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[haproxy.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[time_entries_20110510_164432.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[lacounty.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[Australian_Post_Codes_Lat_Lon.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[Sample_report-2014-02-27_20-25-45.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[assignment_title_list.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [lang_de.csv]: --> No result from Python sniffer
++[all.utilities.awwa.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[wplicenses.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[image_formats.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[all_codes.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[stolenvehicles.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[20110405_114202_8827488360.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
+X[csv_ingestion.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[Metrof_FBConnect.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[pids.csv]: --> Python sniffer detected: delimiter = ':', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[country.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[Legacies_User.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[DigitalDownloadTest.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[check.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[zip_codes_cities_counties.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[geo_distance.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[excel_data.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[ip-log.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[CPH_data.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[export.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[astra.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[pizza.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[test_urls.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[aggregate_100users_10sec.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [2d-grid-data--incomplete.csv]: --> No result from Python sniffer
++[test_users1.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: 'utf-8' codec can't decode byte 0xe8 in position 19: invalid continuation byte
+X [Models.csv]: --> No result from Python sniffer
++[benchresults.csv]: --> Python sniffer detected: delimiter = '\t', quotechar = '"'
++[hrdata.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[Durchschnittliche_Verteilung_der_Aminoaeuren.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[HouseTppByPollingPlaceDownload-15508.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[ipfix-information-element-data-types.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[_out_.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[ChatProfanity.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: 'utf-8' codec can't decode byte 0xe8 in position 20: invalid continuation byte
+X [groups.csv]: --> No result from Python sniffer
+Error was: Could not determine delimiter
+X [single_bounced_subscriber.csv]: --> No result from Python sniffer
++[elecProtoSurveyResponses.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[exchanges.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[Flagbit_Securepassword.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [compare.csv]: --> No result from Python sniffer
++[1mar2011.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[201107_transmitter_listing.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[attendance.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[Experiment1.csv]: --> Python sniffer detected: delimiter = ',', quotechar = "'"
++[kenpom_2016.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[idioms.csv]: --> Python sniffer detected: delimiter = ':', quotechar = '"'
++[iso3166-3.csv]: --> Python sniffer detected: delimiter = '\t', quotechar = '"'
++[all-classes.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[repolist.csv]: --> Python sniffer detected: delimiter = ';', quotechar = "'"
++[bestPaths.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[example_formatted.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[ladysmith_schedule-2011.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [test_samples.csv]: --> No result from Python sniffer
+Error was: Could not determine delimiter
+X [F24.csv]: --> No result from Python sniffer
++[mn_world.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[migrate-disqus.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[lilypond-issues-analysis-trim-duplicates.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [patch-freebsd_events.csv]: --> No result from Python sniffer
++[bnkseek.csv]: --> Python sniffer detected: delimiter = '|', quotechar = "'"
++[criteria.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: 'utf-8' codec can't decode byte 0x93 in position 1819: invalid start byte
+X [prices.csv]: --> No result from Python sniffer
+Error was: Could not determine delimiter
+X [receiver_3.csv]: --> No result from Python sniffer
+Error was: 'utf-8' codec can't decode byte 0x92 in position 4980: invalid start byte
+X [sample_products.csv]: --> No result from Python sniffer
+Error was: Could not determine delimiter
+X [3domains.csv]: --> No result from Python sniffer
++[easylife_mapping.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[locationtags.csv]: --> Python sniffer detected: delimiter = ',', quotechar = "'"
++[LM3S828-pins.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[12.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[authors.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = "'"| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
+Error was: 'utf-8' codec can't decode byte 0xd1 in position 415: invalid continuation byte
+X [Faculty_data.csv]: --> No result from Python sniffer
++[FakeOsd.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[busstops.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[items-custom.csv]: --> Python sniffer detected: delimiter = '#', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[adressen.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[catalog_ref.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[susp-ignored.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[terms.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[ASXListedCompanies.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[mayu_FDR_analysis.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[patients.gender.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[credit-g.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: 'utf-8' codec can't decode byte 0xb0 in position 140: invalid start byte
+X [cliente.csv]: --> No result from Python sniffer
++[dataset-hugo_final.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[unique_stops.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[david_camerons_meetings.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[unicodeSymbols.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[mlbplayers-good.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[doe_jgi_list.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[test-spreadsheet-for-csv-blank-row.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[lambda-0.1.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = '"'
++[BusRoutes-1.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[autoroutes.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[batch_mascot.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [partition_rpt.csv]: --> No result from Python sniffer
++[_report_20091119_012438.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[australia.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[councils.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'| EXPECTED:{delimiter = 'nsign', quotechar = 'doublequote'}
++[HaitiHealthFacilities_Master2.csv]: --> Python sniffer detected: delimiter = '\t', quotechar = '"'
++[countryhood.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[EADExamples.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[FlexAccount_expected_output.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[app_stat.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[airlines.out.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [example-data-bad.csv]: --> No result from Python sniffer
++[sample_clearcats_investigator_upload_file.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[gimp.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[Mon-Thurs-North.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[eBird_Taxonomy_v2016.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[numbers.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [dude.Symbols.csv]: --> No result from Python sniffer
++[test1.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[pc-full_20100330.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[de_DE.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[rawdata.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[Element.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [num-mscc-undir.csv]: --> No result from Python sniffer
+Error was: Could not determine delimiter
+X [neutralLoss.csv]: --> No result from Python sniffer
++[badge.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[box_categories.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[insurances.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[train.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [net_cfg_2BitAddierer.csv]: --> No result from Python sniffer
++[polyglot-errors.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[bad_escape.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[arra.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[alu-abs-pass.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[911_1000.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[tab1.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[game_history.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[614137015-logs.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[t.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[1_Sharima.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[samples.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[docs.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[textfile.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[w.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[Pyroprints.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[region_adjacency_matrix.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = '"'
++[budget_items.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[DataDrivenSample.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[Countries-Africa.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: 'utf-8' codec can't decode byte 0xf8 in position 0: invalid start byte
+X [analitics.csv]: --> No result from Python sniffer
++[itt_sample_data-two_factor.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[isco.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[2014_Soc_Changes.csv]: --> Python sniffer detected: delimiter = '\t', quotechar = '"'
+Error was: Could not determine delimiter
+X [gender.csv]: --> No result from Python sniffer
+Error was: Could not determine delimiter
+X [gameplays.csv]: --> No result from Python sniffer
+Error was: Could not determine delimiter
+X [main_pad.csv]: --> No result from Python sniffer
++[broken-csv-for-parsing.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[brain_size.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[Tostan2.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: 'utf-8' codec can't decode byte 0xa1 in position 262: invalid start byte
+X [Access_Point-AP.csv]: --> No result from Python sniffer
++[aimee.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[banks_year.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[iso4217.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[MARINE_TRAFFIC_DUMP.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[lugares.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [cinch_start.csv]: --> No result from Python sniffer
++[apps_list.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[sample_spreadsheet.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[WIID2C.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[timing.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = "'"| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[canBLC_BOM.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[morts.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[JV_newsite_IBC_current_20110517.csv]: --> Python sniffer detected: delimiter = ',', quotechar = "'"
++[cardiac.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = '"'
++[aal.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[correct_class.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: 'utf-8' codec can't decode byte 0xfc in position 684: invalid start byte
+X [VHVO_Kapitel.csv]: --> No result from Python sniffer
+Error was: Could not determine delimiter
+X [events.csv]: --> No result from Python sniffer
++[AudioPara4-sapphire.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[donnees.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = '"'| EXPECTED:{delimiter = 'vslash', quotechar = 'doublequote'}
++[radiohead_data_frame2.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[QuestionaireResults.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[Pharmacy-Finder.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[perlsurvey2007.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[ORGS_Strediska.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[comma-delimited.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[access-log-throughput.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[atleti_laceno.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[spanish_countries.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[presidents.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[csv.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'| EXPECTED:{delimiter = 'semicolon', quotechar = 'doublequote'}
++[kenp.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[format.csv.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[test_with_empty_column_names.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[1.3.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[BEC_HIT_ANALYSIS.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[dbsnam-utf8.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[ingredients_rename.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[raw_58_house.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[cars.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[MyLastLoad.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[analyst.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[buchung.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[zillow_statistical_areas_errata.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [11111-0001.csv]: --> No result from Python sniffer
++[linodef_bueditor_button.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[incomplete.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [log.csv]: --> No result from Python sniffer
++[kali-freund-cell-file.csv]: --> Python sniffer detected: delimiter = '\t', quotechar = '"'
+Error was: Could not determine delimiter
+X [stoplist.csv]: --> No result from Python sniffer
+Error was: 'utf-8' codec can't decode byte 0xb0 in position 71: invalid start byte
+X [MSH_PLOT_DESCRIPTORS.csv]: --> No result from Python sniffer
++[CPU.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[testUShipData.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[diagram.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[BD_ORPAN.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[committees.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[atmega_devices.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [profiler_output_v1.csv]: --> No result from Python sniffer
+X[shady_hoodz.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = '"'| EXPECTED:{delimiter = 'vslash', quotechar = 'doublequote'}
++[importer_sample.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[assets.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[ZNArrayCsvParserTest.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[create_users_template.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[pinout_lpqf_144.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[manual_stops.csv]: --> Python sniffer detected: delimiter = '\t', quotechar = '"'
++[answer.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[subscriptions.csv]: --> Python sniffer detected: delimiter = ':', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[2018EventTicketPromotionPrice.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [subjects_categories_wok.csv]: --> No result from Python sniffer
++[Fulcrum_Import_Template.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[files.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[DatumTransformationToWGS84Parameters.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[Mbid_Magebid.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [AC97Test_pad.csv]: --> No result from Python sniffer
++[proracun_2010.csv]: --> Python sniffer detected: delimiter = '\t', quotechar = '"'
++[notepad.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[cities_fr.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[BP_2009_00A1.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[nyc-open-data.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[kodepos-2008-10-20.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [industries.csv]: --> No result from Python sniffer
++[programming_inventory.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [basic_greek_mapping.csv]: --> No result from Python sniffer
++[ahrs.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[personinfo.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[SITE_SETUP_FILE.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[name.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[cnn_news_stories_for_all.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[bag.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[cereal.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = '"'
++[test_contacts.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[mongodb_rs_init.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[Shot.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[liste_des_prenoms_2004_a_2012.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
+Error was: Could not determine delimiter
+X [conrad_users.csv]: --> No result from Python sniffer
+Error was: Could not determine delimiter
+X [new_order_format.csv]: --> No result from Python sniffer
+Error was: Could not determine delimiter
+X [films.csv]: --> No result from Python sniffer
++[datos_preliminares_censo_2010_argentina.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[EDMD.d01b.csv]: --> Python sniffer detected: delimiter = ':', quotechar = '"'| EXPECTED:{delimiter = 'semicolon', quotechar = 'doublequote'}
++[weeklies.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[asots.dump.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[sectors_export.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[sheet1.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[test_data.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[hockey.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[facturation.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+X [interim_results.csv]: --> No result from Python sniffer
++[input.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: 'utf-8' codec can't decode byte 0xf6 in position 419: invalid start byte
+X [blz.csv]: --> No result from Python sniffer
++[coas02f_dataset_20100831.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[mapfile.csv]: --> Python sniffer detected: delimiter = '#', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[animal_data_details.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[Flagbit_Faq.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[PGC2008.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[EXPEN_IL.csv]: --> Python sniffer detected: delimiter = '\t', quotechar = '"'
++[STEC_O157_model.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[big.lebowski.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = "'"| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[Attrib-Basic-EP-examples.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[coordinate_axis.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[rede-social-pivotal.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[proveedores-laindell.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[tweets.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'| EXPECTED:{delimiter = 'semicolon', quotechar = 'doublequote'}
++[alias.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[latlongdata.csv]: --> Python sniffer detected: delimiter = '\t', quotechar = '"'
++[conf-example.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[suffixDN-test-presidents.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[doxygenTags.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [nf2_top_par_pad.csv]: --> No result from Python sniffer
++[roles.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[book-import.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [diptera.parts.csv]: --> No result from Python sniffer
++[sp500.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[1lap_s50_30_80.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[brasil.B46.13.diff.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[DL-timelog-all.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[Unknown-18-74-110-237.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[peaks_vanja.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[wordCount.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[item.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[gifts_60.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[expected_table.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[sample-ngrams-ar.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[dumplovr.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[nodes.csv]: --> Python sniffer detected: delimiter = ',', quotechar = "'"| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[_books.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[AddressID.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[HourlyHits.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[2009Fall.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [translation-de_DE.csv]: --> No result from Python sniffer
+X[Sample-Spending.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[lca_2015.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[image_sources.csv]: --> Python sniffer detected: delimiter = '#', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
+Error was: Could not determine delimiter
+X [Listup001.csv]: --> No result from Python sniffer
++[branches.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = '"'
+X[congruencia1.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = '"'| EXPECTED:{delimiter = 'vslash', quotechar = 'doublequote'}
++[testdata-dump.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[sample_map.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[rat_king.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[pcecd.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[mychores-sermoa-20070509-202919.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [ECS.kml.csv]: --> No result from Python sniffer
++[4438643942.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[ProductPages.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[garmin_feature_list.csv]: --> Python sniffer detected: delimiter = '|', quotechar = '"'
+Error was: Could not determine delimiter
+X [Operators.csv]: --> No result from Python sniffer
++[condenados1.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[DLBCL.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[ca.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'| EXPECTED:{delimiter = 'semicolon', quotechar = 'doublequote'}
++[countries_lang.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [isbn_list.csv]: --> No result from Python sniffer
++[songs.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[phonography_lib.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[constants.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: 'utf-8' codec can't decode byte 0xae in position 2080: invalid start byte
+X [castine-cemetery.csv]: --> No result from Python sniffer
++[node.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[na_colors.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[token.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[E2.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[SampleFile.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[July2011Updates.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[badcoordinators.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[allFilenames.csv]: --> Python sniffer detected: delimiter = ':', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[deck.csv]: --> Python sniffer detected: delimiter = ';', quotechar = "'"
+Error was: Could not determine delimiter
+X [bicluster_0022.csv]: --> No result from Python sniffer
++[versions.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [1.fail.csv]: --> No result from Python sniffer
++[bamf-comma-comma.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[BrandDiscovered.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[test0.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[rails.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: 'utf-8' codec can't decode byte 0xa3 in position 4867: invalid start byte
+X [dataid.csv]: --> No result from Python sniffer
++[UIUC_Honey_bee_oligo_13K_v1.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
+Error was: Could not determine delimiter
+X [uris.csv]: --> No result from Python sniffer
+Error was: Could not determine delimiter
+X [category.csv]: --> No result from Python sniffer
++[movies.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[acroleague.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: 'utf-8' codec can't decode byte 0xd1 in position 73: invalid continuation byte
+X [maestro.csv]: --> No result from Python sniffer
+Error was: Could not determine delimiter
+X [Offer_Grid_v2.csv]: --> No result from Python sniffer
+X[DemoBayern.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'| EXPECTED:{delimiter = 'semicolon', quotechar = 'doublequote'}
+X[city.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'| EXPECTED:{delimiter = 'semicolon', quotechar = 'doublequote'}
++[dlp2232m.csv]: --> Python sniffer detected: delimiter = '\t', quotechar = '"'
++[mobility_sample.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[testout.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[elec_nuclear.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[csv57415.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [dna-to-amino-acid.csv]: --> No result from Python sniffer
++[pawn_0_spiral_oscoutput.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[hack_entries.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [conditions.csv]: --> No result from Python sniffer
+Error was: 'utf-8' codec can't decode byte 0xe1 in position 237: invalid continuation byte
+X [enarm-2007.csv]: --> No result from Python sniffer
++[improvs.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[MOAD_dataset.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[oc_cci.South_Pacific_Gyre.csv]: --> Python sniffer detected: delimiter = '\t', quotechar = '"'
++[geo_data.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[wsdemo_import_moodle.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[preise.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[allagash_exp_files.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[fig6_data.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[fuw1.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = '"'| EXPECTED:{delimiter = 'semicolon', quotechar = 'doublequote'}
++[Language_codes_ISO_639-1.csv]: --> Python sniffer detected: delimiter = '\t', quotechar = '"'
++[stats-1.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [level.csv]: --> No result from Python sniffer
++[buerger.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[restaurants-de.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = '"'| EXPECTED:{delimiter = 'vslash', quotechar = 'doublequote'}
+X[demographics-blue.csv]: --> Python sniffer detected: delimiter = '^', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[order.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[compressed-speed-distance-records.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[file_classification.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [time_now_twice.csv]: --> No result from Python sniffer
++[crs-to-tiploc.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[bulkmpg.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[dummyData.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[layout_schema_enumerations.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[testdata.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[PositionRoleDuty.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[fr.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[countrynames.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [motor_control_pad.csv]: --> No result from Python sniffer
++[alert.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: 'utf-8' codec can't decode byte 0xf6 in position 155: invalid start byte
+X [Katalog-Book-Tester.csv]: --> No result from Python sniffer
+Error was: 'utf-8' codec can't decode byte 0x8e in position 2036: invalid start byte
+X [artists.csv]: --> No result from Python sniffer
++[iso_countries.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
+Error was: 'utf-8' codec can't decode byte 0x83 in position 0: invalid start byte
+X [plan_sample.csv]: --> No result from Python sniffer
++[bundeshaushalt_2012.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[sample.barcodes.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[glasgow-veggie.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[timeseries.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'| EXPECTED:{delimiter = 'vslash', quotechar = 'doublequote'}
++[minimal_scene.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [next_q.csv]: --> No result from Python sniffer
++[blank_csv.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[arches.0.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[tblDistributors.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[data_test.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[marin_demographics_code_sets.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[OutputOfBiGramModel.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[ken.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+X [_Bieumau-DKMH.csv]: --> No result from Python sniffer
+Error was: 'utf-8' codec can't decode byte 0xe9 in position 47: invalid continuation byte
+X [exemple.csv]: --> No result from Python sniffer
++[CbcSourceFilesTable.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [expanded_rate_matrix.csv]: --> No result from Python sniffer
++[cosmicpanda.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[reordering_speed.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[mta_subway_info.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[mimetypes.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[livemail_de.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[scandal_tour.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [practica1_pad.csv]: --> No result from Python sniffer
++[judgedonations.csv]: --> Python sniffer detected: delimiter = '|', quotechar = '"'
+Error was: Could not determine delimiter
+X [res-5.csv]: --> No result from Python sniffer
++[kenwood-ts480.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[eplusoutMeter.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[test-csv-graph-c135.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: 'utf-8' codec can't decode byte 0xd4 in position 0: invalid continuation byte
+X [load_fund_structure_data.csv]: --> No result from Python sniffer
+Error was: 'utf-8' codec can't decode byte 0xa0 in position 464: invalid start byte
+X [open-site-list-jul-2011.csv]: --> No result from Python sniffer
++[sample_city_data.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[2006.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[dtslist.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[dsa.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[kroger_scs_feed.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[SUB-EST2009-IP.UTF-8.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[upload.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[Stats_out_MCMC_correct_prob.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: 'utf-8' codec can't decode byte 0xa1 in position 3496: invalid start byte
+X [ginger_users.csv]: --> No result from Python sniffer
++[soil_natures.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[pfif-1.2-example-long.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[export_cabinet_2_Contact.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[10000_business_triples.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[hazards.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+X[himia.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = '"'| EXPECTED:{delimiter = 'semicolon', quotechar = 'doublequote'}
++[no_scheme_to_scheme.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[ElsevierPricelist2010USD.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[11_08_08_biatlon_rollers.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[table_assertion.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[candy.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[fpw_data.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[people.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[ankieta.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[contacts_with_id.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[stores.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[grants.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[browser.csv]: --> Python sniffer detected: delimiter = '|', quotechar = '"'
++[courses.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[metro.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [test_manifest.csv]: --> No result from Python sniffer
+X[uniq_nl_data.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = "'"| EXPECTED:{delimiter = 'nsign', quotechar = 'singlequote'}
++[google.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[sample_tax_rates.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[moves.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[curated_list_dummy.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: 'utf-8' codec can't decode byte 0xf4 in position 6: invalid continuation byte
+X [one-line-with-accents.csv]: --> No result from Python sniffer
+Error was: Could not determine delimiter
+X [comment_csv_test.csv]: --> No result from Python sniffer
++[summary_1000x10.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[municipios.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[allocations.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[test_file_server.csv]: --> Python sniffer detected: delimiter = ';', quotechar = '"'
++[nearmap.csv]: --> Python sniffer detected: delimiter = '\t', quotechar = '"'
++[shelters.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+Error was: Could not determine delimiter
+X [few-points.csv]: --> No result from Python sniffer
++[table1.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[02_02_kiwipycon_wifi_details.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[airport_codes_with_geo_name_ids_and_nl_names-2008-04-14.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[metricData.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[browscap_14_05_2012.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[always_hit.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[Slot2007.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
++[input-test.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
+[Passed test ratio]--: 81.0854%
+[Delimiter ratio]--: 81.784%
+[Failure ratio]--: 14.8284%
+[Elapsed time]--: 3.26 seconds
+<---------------------------------------------------------------------------------------->
+True Positive (TP): 1509
+False Positive (FP): 352
+False Negative (FN): 324
+#
+Precision (P): 0.8109
+Recall (R): 0.8232
+F1 score: 0.817
+Weighted F1 score for 2185 files: 1232.8529999999998

@@ -55,7 +55,7 @@ Error was: 'utf-8' codec can't decode byte 0xf3 in position 0: invalid continuat
 X [2_18-05-2011-17-21-59_0.csv]: --> No result from CleverCSV
 +[unemploy.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
 +[paperpile.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
-X[ads_classic_queries.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
+X[ads_classic_queries.csv]: --> CleverCSV detected: delimiter = '^', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
 +[exit.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
 +[af.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
 X[results.csv]: --> CleverCSV detected: delimiter = '\t', quotechar = "'"| EXPECTED:{delimiter = 'tab', quotechar = 'doublequote'}
@@ -87,7 +87,7 @@ X [shops.csv]: --> No result from CleverCSV
 +[tentative_accounts.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
 +[cassette_features.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
 +[iometeroutput.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
-X[general.csv]: --> CleverCSV detected: delimiter = '', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[general.csv]: --> CleverCSV detected: delimiter = '', quotechar = ''
 +[GPU_rod_1_metrica.csv]: --> CleverCSV detected: delimiter = ';', quotechar = '"'
 +[products.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
 +[index_cfi.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
@@ -162,7 +162,7 @@ X[isco.csv]: --> CleverCSV detected: delimiter = ';', quotechar = ''| EXPECTED:{
 +[orig_data.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
 +[timing.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
 +[JV_newsite_IBC_current_20110517.csv]: --> CleverCSV detected: delimiter = ',', quotechar = "'"
-X[events.csv]: --> CleverCSV detected: delimiter = '', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[events.csv]: --> CleverCSV detected: delimiter = '', quotechar = ''
 +[raw_58_house.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
 Error was: local variable 'dialect' referenced before assignment
 X [linodef_bueditor_button.csv]: --> No result from CleverCSV
@@ -195,7 +195,7 @@ X [supplements.csv]: --> No result from CleverCSV
 +[upload.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
 Error was: 'utf-8' codec can't decode byte 0x84 in position 197: invalid start byte
 X [clientes_lujan.csv]: --> No result from CleverCSV
-X[2_ip_test.csv]: --> CleverCSV detected: delimiter = '', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
++[2_ip_test.csv]: --> CleverCSV detected: delimiter = '', quotechar = '"'
 X[uniq_nl_data.csv]: --> CleverCSV detected: delimiter = ' ', quotechar = "'"| EXPECTED:{delimiter = 'nsign', quotechar = 'singlequote'}
 +[awaymanagers-data.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
 X[admins.csv]: --> CleverCSV detected: delimiter = '#', quotechar = ''| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
@@ -203,16 +203,16 @@ Error was: 'utf-8' codec can't decode byte 0xf4 in position 6: invalid continuat
 X [one-line-with-accents.csv]: --> No result from CleverCSV
 +[table1.csv]: --> CleverCSV detected: delimiter = ',', quotechar = ''
 +[metricData.csv]: --> CleverCSV detected: delimiter = ',', quotechar = '"'
-[Passed test ratio]--: 84.3137%
-[Delimiter ratio]--: 86.9281%
+[Passed test ratio]--: 86.2745%
+[Delimiter ratio]--: 88.8889%
 [Failure ratio]--: 14.5251%
-[Elapsed time]--: 1.87 seconds
+[Elapsed time]--: 1.97 seconds
 <---------------------------------------------------------------------------------------->
-True Positive (TP): 129
-False Positive (FP): 24
+True Positive (TP): 132
+False Positive (FP): 21
 False Negative (FN): 26
 #
-Precision (P): 0.8431
-Recall (R): 0.8323
-F1 score: 0.8377
-Weighted F1 score for 179 files: 108.0633
+Precision (P): 0.8627
+Recall (R): 0.8354
+F1 score: 0.8488
+Weighted F1 score for 179 files: 112.0416

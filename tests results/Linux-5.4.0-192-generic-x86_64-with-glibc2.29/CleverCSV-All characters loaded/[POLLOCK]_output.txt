@@ -152,7 +152,7 @@ X [all.csv]: --> No result from CleverCSV
 [Passed test ratio]--: 95.8621%
 [Delimiter ratio]--: 96.5517%
 [Failure ratio]--: 2.027%
-[Elapsed time]--: 195.87 seconds
+[Elapsed time]--: 186.67 seconds
 <---------------------------------------------------------------------------------------->
 True Positive (TP): 139
 False Positive (FP): 6

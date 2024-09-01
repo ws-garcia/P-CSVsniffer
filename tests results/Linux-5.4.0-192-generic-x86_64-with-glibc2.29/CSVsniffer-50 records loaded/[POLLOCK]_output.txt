@@ -129,11 +129,11 @@ X [all.csv]: --> No result from CSVsniffer
 +[Short pipe separated table embedded.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
 +[Batch_3250493_batch_results.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
 +[Copy_of_2016-17_Q3_Final_V2.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
-X[dd_Wickenburg_nobmp_623.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'| EXPECTED:{delimiter = 'semicolon', quotechar = 'doublequote'}
++[dd_Wickenburg_nobmp_623.csv]: --> CSVsniffer detected: delimiter = ';', quotechar = '"'
 +[Table embedded in the second record.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
 +[W44out.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
 +[ResultsOR30x100-0.50_10.dat__m28Infos.csv]: --> CSVsniffer detected: delimiter = ';', quotechar = '"'
-+[testGeometries.txt]: --> CSVsniffer detected: delimiter = ';', quotechar = '"'
+X[testGeometries.txt]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'| EXPECTED:{delimiter = 'semicolon', quotechar = 'doublequote'}
 +[erionite.csv]: --> CSVsniffer detected: delimiter = ';', quotechar = '"'
 +[file_multitable_more.csv]: --> CSVsniffer detected: delimiter = ';', quotechar = '"'
 +[ministry-of-defence__30-09-2012__mod_300912-Air-Govt-data-template-u-senior.csv]: --> CSVsniffer detected: delimiter = ',', quotechar = '"'
@@ -149,7 +149,7 @@ X[dd_Wickenburg_nobmp_623.csv]: --> CSVsniffer detected: delimiter = ',', quotec
 [Passed test ratio]--: 96.5517%
 [Delimiter ratio]--: 96.5517%
 [Failure ratio]--: 2.027%
-[Elapsed time]--: 7.87 seconds
+[Elapsed time]--: 29.37 seconds
 <---------------------------------------------------------------------------------------->
 True Positive (TP): 140
 False Positive (FP): 5

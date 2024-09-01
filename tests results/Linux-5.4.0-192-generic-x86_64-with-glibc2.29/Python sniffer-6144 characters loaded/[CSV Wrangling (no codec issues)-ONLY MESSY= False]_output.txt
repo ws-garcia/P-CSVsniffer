@@ -157,7 +157,7 @@ Error was: Could not determine delimiter
 X [2_ip_test.csv]: --> No result from Python sniffer
 X[uniq_nl_data.csv]: --> Python sniffer detected: delimiter = ' ', quotechar = "'"| EXPECTED:{delimiter = 'nsign', quotechar = 'singlequote'}
 +[awaymanagers-data.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
-X[admins.csv]: --> Python sniffer detected: delimiter = '#', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
+X[admins.csv]: --> Python sniffer detected: delimiter = '%', quotechar = '"'| EXPECTED:{delimiter = 'comma', quotechar = 'doublequote'}
 Error was: 'utf-8' codec can't decode byte 0xf4 in position 6: invalid continuation byte
 X [one-line-with-accents.csv]: --> No result from Python sniffer
 +[table1.csv]: --> Python sniffer detected: delimiter = ',', quotechar = '"'
